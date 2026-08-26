@@ -1,0 +1,1501 @@
+Employee_ID,Age,Gender,Department,Job_Role,Education,Marital_Status,Years_At_Company,Total_Working_Years,Monthly_Income,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Job_Involvement,Overtime,Business_Travel,Training_Times,Distance_From_Home,Attrition,Age_Group
+EMP1000,58,Female,Research & Development,Software Engineer,High School,Single,16,21,92143,2,1,2,3,No,Rarely,2,14,No,50-60
+EMP1001,48,Female,Human Resources,Junior Analyst,PhD,Single,13,13,145623,2,3,2,2,Yes,Rarely,6,10,No,40-49
+EMP1002,34,Female,Finance,Sales Executive,Master,Single,3,15,135013,1,1,2,3,No,Rarely,3,10,No,30-39
+EMP1003,27,Female,Finance,Marketing Specialist,Bachelor,Married,16,22,27016,4,3,3,3,No,Rarely,5,18,No,20-29
+EMP1004,40,Female,Human Resources,HR Executive,Master,Married,16,16,94110,4,2,2,2,Yes,Frequently,2,24,No,40-49
+EMP1005,58,Female,Sales,Data Analyst,High School,Single,11,13,32274,3,4,1,1,Yes,Frequently,0,1,No,50-60
+EMP1006,38,Male,Marketing,Senior Analyst,Bachelor,Single,19,19,40748,3,2,2,3,No,Rarely,2,30,No,30-39
+EMP1007,42,Female,Human Resources,HR Executive,Master,Divorced,17,24,176247,4,4,1,3,No,Never,5,15,No,40-49
+EMP1008,30,Male,Marketing,Marketing Specialist,Master,Married,2,15,36826,2,3,2,1,Yes,Rarely,3,8,No,30-39
+EMP1009,30,Female,IT,Junior Analyst,Master,Married,10,10,108008,2,2,2,1,No,Never,1,35,No,30-39
+EMP1010,43,Female,Finance,Marketing Specialist,Bachelor,Single,17,17,154288,2,4,3,1,No,Rarely,6,18,Yes,40-49
+EMP1011,55,Male,Marketing,Software Engineer,PhD,Divorced,3,12,179562,1,3,1,2,Yes,Never,6,41,Yes,50-60
+EMP1012,59,Female,Research & Development,Sales Executive,High School,Married,16,16,130623,2,4,2,1,No,Rarely,1,16,No,50-60
+EMP1013,43,Female,Marketing,Data Analyst,Master,Single,17,17,164592,1,1,2,2,No,Rarely,4,21,Yes,40-49
+EMP1014,22,Male,IT,Accountant,PhD,Single,4,8,108106,4,1,1,4,Yes,Rarely,3,15,No,20-29
+EMP1015,41,Female,Finance,Software Engineer,Bachelor,Single,13,13,175870,2,3,2,4,No,Rarely,6,5,No,40-49
+EMP1016,21,Female,Human Resources,HR Executive,Master,Single,9,9,79638,2,4,4,1,No,Frequently,4,45,No,20-29
+EMP1017,43,Female,IT,Software Engineer,High School,Married,14,14,94072,3,1,3,1,Yes,Rarely,4,7,No,40-49
+EMP1018,49,Male,Finance,HR Executive,Bachelor,Divorced,0,12,92309,4,2,1,4,Yes,Never,5,48,No,40-49
+EMP1019,57,Female,Marketing,Accountant,Bachelor,Married,15,15,149724,2,4,3,2,Yes,Never,5,7,No,50-60
+EMP1020,21,Female,Sales,Manager,Bachelor,Married,10,20,152843,1,4,4,2,No,Never,5,27,No,20-29
+EMP1021,40,Female,Sales,Data Analyst,PhD,Married,19,19,60326,4,1,4,1,Yes,Never,0,25,Yes,40-49
+EMP1022,52,Female,Research & Development,Senior Analyst,Master,Married,5,17,30079,3,1,4,1,No,Frequently,3,22,No,50-60
+EMP1023,31,Male,Finance,Marketing Specialist,Bachelor,Married,15,15,146412,4,3,1,1,Yes,Never,1,48,No,30-39
+EMP1024,41,Male,Sales,Manager,Master,Single,1,21,112340,1,4,4,4,No,Never,3,13,No,40-49
+EMP1025,44,Female,Human Resources,Software Engineer,PhD,Married,0,1,110211,3,2,1,3,No,Rarely,5,17,No,40-49
+EMP1026,46,Female,Finance,Marketing Specialist,High School,Married,8,20,67749,1,1,1,1,No,Frequently,0,41,No,40-49
+EMP1027,47,Male,Human Resources,Manager,PhD,Single,11,11,143192,4,4,2,2,No,Never,3,44,No,40-49
+EMP1028,35,Male,Human Resources,Sales Executive,High School,Married,16,16,99534,3,1,1,3,No,Frequently,3,13,No,30-39
+EMP1029,34,Female,Sales,Sales Executive,Master,Married,14,24,104233,1,3,4,2,No,Rarely,4,26,No,30-39
+EMP1030,22,Male,Finance,Marketing Specialist,Bachelor,Divorced,18,21,76818,4,4,1,3,No,Rarely,3,9,No,20-29
+EMP1031,56,Female,Marketing,HR Executive,High School,Married,9,9,136910,1,4,1,4,No,Frequently,4,5,No,50-60
+EMP1032,26,Male,IT,HR Executive,Bachelor,Married,11,11,38429,2,3,3,3,No,Never,4,39,No,20-29
+EMP1033,40,Male,Sales,Software Engineer,Master,Married,13,13,82748,4,2,4,2,Yes,Rarely,2,33,No,40-49
+EMP1034,28,Male,Sales,Manager,Bachelor,Married,8,9,73807,3,1,1,3,No,Rarely,5,4,No,20-29
+EMP1035,58,Male,Marketing,Manager,High School,Married,12,12,32140,3,3,2,4,No,Rarely,6,28,No,50-60
+EMP1036,37,Female,Finance,Marketing Specialist,Bachelor,Divorced,2,12,88226,2,4,1,2,No,Frequently,0,26,Yes,30-39
+EMP1037,23,Male,Finance,Junior Analyst,PhD,Married,20,20,170973,1,3,1,1,No,Rarely,4,4,Yes,20-29
+EMP1038,44,Male,Human Resources,Sales Executive,Bachelor,Married,13,15,113815,1,4,3,3,No,Frequently,3,16,No,40-49
+EMP1039,33,Female,Marketing,Manager,Bachelor,Married,20,22,53525,3,3,4,2,Yes,Never,4,37,No,30-39
+EMP1040,28,Male,Marketing,Marketing Specialist,Bachelor,Married,9,16,45491,1,2,4,3,No,Frequently,4,22,No,20-29
+EMP1041,45,Male,Finance,Accountant,High School,Single,15,15,33078,4,4,2,4,Yes,Rarely,4,36,No,40-49
+EMP1042,21,Female,Human Resources,Senior Analyst,Master,Single,6,22,116654,4,3,2,2,Yes,Never,1,38,No,20-29
+EMP1043,39,Male,Sales,Accountant,Master,Single,3,6,154101,3,2,2,1,No,Frequently,6,35,No,30-39
+EMP1044,47,Female,Research & Development,Data Analyst,Bachelor,Divorced,19,19,41997,4,2,1,1,No,Rarely,6,25,No,40-49
+EMP1045,26,Female,IT,Software Engineer,Bachelor,Single,10,21,156940,3,1,1,3,No,Rarely,1,8,No,20-29
+EMP1046,27,Female,Sales,Manager,Master,Single,15,22,122356,1,4,2,4,No,Frequently,1,17,Yes,20-29
+EMP1047,54,Female,Finance,Data Analyst,Bachelor,Married,19,24,138711,1,1,4,4,Yes,Frequently,1,18,No,50-60
+EMP1048,33,Male,IT,Data Analyst,Master,Single,3,17,46246,1,2,4,3,No,Never,6,12,No,30-39
+EMP1049,36,Female,Research & Development,Marketing Specialist,Master,Married,16,21,176633,2,1,2,2,Yes,Rarely,2,33,No,30-39
+EMP1050,55,Male,Research & Development,Manager,Master,Single,12,19,172326,3,1,3,2,No,Rarely,4,23,No,50-60
+EMP1051,59,Male,Human Resources,Senior Analyst,Bachelor,Divorced,10,18,59512,4,3,4,3,No,Rarely,2,12,Yes,50-60
+EMP1052,23,Male,IT,Marketing Specialist,Bachelor,Divorced,2,11,82865,1,1,4,2,Yes,Frequently,3,11,Yes,20-29
+EMP1053,21,Male,Human Resources,Marketing Specialist,PhD,Divorced,8,24,179652,2,2,2,2,No,Frequently,6,13,No,20-29
+EMP1054,25,Male,Sales,Software Engineer,Bachelor,Married,5,7,128393,4,1,4,2,No,Rarely,5,35,No,20-29
+EMP1055,23,Male,Marketing,Software Engineer,Master,Married,20,20,97144,4,4,1,3,No,Rarely,6,27,No,20-29
+EMP1056,48,Male,Marketing,Sales Executive,Bachelor,Single,10,10,142363,4,3,1,1,No,Never,0,25,No,40-49
+EMP1057,37,Male,Marketing,Sales Executive,Master,Single,15,15,75665,1,2,4,4,Yes,Never,2,40,Yes,30-39
+EMP1058,45,Male,IT,HR Executive,Bachelor,Single,18,18,177110,4,1,1,1,Yes,Rarely,1,3,Yes,40-49
+EMP1059,53,Male,Marketing,Junior Analyst,Bachelor,Married,4,16,118542,3,4,3,2,Yes,Frequently,1,49,Yes,50-60
+EMP1060,29,Female,Sales,Manager,High School,Married,13,21,126311,2,2,4,3,No,Frequently,3,25,No,20-29
+EMP1061,55,Female,Human Resources,Manager,Master,Married,16,18,39325,4,1,2,4,Yes,Rarely,4,45,Yes,50-60
+EMP1062,33,Female,IT,Data Analyst,Master,Single,2,3,157825,4,3,1,2,No,Rarely,0,10,No,30-39
+EMP1063,50,Male,Human Resources,Manager,Bachelor,Married,3,20,174068,3,1,3,4,Yes,Rarely,2,17,No,50-60
+EMP1064,34,Female,IT,Manager,Bachelor,Married,15,15,93811,4,2,3,4,No,Rarely,4,3,No,30-39
+EMP1065,27,Female,Human Resources,Junior Analyst,Master,Married,15,15,141737,1,2,1,1,Yes,Frequently,4,45,No,20-29
+EMP1066,33,Female,Research & Development,Sales Executive,High School,Married,20,20,25824,1,2,3,2,Yes,Rarely,5,22,Yes,30-39
+EMP1067,42,Male,Human Resources,Sales Executive,Bachelor,Single,3,19,169952,1,4,4,4,Yes,Rarely,5,38,No,40-49
+EMP1068,59,Male,Marketing,Senior Analyst,Bachelor,Married,18,18,142718,4,1,3,1,No,Rarely,2,14,No,50-60
+EMP1069,40,Male,Research & Development,Manager,Bachelor,Married,16,23,91617,2,1,1,3,No,Rarely,2,27,Yes,40-49
+EMP1070,35,Male,Human Resources,Junior Analyst,Bachelor,Single,12,21,36517,2,1,3,4,No,Frequently,2,42,No,30-39
+EMP1071,37,Female,IT,Sales Executive,Bachelor,Single,0,5,177755,4,3,1,2,No,Rarely,2,20,No,30-39
+EMP1072,43,Female,IT,Junior Analyst,High School,Married,11,11,172948,2,4,1,3,No,Rarely,1,48,No,40-49
+EMP1073,45,Female,IT,Accountant,Bachelor,Married,3,7,128068,2,4,3,4,No,Never,6,18,No,40-49
+EMP1074,44,Female,Finance,Manager,Bachelor,Married,10,10,140016,4,3,1,4,Yes,Rarely,6,13,No,40-49
+EMP1075,60,Male,Sales,Senior Analyst,Bachelor,Single,4,16,34982,1,4,1,2,No,Frequently,4,42,Yes,50-60
+EMP1076,48,Male,IT,Data Analyst,Bachelor,Divorced,1,8,170711,4,3,2,4,No,Rarely,6,6,No,40-49
+EMP1077,34,Male,Research & Development,Sales Executive,Master,Married,16,16,95210,1,2,4,2,No,Never,4,10,No,30-39
+EMP1078,20,Female,IT,Accountant,High School,Married,7,7,94852,1,2,1,2,Yes,Frequently,1,37,No,20-29
+EMP1079,44,Male,Finance,Junior Analyst,Bachelor,Married,5,21,138618,2,4,4,2,No,Rarely,6,29,No,40-49
+EMP1080,26,Male,Marketing,Software Engineer,High School,Single,20,21,34695,2,2,2,2,Yes,Frequently,4,6,No,20-29
+EMP1081,28,Female,Research & Development,Marketing Specialist,High School,Married,8,8,73582,1,2,2,4,Yes,Rarely,2,39,No,20-29
+EMP1082,43,Female,Finance,Manager,Bachelor,Married,12,12,56094,1,2,2,3,No,Never,0,11,No,40-49
+EMP1083,20,Male,Marketing,Manager,Bachelor,Divorced,10,15,47187,2,1,2,3,No,Rarely,6,48,No,20-29
+EMP1084,27,Male,Research & Development,Accountant,Master,Married,15,21,143013,3,2,4,1,No,Frequently,5,25,Yes,20-29
+EMP1085,43,Male,Human Resources,Junior Analyst,Bachelor,Married,15,15,153721,1,1,3,2,No,Rarely,5,44,No,40-49
+EMP1086,30,Male,Sales,HR Executive,PhD,Married,1,17,131683,1,3,3,4,Yes,Frequently,4,44,No,30-39
+EMP1087,36,Male,Sales,Manager,High School,Divorced,9,11,26214,1,3,4,4,Yes,Never,0,30,Yes,30-39
+EMP1088,27,Male,Finance,HR Executive,High School,Married,11,11,48940,2,3,1,1,No,Never,5,20,No,20-29
+EMP1089,54,Female,Marketing,Software Engineer,High School,Married,7,7,69406,4,3,4,3,No,Rarely,6,37,No,50-60
+EMP1090,54,Female,Sales,Accountant,Bachelor,Married,10,10,172049,1,3,1,4,No,Rarely,0,16,Yes,50-60
+EMP1091,52,Female,Marketing,Junior Analyst,Bachelor,Married,9,15,83414,1,2,1,1,No,Rarely,1,31,No,50-60
+EMP1092,24,Male,Marketing,Junior Analyst,Master,Married,12,14,126440,1,2,3,3,No,Rarely,3,29,Yes,20-29
+EMP1093,58,Female,Finance,Marketing Specialist,High School,Single,16,16,128569,4,2,2,4,No,Rarely,4,6,No,50-60
+EMP1094,60,Male,Finance,Sales Executive,PhD,Married,6,21,85481,4,3,3,2,Yes,Rarely,1,29,No,50-60
+EMP1095,47,Male,Finance,Sales Executive,Master,Single,2,20,52740,1,3,3,1,No,Rarely,1,32,No,40-49
+EMP1096,26,Female,Sales,Data Analyst,Bachelor,Divorced,19,19,88328,1,1,4,4,No,Rarely,0,9,Yes,20-29
+EMP1097,28,Male,Finance,Senior Analyst,High School,Single,12,12,36881,3,4,4,1,No,Rarely,4,37,No,20-29
+EMP1098,27,Male,Sales,Accountant,Bachelor,Divorced,18,18,61996,4,2,1,1,No,Rarely,1,23,No,20-29
+EMP1099,31,Female,Finance,Software Engineer,High School,Married,6,24,147196,3,4,4,1,No,Rarely,2,16,No,30-39
+EMP1100,53,Female,IT,Junior Analyst,High School,Married,8,20,62177,1,3,1,2,No,Frequently,1,18,No,50-60
+EMP1101,52,Female,Marketing,Marketing Specialist,Bachelor,Married,18,18,91126,1,3,1,3,Yes,Rarely,2,19,No,50-60
+EMP1102,42,Male,Finance,HR Executive,Bachelor,Single,12,12,81531,1,3,2,3,Yes,Rarely,3,44,No,40-49
+EMP1103,43,Female,Research & Development,Accountant,Bachelor,Married,7,24,51119,1,4,2,4,No,Rarely,2,2,Yes,40-49
+EMP1104,56,Female,Marketing,Data Analyst,PhD,Single,17,17,142744,2,1,3,2,No,Rarely,2,10,Yes,50-60
+EMP1105,54,Male,Marketing,Accountant,Master,Married,1,8,141894,2,3,2,3,No,Frequently,0,12,No,50-60
+EMP1106,59,Female,Finance,Data Analyst,PhD,Married,17,17,158780,2,1,1,4,No,Rarely,1,46,No,50-60
+EMP1107,41,Female,Human Resources,Junior Analyst,High School,Married,17,17,69989,3,1,4,4,No,Rarely,3,18,No,40-49
+EMP1108,46,Female,Finance,Senior Analyst,Bachelor,Single,10,10,47106,4,2,2,1,Yes,Never,1,19,Yes,40-49
+EMP1109,54,Male,Marketing,Data Analyst,Bachelor,Single,0,16,42131,1,4,2,2,Yes,Never,6,38,Yes,50-60
+EMP1110,20,Male,Research & Development,Junior Analyst,High School,Married,13,20,71553,4,3,2,3,No,Rarely,6,37,No,20-29
+EMP1111,54,Male,Marketing,Junior Analyst,High School,Divorced,15,15,31553,2,1,2,2,Yes,Rarely,2,27,No,50-60
+EMP1112,56,Male,Research & Development,Senior Analyst,Master,Married,10,14,42881,1,4,1,2,Yes,Rarely,5,48,No,50-60
+EMP1113,33,Female,Sales,Sales Executive,Master,Married,0,23,26379,1,4,1,3,No,Rarely,2,14,Yes,30-39
+EMP1114,22,Male,IT,Accountant,Bachelor,Married,6,12,115791,3,3,3,3,Yes,Rarely,1,45,No,20-29
+EMP1115,20,Male,Marketing,Manager,Bachelor,Single,15,15,130664,4,2,4,2,No,Frequently,3,34,No,20-29
+EMP1116,24,Female,Finance,Manager,Bachelor,Divorced,13,16,94306,3,2,3,4,No,Rarely,5,2,No,20-29
+EMP1117,45,Female,Sales,HR Executive,High School,Married,14,15,175798,2,1,3,2,No,Never,3,44,No,40-49
+EMP1118,33,Female,IT,HR Executive,Bachelor,Single,13,13,165160,4,2,2,3,No,Rarely,0,33,No,30-39
+EMP1119,58,Male,Finance,Manager,Bachelor,Married,20,20,129512,2,2,4,2,No,Rarely,2,19,Yes,50-60
+EMP1120,46,Male,Human Resources,Software Engineer,High School,Single,10,17,41350,3,2,2,3,Yes,Frequently,2,27,No,40-49
+EMP1121,28,Male,Finance,Manager,PhD,Divorced,15,21,124599,3,4,1,4,Yes,Rarely,6,48,Yes,20-29
+EMP1122,34,Female,Research & Development,HR Executive,Bachelor,Single,18,18,106397,1,3,3,2,No,Rarely,0,30,No,30-39
+EMP1123,34,Female,Research & Development,Marketing Specialist,Master,Married,16,16,104509,4,4,4,4,Yes,Rarely,6,7,No,30-39
+EMP1124,45,Male,Human Resources,HR Executive,Bachelor,Single,5,10,42769,4,4,1,2,Yes,Rarely,1,27,No,40-49
+EMP1125,32,Female,Sales,Software Engineer,Bachelor,Married,10,12,126584,1,3,3,2,No,Rarely,2,21,Yes,30-39
+EMP1126,51,Female,IT,Accountant,Bachelor,Married,16,16,71365,4,4,4,3,No,Rarely,1,7,Yes,50-60
+EMP1127,58,Female,Finance,Manager,High School,Married,8,15,75185,2,1,3,1,No,Rarely,3,48,No,50-60
+EMP1128,51,Male,Research & Development,Senior Analyst,Bachelor,Married,17,17,158858,2,1,4,3,Yes,Rarely,5,25,No,50-60
+EMP1129,23,Female,Sales,Marketing Specialist,Master,Divorced,16,16,151525,3,4,3,2,No,Never,5,38,No,20-29
+EMP1130,49,Female,Human Resources,Junior Analyst,Master,Single,11,23,157692,2,2,2,1,No,Rarely,5,18,No,40-49
+EMP1131,56,Male,Marketing,Software Engineer,Bachelor,Single,4,9,61303,4,4,3,1,Yes,Rarely,6,33,No,50-60
+EMP1132,42,Male,Research & Development,HR Executive,Bachelor,Single,10,21,44589,1,2,3,4,Yes,Never,4,33,No,40-49
+EMP1133,58,Female,Human Resources,Senior Analyst,PhD,Divorced,3,20,27882,3,4,4,2,No,Frequently,0,32,No,50-60
+EMP1134,34,Female,Finance,Data Analyst,High School,Married,3,9,154236,1,1,4,3,No,Rarely,5,25,No,30-39
+EMP1135,48,Male,IT,Sales Executive,Bachelor,Married,2,21,34745,3,2,2,1,No,Rarely,2,14,No,40-49
+EMP1136,55,Male,Research & Development,Manager,Bachelor,Married,16,24,40861,3,1,4,1,Yes,Frequently,0,38,Yes,50-60
+EMP1137,32,Female,Research & Development,Sales Executive,Master,Single,6,20,116707,1,4,3,3,No,Rarely,3,38,No,30-39
+EMP1138,51,Female,Finance,Software Engineer,PhD,Single,3,11,79261,2,3,4,3,No,Frequently,3,4,No,50-60
+EMP1139,26,Female,Marketing,Data Analyst,Bachelor,Single,12,12,158909,2,2,4,1,Yes,Never,6,44,No,20-29
+EMP1140,41,Female,Sales,Data Analyst,Master,Married,11,11,99135,2,2,4,3,Yes,Rarely,3,18,No,40-49
+EMP1141,47,Male,IT,Data Analyst,Master,Single,0,21,79380,2,4,2,4,Yes,Rarely,3,10,No,40-49
+EMP1142,21,Female,Research & Development,Junior Analyst,Bachelor,Single,20,20,111089,1,4,2,1,No,Frequently,4,35,No,20-29
+EMP1143,25,Female,IT,Software Engineer,Bachelor,Divorced,18,18,130025,4,2,1,4,No,Rarely,1,35,No,20-29
+EMP1144,47,Male,Research & Development,Accountant,Bachelor,Divorced,20,20,69397,3,3,2,2,No,Rarely,1,40,No,40-49
+EMP1145,47,Female,IT,Sales Executive,PhD,Single,19,19,102085,1,4,2,4,No,Rarely,5,23,No,40-49
+EMP1146,39,Male,Human Resources,Accountant,Bachelor,Single,17,17,88865,2,4,2,3,No,Frequently,4,25,No,30-39
+EMP1147,49,Female,Research & Development,Senior Analyst,Master,Single,10,10,80956,2,4,3,1,No,Frequently,6,1,No,40-49
+EMP1148,30,Female,IT,Marketing Specialist,Bachelor,Married,19,19,125727,1,3,1,4,Yes,Never,1,18,No,30-39
+EMP1149,47,Male,Sales,Marketing Specialist,Master,Married,2,9,168978,3,2,3,3,No,Frequently,6,15,Yes,40-49
+EMP1150,44,Male,Human Resources,Accountant,Bachelor,Single,16,22,39988,1,1,2,3,No,Rarely,6,25,Yes,40-49
+EMP1151,58,Female,Human Resources,Manager,Bachelor,Single,11,11,58800,1,4,2,4,Yes,Frequently,3,32,No,50-60
+EMP1152,52,Female,Sales,Senior Analyst,Master,Married,9,9,112329,4,3,1,1,No,Rarely,1,20,No,50-60
+EMP1153,20,Female,IT,Software Engineer,Master,Married,7,14,77284,1,2,1,4,Yes,Frequently,0,17,Yes,20-29
+EMP1154,46,Male,Finance,HR Executive,Master,Single,14,14,81232,4,2,4,2,No,Rarely,5,11,Yes,40-49
+EMP1155,32,Female,Sales,Marketing Specialist,High School,Married,4,18,69420,3,3,2,4,No,Rarely,1,13,No,30-39
+EMP1156,60,Male,IT,HR Executive,Master,Single,3,21,62710,1,4,2,4,No,Frequently,0,25,No,50-60
+EMP1157,22,Male,Sales,Senior Analyst,High School,Married,20,20,117035,1,1,3,1,No,Rarely,2,20,No,20-29
+EMP1158,58,Female,Sales,Sales Executive,Bachelor,Married,19,19,56283,2,4,4,4,No,Frequently,0,25,No,50-60
+EMP1159,25,Male,Research & Development,Marketing Specialist,Bachelor,Married,18,21,50968,1,2,2,3,Yes,Frequently,0,42,Yes,20-29
+EMP1160,27,Female,IT,Manager,Bachelor,Married,20,20,87508,2,1,3,1,Yes,Rarely,3,45,No,20-29
+EMP1161,46,Female,Finance,Manager,Bachelor,Divorced,3,12,138435,2,4,1,3,No,Rarely,3,49,No,40-49
+EMP1162,28,Female,Research & Development,Data Analyst,PhD,Married,14,14,110366,2,1,3,1,Yes,Never,5,31,No,20-29
+EMP1163,56,Female,Sales,Junior Analyst,High School,Married,16,16,30738,3,3,2,2,Yes,Rarely,3,1,No,50-60
+EMP1164,52,Female,Marketing,Senior Analyst,Master,Married,11,20,28098,4,4,3,2,No,Frequently,0,16,No,50-60
+EMP1165,43,Male,Sales,Marketing Specialist,Bachelor,Divorced,2,18,120424,2,2,3,2,Yes,Frequently,4,48,No,40-49
+EMP1166,34,Male,Sales,Junior Analyst,High School,Divorced,9,19,103672,1,2,4,4,No,Never,3,28,No,30-39
+EMP1167,51,Female,IT,Senior Analyst,Bachelor,Single,14,14,63244,1,1,4,2,No,Frequently,3,21,No,50-60
+EMP1168,51,Female,IT,Accountant,PhD,Divorced,9,9,164325,2,3,1,1,No,Frequently,0,30,No,50-60
+EMP1169,43,Male,Research & Development,Software Engineer,Master,Married,17,17,79333,2,4,4,2,No,Never,2,3,No,40-49
+EMP1170,60,Male,Finance,Software Engineer,PhD,Married,0,17,150349,1,3,3,1,Yes,Frequently,2,34,No,50-60
+EMP1171,31,Male,Research & Development,Data Analyst,PhD,Single,2,17,75969,2,3,4,3,No,Frequently,1,6,Yes,30-39
+EMP1172,58,Male,Human Resources,Data Analyst,Bachelor,Married,20,23,115744,4,1,2,4,Yes,Rarely,5,43,No,50-60
+EMP1173,21,Female,Sales,Software Engineer,Bachelor,Divorced,11,23,142286,4,1,3,3,Yes,Rarely,2,29,Yes,20-29
+EMP1174,22,Female,Marketing,Sales Executive,Master,Single,0,2,100028,3,4,3,3,No,Frequently,3,3,Yes,20-29
+EMP1175,56,Male,Sales,Marketing Specialist,Bachelor,Divorced,2,9,60421,2,2,3,2,Yes,Rarely,4,33,No,50-60
+EMP1176,36,Female,Sales,Software Engineer,Bachelor,Single,2,9,157526,3,4,2,2,No,Rarely,1,11,No,30-39
+EMP1177,21,Male,Research & Development,Sales Executive,Bachelor,Single,4,5,173594,3,3,3,2,No,Rarely,5,45,No,20-29
+EMP1178,21,Female,Marketing,Junior Analyst,Bachelor,Married,18,18,63575,3,1,4,3,No,Frequently,4,5,Yes,20-29
+EMP1179,47,Male,Marketing,Sales Executive,Bachelor,Married,0,15,28192,2,3,2,4,No,Rarely,4,32,Yes,40-49
+EMP1180,42,Female,Marketing,Junior Analyst,Bachelor,Married,3,3,136116,3,1,3,4,Yes,Rarely,3,47,No,40-49
+EMP1181,56,Male,Research & Development,Senior Analyst,Bachelor,Single,3,19,152874,4,2,4,3,No,Rarely,0,18,No,50-60
+EMP1182,51,Male,Sales,HR Executive,Bachelor,Divorced,16,16,106311,3,3,4,4,Yes,Frequently,0,47,No,50-60
+EMP1183,52,Female,Research & Development,Senior Analyst,Bachelor,Single,13,13,166474,4,1,1,3,No,Rarely,0,20,No,50-60
+EMP1184,20,Male,IT,Software Engineer,Bachelor,Single,17,17,105781,4,4,4,3,Yes,Rarely,2,39,No,20-29
+EMP1185,38,Female,IT,Junior Analyst,Master,Single,0,24,61527,2,4,4,4,Yes,Rarely,0,49,No,30-39
+EMP1186,21,Female,Research & Development,Software Engineer,High School,Married,15,15,77181,3,4,1,1,No,Rarely,5,40,No,20-29
+EMP1187,45,Male,Marketing,Marketing Specialist,Bachelor,Divorced,2,13,116472,2,3,1,1,No,Frequently,3,28,No,40-49
+EMP1188,51,Female,Sales,Manager,Master,Married,20,20,106219,4,1,2,2,No,Frequently,2,13,No,50-60
+EMP1189,25,Female,Research & Development,Software Engineer,Bachelor,Married,8,8,168532,1,1,4,4,No,Rarely,5,26,Yes,20-29
+EMP1190,51,Female,Research & Development,Marketing Specialist,Bachelor,Single,3,3,144783,3,1,2,2,No,Rarely,0,16,No,50-60
+EMP1191,23,Female,Research & Development,Sales Executive,Master,Married,20,20,172519,2,3,2,3,No,Never,5,25,No,20-29
+EMP1192,30,Female,Human Resources,Senior Analyst,Bachelor,Married,4,17,108265,1,1,3,1,No,Rarely,4,10,Yes,30-39
+EMP1193,36,Male,IT,Sales Executive,Master,Married,10,22,75126,3,2,2,4,Yes,Rarely,3,29,No,30-39
+EMP1194,57,Female,Marketing,Manager,Master,Single,20,20,45545,3,3,2,4,No,Rarely,3,46,No,50-60
+EMP1195,43,Female,Finance,Junior Analyst,Master,Married,8,8,80114,2,2,2,4,No,Rarely,5,38,No,40-49
+EMP1196,24,Female,Marketing,Marketing Specialist,Bachelor,Married,2,15,118740,1,2,2,1,Yes,Rarely,1,20,No,20-29
+EMP1197,53,Female,Finance,HR Executive,High School,Married,5,21,38890,2,4,1,2,Yes,Frequently,3,26,No,50-60
+EMP1198,25,Female,Human Resources,Software Engineer,Bachelor,Married,10,23,146284,3,3,4,1,Yes,Rarely,4,32,No,20-29
+EMP1199,41,Male,Research & Development,Junior Analyst,Bachelor,Single,8,10,77482,3,1,3,2,No,Rarely,3,39,Yes,40-49
+EMP1200,30,Female,Human Resources,HR Executive,Bachelor,Married,14,14,157812,4,2,1,3,No,Rarely,1,38,No,30-39
+EMP1201,35,Male,Human Resources,Accountant,Bachelor,Single,2,12,167290,3,3,3,3,No,Rarely,3,49,No,30-39
+EMP1202,52,Male,Sales,Software Engineer,Bachelor,Divorced,0,22,96591,3,1,3,2,No,Rarely,6,24,No,50-60
+EMP1203,28,Male,IT,Sales Executive,High School,Married,19,19,113241,1,4,1,3,No,Rarely,3,31,No,20-29
+EMP1204,25,Male,Finance,Senior Analyst,Bachelor,Single,18,18,59722,1,3,2,3,Yes,Rarely,1,40,No,20-29
+EMP1205,35,Female,Research & Development,Marketing Specialist,Bachelor,Divorced,13,24,74431,4,3,1,4,Yes,Frequently,6,12,No,30-39
+EMP1206,48,Male,Finance,Manager,Master,Married,16,16,67000,4,3,3,4,No,Frequently,6,36,No,40-49
+EMP1207,22,Male,Marketing,Manager,High School,Single,13,20,96975,4,1,3,1,No,Rarely,3,10,No,20-29
+EMP1208,39,Female,Finance,Sales Executive,Bachelor,Married,16,16,55921,2,2,2,1,No,Rarely,5,6,No,30-39
+EMP1209,55,Female,Marketing,Data Analyst,PhD,Single,13,15,124265,2,2,1,1,No,Frequently,2,7,No,50-60
+EMP1210,38,Female,IT,Manager,Bachelor,Married,11,23,113747,4,3,4,4,No,Rarely,6,31,No,30-39
+EMP1211,45,Male,Marketing,Marketing Specialist,Bachelor,Married,15,21,42601,2,3,3,1,No,Rarely,5,27,No,40-49
+EMP1212,22,Female,Finance,Sales Executive,High School,Divorced,0,21,118332,3,1,1,1,Yes,Frequently,3,8,Yes,20-29
+EMP1213,38,Female,Finance,Junior Analyst,Master,Married,12,12,148254,4,4,2,4,No,Never,0,3,Yes,30-39
+EMP1214,39,Male,Marketing,Manager,Bachelor,Married,5,5,176586,4,3,2,2,Yes,Rarely,0,40,No,30-39
+EMP1215,51,Female,Human Resources,Sales Executive,Bachelor,Married,16,19,144004,2,3,4,4,No,Rarely,2,47,No,50-60
+EMP1216,26,Female,IT,Marketing Specialist,Bachelor,Single,11,14,172364,1,4,3,2,Yes,Never,6,21,Yes,20-29
+EMP1217,60,Female,Sales,Software Engineer,Master,Married,18,18,53000,4,3,4,4,No,Rarely,3,1,No,50-60
+EMP1218,52,Female,Research & Development,Software Engineer,Bachelor,Married,5,6,155439,2,2,4,1,No,Never,4,45,No,50-60
+EMP1219,59,Male,Finance,Manager,High School,Single,6,12,144277,2,3,4,3,No,Rarely,6,15,No,50-60
+EMP1220,58,Female,Research & Development,Senior Analyst,Master,Married,0,15,55383,1,2,4,3,No,Rarely,3,7,Yes,50-60
+EMP1221,37,Female,Sales,Software Engineer,Bachelor,Divorced,0,14,167857,4,1,2,2,No,Rarely,0,15,No,30-39
+EMP1222,59,Male,Research & Development,Senior Analyst,Master,Divorced,4,21,65910,1,1,3,2,Yes,Never,1,25,No,50-60
+EMP1223,20,Female,Sales,Junior Analyst,Bachelor,Single,5,5,49281,3,2,4,2,No,Never,2,3,No,20-29
+EMP1224,30,Male,Marketing,Sales Executive,Master,Single,15,15,138838,1,2,3,3,No,Rarely,1,30,Yes,30-39
+EMP1225,47,Female,Human Resources,HR Executive,Bachelor,Single,15,15,29841,1,4,2,2,Yes,Frequently,4,14,Yes,40-49
+EMP1226,44,Male,Finance,Marketing Specialist,Master,Divorced,13,19,122204,2,2,2,4,No,Frequently,3,4,No,40-49
+EMP1227,42,Male,Sales,Sales Executive,PhD,Single,0,18,85155,1,2,1,4,No,Frequently,4,36,No,40-49
+EMP1228,50,Male,Research & Development,Marketing Specialist,Bachelor,Married,12,20,81313,3,3,1,3,No,Frequently,1,3,No,50-60
+EMP1229,49,Male,Finance,Junior Analyst,Bachelor,Single,19,19,136688,2,4,3,4,No,Rarely,3,5,No,40-49
+EMP1230,54,Female,Human Resources,Accountant,Bachelor,Married,9,9,173515,3,2,1,2,Yes,Rarely,6,25,Yes,50-60
+EMP1231,26,Male,Marketing,Manager,Bachelor,Married,9,9,157994,1,2,4,3,No,Never,5,31,Yes,20-29
+EMP1232,35,Female,Finance,Marketing Specialist,Bachelor,Married,8,19,56976,3,2,3,2,No,Never,5,11,No,30-39
+EMP1233,45,Male,Sales,Marketing Specialist,Bachelor,Single,12,22,168063,3,3,2,4,Yes,Rarely,6,8,No,40-49
+EMP1234,21,Male,Human Resources,Senior Analyst,Bachelor,Married,2,15,129405,1,3,2,2,No,Rarely,4,26,No,20-29
+EMP1235,20,Male,Research & Development,Sales Executive,Bachelor,Single,17,17,78744,1,3,4,3,No,Never,5,2,No,20-29
+EMP1236,31,Female,Human Resources,Accountant,Bachelor,Married,19,22,178805,2,1,1,2,Yes,Rarely,5,28,No,30-39
+EMP1237,24,Male,Human Resources,Data Analyst,Master,Divorced,1,1,27473,2,3,3,4,Yes,Frequently,0,48,Yes,20-29
+EMP1238,56,Female,IT,Manager,High School,Single,16,16,164180,4,2,3,1,No,Rarely,5,10,No,50-60
+EMP1239,51,Female,Human Resources,HR Executive,High School,Divorced,18,18,53715,2,3,4,3,Yes,Never,0,39,No,50-60
+EMP1240,28,Female,Human Resources,Data Analyst,Bachelor,Married,12,14,62317,1,3,1,2,No,Rarely,2,37,No,20-29
+EMP1241,60,Female,Finance,Sales Executive,Bachelor,Single,12,12,90516,3,4,3,3,No,Rarely,0,39,No,50-60
+EMP1242,54,Female,Research & Development,Manager,Bachelor,Married,0,11,79604,3,2,4,2,No,Rarely,0,21,No,50-60
+EMP1243,38,Female,Finance,Marketing Specialist,Bachelor,Single,1,3,29889,2,3,3,1,No,Never,1,28,Yes,30-39
+EMP1244,35,Female,Finance,HR Executive,Bachelor,Married,0,19,98748,2,1,2,4,No,Frequently,0,38,No,30-39
+EMP1245,22,Female,Sales,Senior Analyst,Master,Married,4,10,56971,1,4,3,2,No,Frequently,0,33,Yes,20-29
+EMP1246,39,Female,Finance,Accountant,High School,Single,2,15,75551,3,3,3,2,No,Rarely,1,11,No,30-39
+EMP1247,43,Male,IT,Senior Analyst,Master,Married,6,11,159273,4,4,3,1,No,Never,0,45,No,40-49
+EMP1248,52,Male,IT,Junior Analyst,Master,Married,12,15,133957,4,4,1,3,No,Frequently,5,44,No,50-60
+EMP1249,43,Male,Sales,Manager,Master,Divorced,17,24,114882,2,1,1,4,No,Frequently,6,1,No,40-49
+EMP1250,30,Male,Marketing,Senior Analyst,PhD,Married,20,20,62958,4,1,4,2,Yes,Never,0,47,Yes,30-39
+EMP1251,27,Male,Research & Development,Data Analyst,High School,Divorced,6,6,30681,1,1,1,2,No,Rarely,2,33,Yes,20-29
+EMP1252,55,Female,Research & Development,Senior Analyst,Bachelor,Married,0,4,126982,4,2,3,4,No,Frequently,0,3,No,50-60
+EMP1253,57,Female,Finance,Software Engineer,Master,Married,4,13,71870,2,4,3,1,No,Never,0,26,No,50-60
+EMP1254,59,Female,Finance,Junior Analyst,Bachelor,Married,16,16,153396,1,3,1,3,Yes,Frequently,2,15,Yes,50-60
+EMP1255,39,Female,Marketing,Sales Executive,Bachelor,Married,7,17,92203,3,1,1,4,No,Frequently,6,41,No,30-39
+EMP1256,54,Female,Finance,Accountant,Master,Married,14,14,75061,1,1,3,3,No,Rarely,1,14,Yes,50-60
+EMP1257,44,Female,Research & Development,Junior Analyst,Master,Married,19,24,83235,2,4,3,1,No,Frequently,5,23,No,40-49
+EMP1258,54,Female,Human Resources,Software Engineer,PhD,Married,3,5,62890,2,4,2,1,No,Rarely,6,8,No,50-60
+EMP1259,44,Male,IT,Manager,PhD,Married,1,16,115073,4,4,4,4,No,Rarely,0,36,Yes,40-49
+EMP1260,48,Male,Human Resources,Data Analyst,Master,Married,4,7,86401,4,3,1,2,No,Never,5,20,No,40-49
+EMP1261,37,Male,Human Resources,Accountant,Bachelor,Single,0,1,36217,3,2,4,1,No,Rarely,4,6,Yes,30-39
+EMP1262,37,Male,Research & Development,Accountant,Master,Married,4,12,73351,3,2,3,1,Yes,Rarely,5,33,No,30-39
+EMP1263,21,Female,Human Resources,Junior Analyst,High School,Married,5,21,58741,2,1,4,4,No,Frequently,1,28,No,20-29
+EMP1264,54,Female,Marketing,Manager,Bachelor,Single,1,11,176726,2,2,1,4,Yes,Rarely,1,38,Yes,50-60
+EMP1265,35,Female,Sales,Marketing Specialist,Master,Married,0,12,26408,2,3,1,4,No,Rarely,6,30,Yes,30-39
+EMP1266,60,Male,Finance,Software Engineer,Bachelor,Married,3,19,67903,3,2,4,1,Yes,Rarely,0,46,Yes,50-60
+EMP1267,55,Female,Sales,Marketing Specialist,Bachelor,Single,6,12,132042,2,3,1,3,No,Rarely,2,43,No,50-60
+EMP1268,52,Female,IT,Data Analyst,High School,Single,0,12,157290,3,1,2,1,No,Rarely,1,17,No,50-60
+EMP1269,23,Female,Finance,Manager,Master,Single,0,14,147189,2,4,3,4,No,Rarely,2,9,No,20-29
+EMP1270,52,Male,Human Resources,Manager,Bachelor,Divorced,7,7,134268,1,3,3,2,No,Rarely,6,28,No,50-60
+EMP1271,33,Female,IT,Software Engineer,Master,Single,19,19,55105,1,4,1,2,No,Rarely,6,7,No,30-39
+EMP1272,40,Male,Finance,HR Executive,Bachelor,Single,15,15,94634,2,1,3,4,Yes,Rarely,4,46,Yes,40-49
+EMP1273,39,Male,Marketing,Marketing Specialist,Master,Married,20,20,142426,1,3,2,2,No,Never,2,28,No,30-39
+EMP1274,27,Male,Marketing,Senior Analyst,Master,Single,12,23,163691,3,3,1,1,No,Rarely,6,17,No,20-29
+EMP1275,26,Male,Marketing,Accountant,Bachelor,Single,17,17,168011,4,2,2,3,Yes,Frequently,6,40,No,20-29
+EMP1276,22,Female,Marketing,HR Executive,Bachelor,Single,19,19,43226,1,3,2,1,Yes,Rarely,6,48,No,20-29
+EMP1277,36,Male,Human Resources,Senior Analyst,Bachelor,Married,9,13,50322,4,1,3,4,Yes,Frequently,3,44,No,30-39
+EMP1278,52,Male,Sales,Software Engineer,PhD,Married,11,11,142504,1,4,3,1,Yes,Frequently,6,44,No,50-60
+EMP1279,31,Female,Finance,Accountant,Master,Married,0,3,83215,3,3,4,2,No,Rarely,6,5,Yes,30-39
+EMP1280,41,Female,Human Resources,Sales Executive,PhD,Married,9,19,172950,1,1,2,1,Yes,Rarely,2,5,Yes,40-49
+EMP1281,41,Male,Marketing,Senior Analyst,Bachelor,Divorced,8,8,162632,1,1,3,3,No,Rarely,1,14,No,40-49
+EMP1282,49,Female,Sales,HR Executive,Master,Married,2,19,119835,2,3,2,2,Yes,Frequently,2,6,Yes,40-49
+EMP1283,57,Male,IT,Senior Analyst,Master,Single,18,21,98079,4,2,4,3,Yes,Rarely,2,7,No,50-60
+EMP1284,57,Male,IT,Senior Analyst,Master,Single,8,20,48946,4,3,2,3,No,Never,3,17,No,50-60
+EMP1285,27,Male,IT,Software Engineer,PhD,Married,9,19,135733,3,3,1,3,No,Rarely,3,9,No,20-29
+EMP1286,46,Male,Marketing,Marketing Specialist,Bachelor,Married,18,18,32253,3,2,4,1,Yes,Rarely,0,31,Yes,40-49
+EMP1287,46,Female,IT,Sales Executive,High School,Single,15,15,104311,4,1,4,1,No,Frequently,1,22,No,40-49
+EMP1288,53,Male,Research & Development,Software Engineer,Master,Married,17,17,57813,2,3,2,1,Yes,Never,6,45,No,50-60
+EMP1289,40,Female,Finance,Data Analyst,Master,Single,13,13,73365,2,2,2,1,Yes,Rarely,0,9,No,40-49
+EMP1290,49,Female,Finance,Software Engineer,Bachelor,Married,2,6,92593,4,4,3,2,Yes,Frequently,6,16,No,40-49
+EMP1291,52,Female,Marketing,Accountant,Bachelor,Married,1,15,174485,1,4,1,1,No,Rarely,6,36,Yes,50-60
+EMP1292,47,Female,Research & Development,Sales Executive,Bachelor,Single,0,23,63485,4,2,4,2,No,Frequently,3,34,No,40-49
+EMP1293,52,Male,Human Resources,Manager,Bachelor,Married,17,23,136504,1,1,4,3,No,Frequently,6,45,No,50-60
+EMP1294,24,Female,Human Resources,Data Analyst,Bachelor,Single,8,18,41101,4,2,4,2,No,Never,6,13,No,20-29
+EMP1295,38,Male,IT,Junior Analyst,Master,Married,12,14,33831,1,1,3,4,No,Rarely,2,19,No,30-39
+EMP1296,23,Female,Sales,Software Engineer,Master,Single,1,19,76897,2,4,1,1,No,Rarely,3,12,No,20-29
+EMP1297,54,Female,Human Resources,Senior Analyst,Bachelor,Divorced,6,10,30004,4,3,4,4,No,Frequently,4,36,No,50-60
+EMP1298,36,Male,Sales,Marketing Specialist,Bachelor,Single,15,15,70924,3,2,4,2,No,Rarely,2,10,No,30-39
+EMP1299,47,Male,Finance,Manager,Bachelor,Divorced,20,20,177581,1,4,3,1,Yes,Frequently,0,16,No,40-49
+EMP1300,49,Male,Sales,Software Engineer,Bachelor,Married,18,23,62170,2,3,2,4,No,Rarely,2,28,Yes,40-49
+EMP1301,48,Female,Finance,Software Engineer,Master,Married,14,14,68555,3,4,4,1,No,Rarely,4,19,No,40-49
+EMP1302,25,Female,Research & Development,HR Executive,PhD,Single,10,10,170734,2,2,1,2,No,Frequently,3,40,No,20-29
+EMP1303,54,Male,Research & Development,HR Executive,Bachelor,Divorced,0,7,143115,1,2,1,4,No,Rarely,1,6,No,50-60
+EMP1304,60,Male,Marketing,Manager,Master,Single,20,23,129216,4,3,1,2,No,Never,6,4,Yes,50-60
+EMP1305,56,Male,Marketing,HR Executive,Master,Single,6,16,90930,2,2,1,4,No,Frequently,5,30,No,50-60
+EMP1306,43,Male,IT,Senior Analyst,Master,Married,19,19,61365,4,4,3,3,Yes,Frequently,1,39,No,40-49
+EMP1307,48,Female,Human Resources,Data Analyst,Bachelor,Single,7,19,87188,4,3,4,3,No,Rarely,1,31,Yes,40-49
+EMP1308,50,Male,IT,Junior Analyst,PhD,Single,9,17,123633,2,3,3,3,No,Never,6,46,No,50-60
+EMP1309,54,Male,Finance,Sales Executive,Bachelor,Divorced,4,19,88471,2,4,1,3,No,Frequently,3,27,No,50-60
+EMP1310,52,Male,IT,Junior Analyst,Bachelor,Divorced,8,8,173228,2,1,1,3,No,Rarely,1,45,No,50-60
+EMP1311,40,Male,Sales,Junior Analyst,High School,Married,0,23,82287,4,3,1,2,Yes,Rarely,4,21,Yes,40-49
+EMP1312,51,Female,Finance,Sales Executive,Bachelor,Divorced,1,20,157717,3,1,3,3,No,Rarely,6,37,No,50-60
+EMP1313,42,Male,Marketing,HR Executive,High School,Married,18,18,84076,1,4,1,2,No,Never,3,9,No,40-49
+EMP1314,52,Female,Research & Development,Manager,Bachelor,Single,13,13,141475,3,4,4,3,No,Never,1,35,No,50-60
+EMP1315,22,Male,Marketing,Sales Executive,Bachelor,Married,19,19,75151,4,3,1,1,No,Never,6,42,No,20-29
+EMP1316,37,Male,Human Resources,Accountant,Master,Married,9,11,92384,2,2,4,3,Yes,Frequently,5,47,No,30-39
+EMP1317,44,Female,Finance,Data Analyst,Master,Divorced,8,16,124865,2,3,4,1,Yes,Rarely,0,21,No,40-49
+EMP1318,50,Male,Finance,Marketing Specialist,Bachelor,Single,9,15,58541,1,2,1,2,No,Rarely,3,17,Yes,50-60
+EMP1319,22,Female,Sales,HR Executive,Master,Married,5,17,97847,1,1,3,3,No,Rarely,3,24,No,20-29
+EMP1320,59,Female,Human Resources,Sales Executive,Master,Single,16,22,75955,3,2,2,4,No,Rarely,2,31,No,50-60
+EMP1321,43,Male,Research & Development,Accountant,Master,Single,5,18,165362,3,3,2,2,No,Rarely,6,6,No,40-49
+EMP1322,51,Female,Finance,Marketing Specialist,High School,Single,3,19,112780,1,2,4,3,Yes,Never,1,35,No,50-60
+EMP1323,41,Female,Finance,Data Analyst,Master,Divorced,19,19,124919,4,4,3,2,Yes,Never,0,37,Yes,40-49
+EMP1324,42,Female,Sales,Data Analyst,PhD,Married,2,22,137854,3,1,2,4,No,Rarely,6,13,No,40-49
+EMP1325,21,Female,IT,HR Executive,Master,Married,18,22,86768,2,4,1,3,No,Frequently,5,25,No,20-29
+EMP1326,46,Female,Research & Development,Sales Executive,Bachelor,Married,17,23,68262,2,4,1,4,No,Frequently,4,32,No,40-49
+EMP1327,21,Female,Marketing,Manager,Bachelor,Single,3,5,161578,4,4,4,3,No,Rarely,3,1,No,20-29
+EMP1328,45,Female,Human Resources,Data Analyst,Master,Single,7,7,45605,1,4,3,1,No,Frequently,4,49,No,40-49
+EMP1329,36,Female,Finance,Manager,Bachelor,Single,16,16,103590,3,2,3,2,Yes,Rarely,4,35,No,30-39
+EMP1330,59,Male,Finance,Manager,High School,Married,4,4,53231,2,4,2,4,No,Never,4,19,Yes,50-60
+EMP1331,52,Male,Marketing,HR Executive,Bachelor,Married,12,12,104397,1,2,2,2,Yes,Frequently,2,12,Yes,50-60
+EMP1332,28,Female,Research & Development,Marketing Specialist,Master,Married,0,10,102123,3,4,1,4,No,Frequently,6,40,No,20-29
+EMP1333,58,Male,IT,Software Engineer,Master,Single,12,12,38515,4,3,4,2,No,Rarely,4,40,No,50-60
+EMP1334,48,Female,Finance,Junior Analyst,High School,Single,3,3,112211,2,4,3,2,No,Rarely,1,47,No,40-49
+EMP1335,45,Female,Research & Development,Junior Analyst,PhD,Single,13,13,41600,4,3,2,2,Yes,Rarely,1,43,No,40-49
+EMP1336,54,Male,Marketing,Data Analyst,Bachelor,Married,2,2,94310,4,2,2,1,No,Frequently,0,20,No,50-60
+EMP1337,44,Female,Sales,Software Engineer,Master,Divorced,4,10,177873,4,1,4,3,No,Never,0,33,No,40-49
+EMP1338,43,Female,IT,Marketing Specialist,Master,Married,6,22,160501,3,2,4,1,Yes,Rarely,5,29,Yes,40-49
+EMP1339,32,Female,Human Resources,Software Engineer,Master,Married,0,17,160678,4,1,1,2,Yes,Frequently,4,16,No,30-39
+EMP1340,26,Female,Finance,HR Executive,PhD,Married,11,11,160550,3,1,4,4,No,Rarely,4,14,No,20-29
+EMP1341,55,Male,Research & Development,Data Analyst,Bachelor,Married,10,10,139380,3,4,1,2,No,Rarely,2,7,No,50-60
+EMP1342,39,Female,Sales,Manager,Master,Single,7,12,136780,4,1,1,3,No,Frequently,6,6,No,30-39
+EMP1343,20,Female,Human Resources,Data Analyst,High School,Divorced,5,8,91177,4,2,4,1,Yes,Frequently,4,21,No,20-29
+EMP1344,27,Female,Research & Development,Junior Analyst,Master,Married,1,20,177802,1,4,4,3,No,Rarely,4,36,No,20-29
+EMP1345,35,Male,Research & Development,Marketing Specialist,Master,Single,18,18,177185,2,1,4,4,Yes,Rarely,6,22,No,30-39
+EMP1346,33,Female,Human Resources,Software Engineer,Master,Married,19,19,176083,1,2,4,3,No,Rarely,4,40,No,30-39
+EMP1347,31,Male,Sales,Marketing Specialist,Bachelor,Married,19,19,80746,2,1,4,1,No,Rarely,3,19,No,30-39
+EMP1348,42,Male,Marketing,HR Executive,Master,Married,13,13,148075,2,1,1,4,No,Never,3,25,No,40-49
+EMP1349,34,Female,Sales,Data Analyst,Bachelor,Divorced,0,10,110195,1,4,2,3,No,Frequently,2,3,Yes,30-39
+EMP1350,47,Female,IT,Sales Executive,High School,Married,9,22,61818,1,4,3,1,Yes,Rarely,2,36,Yes,40-49
+EMP1351,53,Male,Finance,Data Analyst,Master,Married,15,15,46309,2,2,3,1,Yes,Rarely,1,45,No,50-60
+EMP1352,21,Female,Human Resources,Manager,Bachelor,Single,3,3,174760,2,4,1,2,No,Never,2,34,No,20-29
+EMP1353,51,Male,Marketing,Data Analyst,Master,Single,10,22,53176,2,4,1,3,Yes,Frequently,5,11,Yes,50-60
+EMP1354,42,Male,Human Resources,Accountant,Bachelor,Single,15,15,93879,3,3,2,4,No,Frequently,1,48,No,40-49
+EMP1355,41,Female,Human Resources,HR Executive,Bachelor,Single,19,19,92592,2,3,4,2,Yes,Rarely,6,42,No,40-49
+EMP1356,44,Female,Sales,Senior Analyst,Master,Married,0,13,109728,4,2,1,3,No,Never,4,47,No,40-49
+EMP1357,41,Male,Finance,HR Executive,Bachelor,Married,15,15,165488,4,4,3,3,No,Rarely,2,27,No,40-49
+EMP1358,41,Male,IT,Software Engineer,Bachelor,Single,18,22,33584,4,2,4,4,Yes,Frequently,5,42,No,40-49
+EMP1359,25,Male,Research & Development,Senior Analyst,Master,Married,20,20,149555,1,3,1,2,No,Never,2,2,No,20-29
+EMP1360,34,Male,Research & Development,Software Engineer,Bachelor,Single,8,8,118302,1,3,4,2,No,Rarely,2,6,No,30-39
+EMP1361,56,Female,Human Resources,Software Engineer,Master,Single,8,8,147408,1,3,3,4,No,Rarely,1,46,No,50-60
+EMP1362,52,Female,Finance,Manager,Bachelor,Single,8,8,43830,2,2,4,2,No,Rarely,6,2,No,50-60
+EMP1363,27,Female,Marketing,Manager,Master,Married,16,16,102066,4,4,1,1,No,Rarely,6,42,No,20-29
+EMP1364,24,Female,Sales,Junior Analyst,Master,Single,11,11,28591,2,1,1,4,No,Rarely,1,17,No,20-29
+EMP1365,58,Female,Finance,Junior Analyst,Master,Married,12,16,118878,3,4,3,3,No,Never,0,40,No,50-60
+EMP1366,23,Male,Finance,Sales Executive,High School,Married,7,21,150407,3,2,2,4,Yes,Rarely,1,48,Yes,20-29
+EMP1367,25,Female,Sales,Senior Analyst,Master,Divorced,15,15,141869,1,3,2,1,No,Frequently,1,14,Yes,20-29
+EMP1368,51,Female,Human Resources,Marketing Specialist,Master,Single,17,17,46395,3,1,4,4,No,Never,3,10,No,50-60
+EMP1369,49,Female,Finance,Data Analyst,Master,Single,0,19,41738,4,2,1,3,Yes,Never,2,45,Yes,40-49
+EMP1370,54,Female,Research & Development,Data Analyst,Bachelor,Single,0,8,158703,3,3,1,3,No,Rarely,1,33,No,50-60
+EMP1371,59,Female,Sales,Software Engineer,Master,Married,11,11,173977,1,2,3,4,No,Rarely,2,42,No,50-60
+EMP1372,35,Male,Marketing,Junior Analyst,Master,Single,5,5,44056,2,1,3,4,Yes,Rarely,2,12,No,30-39
+EMP1373,32,Male,IT,Software Engineer,High School,Married,8,12,146656,3,3,1,1,Yes,Rarely,3,32,No,30-39
+EMP1374,49,Male,Human Resources,Accountant,Bachelor,Married,4,5,140316,4,4,3,1,Yes,Frequently,2,49,Yes,40-49
+EMP1375,38,Female,Sales,Accountant,Master,Married,15,16,79418,4,2,2,3,No,Rarely,5,24,No,30-39
+EMP1376,36,Male,IT,Marketing Specialist,High School,Married,17,17,62190,4,1,2,2,No,Rarely,1,14,No,30-39
+EMP1377,38,Male,IT,Manager,PhD,Single,16,17,51014,2,4,4,2,No,Rarely,2,5,No,30-39
+EMP1378,47,Female,Marketing,Manager,Master,Single,17,24,150563,4,1,3,2,Yes,Frequently,0,5,No,40-49
+EMP1379,45,Female,Finance,Junior Analyst,Master,Single,0,21,26780,1,2,4,2,No,Rarely,0,47,Yes,40-49
+EMP1380,56,Female,Marketing,Junior Analyst,Bachelor,Married,18,18,67192,1,1,3,3,No,Rarely,3,32,No,50-60
+EMP1381,45,Male,Finance,Accountant,Bachelor,Single,7,12,129875,4,3,3,2,No,Rarely,5,45,No,40-49
+EMP1382,42,Male,Finance,Manager,PhD,Single,2,2,124129,3,1,2,2,No,Frequently,6,49,No,40-49
+EMP1383,28,Female,Sales,Senior Analyst,Bachelor,Divorced,4,12,68923,4,2,1,4,No,Frequently,6,33,No,20-29
+EMP1384,31,Female,Sales,Senior Analyst,Master,Single,7,12,114196,1,3,3,2,No,Rarely,1,46,No,30-39
+EMP1385,20,Male,Human Resources,Junior Analyst,Bachelor,Married,18,18,27395,1,1,3,4,No,Frequently,3,4,No,20-29
+EMP1386,20,Male,Finance,Software Engineer,High School,Married,17,19,127449,1,1,3,3,No,Rarely,0,30,No,20-29
+EMP1387,53,Female,IT,Manager,High School,Single,17,17,146747,3,3,1,4,Yes,Rarely,5,41,Yes,50-60
+EMP1388,51,Female,Research & Development,Senior Analyst,Bachelor,Single,20,20,171851,3,4,4,1,No,Rarely,1,17,No,50-60
+EMP1389,44,Male,Human Resources,Manager,PhD,Single,0,24,96028,3,4,4,4,No,Rarely,2,3,No,40-49
+EMP1390,59,Female,Sales,HR Executive,Bachelor,Married,14,24,163183,1,3,3,2,Yes,Frequently,1,13,Yes,50-60
+EMP1391,20,Male,Marketing,Data Analyst,Bachelor,Married,17,17,166056,2,1,3,4,Yes,Rarely,4,44,No,20-29
+EMP1392,35,Male,Human Resources,Accountant,Bachelor,Married,6,13,118176,4,4,4,4,No,Frequently,1,48,No,30-39
+EMP1393,58,Male,Human Resources,Manager,Bachelor,Divorced,15,15,51924,4,3,4,3,Yes,Rarely,2,36,Yes,50-60
+EMP1394,24,Male,Human Resources,Data Analyst,Bachelor,Married,15,15,57577,1,2,2,3,No,Never,4,18,No,20-29
+EMP1395,41,Female,Human Resources,HR Executive,Master,Single,14,14,163783,3,1,3,2,No,Frequently,6,23,No,40-49
+EMP1396,48,Female,Research & Development,Manager,Bachelor,Single,5,20,110548,2,2,4,1,No,Frequently,5,35,No,40-49
+EMP1397,22,Male,Marketing,Junior Analyst,Bachelor,Married,8,8,150093,2,1,2,1,Yes,Frequently,3,49,No,20-29
+EMP1398,31,Male,Marketing,Data Analyst,High School,Single,6,9,160168,3,4,1,4,No,Never,5,33,No,30-39
+EMP1399,45,Male,Marketing,Manager,PhD,Single,13,13,91555,4,2,3,1,Yes,Never,1,36,No,40-49
+EMP1400,35,Male,Finance,Data Analyst,Bachelor,Married,10,14,114848,4,2,4,3,No,Rarely,6,17,No,30-39
+EMP1401,56,Male,IT,HR Executive,High School,Married,20,20,33254,2,3,3,2,Yes,Rarely,3,39,No,50-60
+EMP1402,41,Female,Marketing,Manager,Master,Divorced,15,15,150410,2,4,2,2,No,Rarely,1,34,No,40-49
+EMP1403,48,Female,Human Resources,Manager,Bachelor,Married,5,8,162037,3,4,4,3,Yes,Rarely,0,12,Yes,40-49
+EMP1404,33,Female,Human Resources,Manager,Bachelor,Single,15,15,128025,4,1,1,2,Yes,Rarely,0,5,No,30-39
+EMP1405,47,Female,Marketing,Marketing Specialist,Bachelor,Divorced,19,21,155509,2,3,1,4,Yes,Rarely,2,48,Yes,40-49
+EMP1406,24,Male,Marketing,Junior Analyst,Master,Single,15,15,57963,4,3,2,2,No,Never,6,40,No,20-29
+EMP1407,49,Male,Human Resources,HR Executive,Bachelor,Single,11,11,28273,2,1,1,1,No,Rarely,6,27,No,40-49
+EMP1408,24,Male,Finance,Marketing Specialist,Master,Married,16,23,40330,3,2,1,2,Yes,Frequently,5,40,Yes,20-29
+EMP1409,31,Male,Sales,Software Engineer,Master,Single,4,14,177566,4,1,1,2,No,Rarely,0,13,No,30-39
+EMP1410,35,Male,Sales,Marketing Specialist,Bachelor,Married,12,15,101422,2,1,1,3,Yes,Frequently,4,26,No,30-39
+EMP1411,45,Female,Marketing,Accountant,Bachelor,Single,7,7,147089,2,1,1,3,No,Rarely,4,14,No,40-49
+EMP1412,45,Male,Research & Development,Accountant,Bachelor,Married,4,19,28212,2,3,1,1,Yes,Frequently,6,32,Yes,40-49
+EMP1413,40,Female,Marketing,Manager,Master,Married,11,12,112594,2,1,1,3,No,Rarely,6,11,No,40-49
+EMP1414,58,Female,Marketing,Marketing Specialist,Bachelor,Married,8,20,157152,3,1,4,1,No,Rarely,1,38,No,50-60
+EMP1415,55,Female,Sales,Software Engineer,Bachelor,Married,2,4,57675,4,1,1,4,No,Never,6,16,No,50-60
+EMP1416,52,Female,Human Resources,Marketing Specialist,Bachelor,Single,2,3,47007,4,4,4,1,Yes,Rarely,3,22,No,50-60
+EMP1417,49,Male,Marketing,Junior Analyst,PhD,Married,0,5,138805,1,2,3,2,Yes,Rarely,4,47,No,40-49
+EMP1418,56,Female,Human Resources,Junior Analyst,Bachelor,Married,17,17,107641,4,2,2,1,No,Rarely,1,16,No,50-60
+EMP1419,42,Female,Human Resources,Software Engineer,PhD,Single,11,15,120815,1,2,1,4,Yes,Never,3,13,No,40-49
+EMP1420,29,Female,Research & Development,Marketing Specialist,Bachelor,Married,8,19,71815,2,2,2,2,No,Rarely,6,12,Yes,20-29
+EMP1421,24,Male,Human Resources,Data Analyst,High School,Married,8,8,108482,3,3,1,1,Yes,Frequently,6,18,No,20-29
+EMP1422,55,Male,Sales,Junior Analyst,Bachelor,Single,17,17,25639,3,3,4,3,Yes,Rarely,0,29,No,50-60
+EMP1423,53,Male,Finance,Junior Analyst,Bachelor,Married,17,17,88593,2,1,1,3,Yes,Rarely,1,18,No,50-60
+EMP1424,50,Female,Finance,Senior Analyst,Bachelor,Single,6,22,103038,1,3,3,3,No,Never,3,46,No,50-60
+EMP1425,29,Female,IT,Marketing Specialist,High School,Married,3,17,118899,2,2,2,1,No,Rarely,2,2,No,20-29
+EMP1426,38,Male,Marketing,Junior Analyst,PhD,Single,12,14,28736,3,4,2,1,No,Frequently,6,2,No,30-39
+EMP1427,51,Female,Sales,HR Executive,Master,Divorced,16,22,41473,3,1,3,4,Yes,Rarely,5,3,Yes,50-60
+EMP1428,20,Male,Human Resources,Marketing Specialist,Master,Married,1,10,153771,4,1,4,2,No,Rarely,5,29,No,20-29
+EMP1429,24,Male,Finance,Accountant,Bachelor,Married,13,13,150801,1,2,4,2,No,Rarely,6,8,Yes,20-29
+EMP1430,23,Female,Sales,Senior Analyst,High School,Married,2,4,132598,4,2,3,2,No,Frequently,2,11,No,20-29
+EMP1431,35,Female,Finance,Junior Analyst,High School,Divorced,4,6,111623,3,2,2,2,Yes,Frequently,4,12,No,30-39
+EMP1432,43,Female,Human Resources,Senior Analyst,Master,Married,13,24,61820,3,3,1,1,No,Frequently,5,32,No,40-49
+EMP1433,35,Female,Finance,Accountant,PhD,Single,2,22,82589,4,1,4,1,No,Rarely,3,4,No,30-39
+EMP1434,21,Male,Marketing,Software Engineer,Bachelor,Married,6,16,43414,4,2,1,4,No,Rarely,6,9,Yes,20-29
+EMP1435,47,Male,Marketing,Software Engineer,High School,Married,17,17,152378,3,4,2,2,Yes,Rarely,6,24,No,40-49
+EMP1436,51,Male,IT,Marketing Specialist,Bachelor,Married,12,15,49220,4,1,1,1,Yes,Frequently,6,49,Yes,50-60
+EMP1437,46,Male,IT,Accountant,Bachelor,Married,9,21,85531,4,1,3,1,Yes,Frequently,2,16,Yes,40-49
+EMP1438,39,Male,Finance,Sales Executive,Bachelor,Divorced,12,20,135002,1,3,4,1,No,Rarely,4,17,No,30-39
+EMP1439,43,Female,Sales,Sales Executive,Master,Divorced,15,15,34387,3,1,4,1,No,Rarely,1,47,No,40-49
+EMP1440,31,Male,Marketing,Marketing Specialist,Master,Divorced,8,22,101815,2,2,3,2,No,Rarely,6,22,No,30-39
+EMP1441,54,Male,Sales,Manager,High School,Single,1,21,52584,1,2,3,2,No,Never,1,7,No,50-60
+EMP1442,52,Male,Sales,Senior Analyst,High School,Married,4,4,69783,2,4,4,1,No,Frequently,3,10,No,50-60
+EMP1443,52,Female,Finance,Senior Analyst,PhD,Married,16,16,149494,4,1,4,3,No,Rarely,3,29,No,50-60
+EMP1444,56,Female,Sales,Software Engineer,Bachelor,Married,3,13,140814,4,1,4,4,No,Rarely,3,36,No,50-60
+EMP1445,31,Female,Marketing,Sales Executive,High School,Married,16,21,155752,2,3,2,2,No,Rarely,5,24,No,30-39
+EMP1446,22,Female,Human Resources,Junior Analyst,Bachelor,Single,8,14,166929,4,2,2,2,No,Frequently,3,46,No,20-29
+EMP1447,20,Male,IT,Junior Analyst,High School,Married,19,19,98588,4,4,2,3,No,Frequently,6,14,No,20-29
+EMP1448,52,Male,Human Resources,Junior Analyst,Bachelor,Married,1,17,173067,1,2,1,2,No,Rarely,2,14,No,50-60
+EMP1449,59,Female,Sales,Software Engineer,Master,Single,17,17,38580,2,1,2,3,No,Never,2,25,Yes,50-60
+EMP1450,29,Female,Human Resources,Accountant,Bachelor,Married,20,21,43240,1,1,4,3,No,Rarely,4,46,No,20-29
+EMP1451,48,Male,Marketing,Data Analyst,Bachelor,Single,10,10,108446,2,4,2,1,Yes,Rarely,2,22,Yes,40-49
+EMP1452,32,Male,Marketing,Sales Executive,Master,Single,12,22,129533,1,1,4,2,No,Frequently,5,47,No,30-39
+EMP1453,31,Female,Sales,Sales Executive,Bachelor,Single,7,22,105974,3,4,3,4,Yes,Rarely,1,23,Yes,30-39
+EMP1454,50,Female,Finance,Senior Analyst,Master,Married,0,12,98401,3,4,1,3,Yes,Never,4,32,Yes,50-60
+EMP1455,21,Female,Human Resources,Manager,Master,Married,16,23,168283,2,2,1,4,No,Rarely,2,26,No,20-29
+EMP1456,54,Female,Finance,Marketing Specialist,High School,Married,11,11,28646,3,4,3,1,No,Rarely,3,27,No,50-60
+EMP1457,42,Male,Finance,Senior Analyst,Master,Married,3,21,67816,1,1,4,2,No,Frequently,2,45,No,40-49
+EMP1458,36,Male,Research & Development,Accountant,Bachelor,Married,20,20,114460,2,3,1,1,No,Rarely,0,12,No,30-39
+EMP1459,45,Male,Sales,Marketing Specialist,PhD,Single,12,12,69112,3,3,2,1,Yes,Rarely,4,19,No,40-49
+EMP1460,27,Female,IT,Sales Executive,Bachelor,Single,8,9,76048,3,1,4,4,Yes,Never,6,19,No,20-29
+EMP1461,48,Female,Marketing,Accountant,PhD,Divorced,6,14,157850,2,3,1,4,No,Rarely,6,34,No,40-49
+EMP1462,45,Male,Marketing,Marketing Specialist,Master,Single,4,8,70752,3,3,3,3,No,Rarely,5,32,No,40-49
+EMP1463,29,Male,Sales,HR Executive,Bachelor,Divorced,4,14,95726,3,4,4,2,Yes,Never,2,29,No,20-29
+EMP1464,45,Male,IT,Data Analyst,Bachelor,Married,16,16,69788,2,3,1,1,No,Rarely,2,21,No,40-49
+EMP1465,53,Male,Marketing,Sales Executive,PhD,Married,8,10,29747,3,3,3,3,No,Rarely,5,35,Yes,50-60
+EMP1466,60,Female,Sales,Manager,Master,Divorced,5,20,25045,3,3,4,3,No,Frequently,1,42,No,50-60
+EMP1467,26,Male,Marketing,Junior Analyst,High School,Single,18,20,32758,3,2,2,1,No,Rarely,3,5,Yes,20-29
+EMP1468,23,Male,Finance,HR Executive,Master,Single,15,21,150076,3,1,4,1,No,Never,3,12,No,20-29
+EMP1469,30,Male,Human Resources,Junior Analyst,Bachelor,Married,20,20,179509,4,4,2,3,No,Rarely,1,7,No,30-39
+EMP1470,48,Male,Human Resources,Data Analyst,High School,Married,1,19,175657,2,3,4,1,No,Frequently,1,41,No,40-49
+EMP1471,55,Male,Marketing,Marketing Specialist,Bachelor,Divorced,9,15,165926,4,1,3,1,Yes,Rarely,0,2,Yes,50-60
+EMP1472,44,Male,Research & Development,Software Engineer,Bachelor,Single,15,15,81950,4,3,2,4,No,Rarely,5,25,No,40-49
+EMP1473,40,Male,IT,Manager,Master,Married,4,23,173421,1,2,2,2,No,Frequently,4,10,Yes,40-49
+EMP1474,55,Female,IT,Data Analyst,Bachelor,Married,14,21,177420,4,2,4,3,Yes,Rarely,3,38,No,50-60
+EMP1475,29,Female,IT,Junior Analyst,Master,Married,12,12,44455,4,3,1,1,Yes,Frequently,1,44,No,20-29
+EMP1476,56,Female,Finance,HR Executive,High School,Single,12,12,113552,1,3,2,3,No,Rarely,1,6,No,50-60
+EMP1477,28,Female,IT,Sales Executive,Bachelor,Married,12,21,71116,3,3,4,2,No,Frequently,5,27,No,20-29
+EMP1478,43,Male,Human Resources,HR Executive,Bachelor,Married,14,14,145461,3,2,3,3,No,Rarely,6,35,Yes,40-49
+EMP1479,54,Female,Finance,HR Executive,Bachelor,Single,13,13,65484,4,2,4,3,Yes,Frequently,4,10,No,50-60
+EMP1480,54,Female,Sales,Software Engineer,High School,Married,7,16,106638,1,1,4,3,No,Frequently,1,9,No,50-60
+EMP1481,55,Male,IT,Software Engineer,Bachelor,Married,10,17,159476,3,4,2,4,No,Rarely,6,20,No,50-60
+EMP1482,37,Male,IT,Accountant,Bachelor,Married,17,17,125647,1,4,1,2,Yes,Rarely,0,37,Yes,30-39
+EMP1483,58,Female,Sales,Accountant,Bachelor,Married,3,20,90642,2,2,3,2,No,Rarely,4,35,No,50-60
+EMP1484,51,Female,IT,Marketing Specialist,Bachelor,Single,9,20,71009,2,4,2,3,Yes,Rarely,6,37,No,50-60
+EMP1485,43,Male,Sales,Accountant,Bachelor,Married,0,16,153824,2,3,2,3,Yes,Frequently,0,40,Yes,40-49
+EMP1486,42,Female,Finance,Senior Analyst,Master,Divorced,4,24,54605,2,1,2,2,No,Rarely,2,8,No,40-49
+EMP1487,51,Male,Human Resources,Manager,PhD,Married,12,12,135879,4,2,3,1,No,Never,3,46,No,50-60
+EMP1488,56,Male,Sales,Senior Analyst,Bachelor,Divorced,0,20,145827,2,2,1,4,Yes,Rarely,1,31,Yes,50-60
+EMP1489,31,Male,Research & Development,Senior Analyst,Bachelor,Married,7,15,30580,2,4,3,2,No,Never,6,49,No,30-39
+EMP1490,32,Male,Sales,Junior Analyst,High School,Single,2,18,139902,1,3,3,3,Yes,Rarely,4,43,No,30-39
+EMP1491,42,Female,IT,Data Analyst,PhD,Married,2,2,30400,3,1,1,1,Yes,Never,0,16,Yes,40-49
+EMP1492,44,Male,Finance,Senior Analyst,High School,Divorced,6,19,121032,1,4,3,1,No,Rarely,3,28,No,40-49
+EMP1493,54,Male,Marketing,Manager,Bachelor,Single,3,12,152319,4,2,4,1,No,Rarely,3,6,No,50-60
+EMP1494,60,Female,Finance,Software Engineer,Bachelor,Divorced,2,8,131960,2,2,3,4,Yes,Never,1,32,No,50-60
+EMP1495,49,Male,Marketing,Marketing Specialist,Bachelor,Divorced,14,14,64015,3,4,2,4,No,Rarely,6,28,No,40-49
+EMP1496,36,Female,Sales,Junior Analyst,Bachelor,Married,7,12,96713,3,3,3,2,Yes,Rarely,3,11,No,30-39
+EMP1497,39,Female,Human Resources,Software Engineer,Master,Single,2,7,171046,2,1,2,2,No,Frequently,1,42,No,30-39
+EMP1498,44,Female,Research & Development,Junior Analyst,High School,Married,6,18,170109,2,1,3,2,No,Frequently,6,23,Yes,40-49
+EMP1499,41,Male,Finance,Manager,Master,Single,17,22,172239,4,1,2,2,No,Rarely,6,30,No,40-49
+EMP1500,32,Female,IT,HR Executive,High School,Married,10,14,113754,4,1,2,3,Yes,Rarely,2,9,No,30-39
+EMP1501,38,Female,Marketing,Sales Executive,High School,Married,10,10,68148,2,3,2,4,No,Frequently,1,28,No,30-39
+EMP1502,55,Male,IT,Data Analyst,PhD,Married,16,24,177606,2,2,1,1,No,Rarely,5,24,No,50-60
+EMP1503,31,Female,Human Resources,Software Engineer,Bachelor,Married,5,20,147790,2,2,3,3,No,Never,0,28,No,30-39
+EMP1504,60,Female,Marketing,Data Analyst,Master,Married,7,22,111078,2,1,3,2,No,Frequently,5,24,No,50-60
+EMP1505,38,Female,Finance,HR Executive,Bachelor,Married,0,14,81879,3,1,4,2,No,Frequently,6,15,Yes,30-39
+EMP1506,31,Female,Sales,Sales Executive,High School,Married,9,9,144894,4,1,4,3,No,Rarely,6,39,No,30-39
+EMP1507,28,Female,IT,Data Analyst,PhD,Married,18,18,90839,2,4,4,1,No,Never,3,33,No,20-29
+EMP1508,26,Male,Human Resources,Data Analyst,Bachelor,Married,2,8,54756,2,4,3,4,No,Rarely,3,47,No,20-29
+EMP1509,47,Female,Finance,Software Engineer,Master,Married,3,3,168755,3,2,1,4,No,Never,3,34,No,40-49
+EMP1510,33,Female,Finance,Accountant,Bachelor,Married,10,16,167097,1,2,2,1,No,Rarely,6,22,No,30-39
+EMP1511,50,Male,Finance,Sales Executive,Master,Married,14,14,174787,2,1,3,4,No,Frequently,1,29,No,50-60
+EMP1512,38,Male,Finance,HR Executive,High School,Married,0,7,117943,3,4,1,2,No,Frequently,4,34,Yes,30-39
+EMP1513,35,Male,Marketing,Sales Executive,Bachelor,Single,8,16,173188,3,3,1,2,No,Rarely,1,42,No,30-39
+EMP1514,24,Female,Finance,Manager,Master,Single,10,10,61744,1,4,3,2,No,Rarely,0,47,Yes,20-29
+EMP1515,54,Male,IT,Accountant,PhD,Divorced,18,18,149697,4,2,2,2,No,Rarely,1,10,No,50-60
+EMP1516,31,Female,Human Resources,Manager,PhD,Married,12,14,141072,4,4,1,1,No,Rarely,3,45,No,30-39
+EMP1517,44,Female,Marketing,HR Executive,Master,Married,15,15,158196,4,2,3,4,No,Rarely,2,30,Yes,40-49
+EMP1518,40,Male,Finance,Software Engineer,Master,Married,3,3,32176,2,1,2,4,No,Rarely,0,11,No,40-49
+EMP1519,55,Male,Research & Development,Software Engineer,Bachelor,Single,0,1,116310,4,3,4,3,No,Frequently,5,34,No,50-60
+EMP1520,42,Female,Research & Development,HR Executive,Bachelor,Married,19,19,174748,2,1,1,1,No,Frequently,2,21,No,40-49
+EMP1521,35,Male,Human Resources,Junior Analyst,Bachelor,Married,12,20,70177,2,1,1,4,Yes,Rarely,0,13,Yes,30-39
+EMP1522,58,Female,Sales,HR Executive,Bachelor,Married,0,21,135623,3,3,3,4,No,Frequently,0,25,Yes,50-60
+EMP1523,58,Male,Sales,Accountant,Bachelor,Married,4,15,25997,4,3,3,3,No,Never,6,21,Yes,50-60
+EMP1524,33,Male,Marketing,Senior Analyst,Bachelor,Single,4,4,145179,4,3,2,2,No,Rarely,3,1,No,30-39
+EMP1525,50,Male,Marketing,Software Engineer,Bachelor,Single,13,13,145403,4,2,4,4,Yes,Rarely,6,5,No,50-60
+EMP1526,24,Female,Marketing,Marketing Specialist,Master,Divorced,13,16,167303,2,1,4,2,No,Rarely,5,22,Yes,20-29
+EMP1527,54,Male,Sales,Accountant,Bachelor,Married,7,7,120287,2,2,3,3,No,Frequently,1,7,No,50-60
+EMP1528,42,Female,Research & Development,Accountant,Bachelor,Married,3,7,144574,4,3,3,4,Yes,Frequently,6,13,No,40-49
+EMP1529,48,Female,Sales,Accountant,Bachelor,Single,6,24,146509,2,2,2,2,Yes,Frequently,5,45,No,40-49
+EMP1530,30,Female,IT,Data Analyst,Master,Single,19,22,110447,2,3,3,1,No,Rarely,3,23,No,30-39
+EMP1531,37,Female,Finance,Accountant,Master,Married,18,18,134522,1,4,2,2,No,Frequently,3,21,No,30-39
+EMP1532,31,Male,Marketing,Software Engineer,Master,Married,14,16,106144,1,3,2,2,Yes,Rarely,6,6,No,30-39
+EMP1533,28,Female,Research & Development,Senior Analyst,Bachelor,Married,3,24,117693,4,1,4,2,No,Rarely,3,20,No,20-29
+EMP1534,29,Female,Human Resources,Senior Analyst,Bachelor,Single,18,18,119315,4,1,2,2,No,Rarely,2,12,No,20-29
+EMP1535,36,Male,Human Resources,Accountant,High School,Married,8,23,52387,1,1,4,1,No,Rarely,5,40,Yes,30-39
+EMP1536,57,Female,Finance,Manager,Bachelor,Single,20,22,29090,2,2,4,3,No,Frequently,5,9,No,50-60
+EMP1537,26,Male,Research & Development,Software Engineer,Bachelor,Single,12,12,145846,2,1,4,2,No,Frequently,0,28,No,20-29
+EMP1538,32,Female,Sales,Software Engineer,High School,Married,13,13,65239,3,3,3,2,No,Never,4,11,No,30-39
+EMP1539,59,Male,Sales,Sales Executive,Bachelor,Single,13,16,28743,4,4,4,4,Yes,Rarely,1,32,No,50-60
+EMP1540,28,Female,IT,Junior Analyst,PhD,Single,9,11,55924,4,1,2,4,Yes,Never,3,11,No,20-29
+EMP1541,46,Male,IT,Junior Analyst,PhD,Married,15,15,166268,4,2,3,1,No,Frequently,5,24,No,40-49
+EMP1542,21,Female,Sales,Manager,Bachelor,Married,4,6,155160,3,4,2,1,Yes,Rarely,5,15,No,20-29
+EMP1543,24,Female,Human Resources,Junior Analyst,High School,Married,5,24,116815,3,1,3,1,No,Never,0,41,Yes,20-29
+EMP1544,48,Male,Marketing,Sales Executive,Bachelor,Married,1,1,130312,2,1,2,4,Yes,Frequently,1,35,No,40-49
+EMP1545,56,Male,Human Resources,HR Executive,Bachelor,Single,12,21,93860,1,4,1,2,Yes,Rarely,4,17,No,50-60
+EMP1546,57,Male,IT,Junior Analyst,PhD,Single,12,19,105399,1,1,1,4,No,Never,4,25,No,50-60
+EMP1547,38,Male,Finance,Software Engineer,High School,Divorced,18,18,73795,1,2,1,3,No,Frequently,3,49,No,30-39
+EMP1548,27,Female,Sales,HR Executive,Master,Married,17,24,76553,2,3,2,1,No,Frequently,4,35,No,20-29
+EMP1549,20,Female,IT,Junior Analyst,High School,Married,18,18,128976,1,3,3,1,Yes,Never,4,19,No,20-29
+EMP1550,41,Male,IT,Software Engineer,PhD,Single,0,18,138566,3,4,4,1,Yes,Rarely,6,41,No,40-49
+EMP1551,36,Female,Marketing,Software Engineer,Bachelor,Married,7,13,144968,3,3,4,3,No,Frequently,1,31,No,30-39
+EMP1552,26,Male,Sales,Accountant,Master,Single,15,15,86600,4,1,2,2,No,Frequently,1,17,Yes,20-29
+EMP1553,44,Male,Marketing,Senior Analyst,Bachelor,Married,1,23,75022,1,1,2,2,No,Rarely,6,23,Yes,40-49
+EMP1554,23,Female,Sales,Manager,Master,Divorced,7,13,159271,3,2,2,2,Yes,Rarely,3,47,No,20-29
+EMP1555,55,Female,Marketing,Sales Executive,Bachelor,Divorced,5,21,75897,4,3,2,1,No,Frequently,5,1,No,50-60
+EMP1556,25,Female,Human Resources,Data Analyst,High School,Married,15,15,63038,1,4,4,2,No,Rarely,0,10,No,20-29
+EMP1557,50,Female,Finance,Junior Analyst,PhD,Married,10,21,148323,1,1,3,4,No,Frequently,3,8,No,50-60
+EMP1558,38,Female,Finance,Junior Analyst,PhD,Divorced,16,17,145278,3,4,4,1,No,Never,2,42,No,30-39
+EMP1559,58,Female,Sales,HR Executive,Master,Married,18,18,136054,4,1,2,3,No,Rarely,4,26,No,50-60
+EMP1560,46,Female,Research & Development,HR Executive,Master,Single,10,20,32897,4,1,1,3,No,Rarely,6,34,No,40-49
+EMP1561,29,Male,IT,Junior Analyst,Master,Married,7,13,89541,3,2,4,2,No,Rarely,0,19,No,20-29
+EMP1562,45,Male,IT,Marketing Specialist,High School,Single,3,3,131968,3,3,1,1,No,Frequently,5,14,No,40-49
+EMP1563,38,Male,Sales,Sales Executive,Bachelor,Married,10,10,39892,3,2,1,4,Yes,Never,5,8,No,30-39
+EMP1564,58,Male,Marketing,Junior Analyst,Bachelor,Married,7,7,164343,1,3,2,4,Yes,Rarely,1,1,No,50-60
+EMP1565,22,Male,Research & Development,Senior Analyst,Master,Married,8,8,49815,3,4,4,1,No,Rarely,2,48,No,20-29
+EMP1566,32,Female,Human Resources,Marketing Specialist,Bachelor,Married,1,18,70612,3,3,3,2,Yes,Frequently,5,25,No,30-39
+EMP1567,47,Male,Marketing,Sales Executive,High School,Single,15,15,41267,2,4,4,3,Yes,Frequently,2,24,No,40-49
+EMP1568,39,Male,Marketing,Junior Analyst,Bachelor,Married,5,19,43268,3,1,3,3,No,Rarely,4,47,No,30-39
+EMP1569,47,Male,Sales,Data Analyst,Master,Married,20,20,139463,3,4,3,4,No,Frequently,1,20,No,40-49
+EMP1570,27,Male,Sales,Accountant,Bachelor,Married,20,20,170335,1,4,2,4,No,Rarely,0,30,Yes,20-29
+EMP1571,60,Male,IT,Senior Analyst,High School,Single,18,21,120347,4,1,3,4,No,Frequently,1,5,No,50-60
+EMP1572,58,Male,Sales,Data Analyst,Bachelor,Divorced,7,10,119542,1,4,4,3,No,Rarely,4,3,No,50-60
+EMP1573,20,Male,Sales,HR Executive,Bachelor,Divorced,13,13,91612,2,4,4,4,No,Rarely,6,32,No,20-29
+EMP1574,22,Female,Sales,HR Executive,Bachelor,Single,15,17,163307,3,1,1,3,No,Never,5,17,No,20-29
+EMP1575,32,Female,IT,Junior Analyst,Master,Single,11,22,113757,3,1,3,3,Yes,Rarely,2,42,No,30-39
+EMP1576,47,Male,Human Resources,HR Executive,Master,Married,4,13,172489,3,1,2,2,Yes,Rarely,6,5,No,40-49
+EMP1577,44,Female,Human Resources,Senior Analyst,Master,Married,18,23,123075,3,3,2,2,No,Never,4,11,No,40-49
+EMP1578,52,Female,Sales,Sales Executive,Bachelor,Divorced,17,17,59609,3,1,4,2,Yes,Frequently,5,38,No,50-60
+EMP1579,57,Female,IT,Software Engineer,Master,Divorced,8,9,127785,3,1,3,4,Yes,Rarely,3,4,No,50-60
+EMP1580,25,Female,Human Resources,Manager,Bachelor,Married,1,24,48645,2,4,2,3,Yes,Frequently,2,39,No,20-29
+EMP1581,51,Male,Marketing,Sales Executive,Bachelor,Married,19,19,87233,3,2,3,4,No,Never,4,19,Yes,50-60
+EMP1582,40,Female,Human Resources,Software Engineer,Master,Single,11,14,136443,3,2,3,3,No,Frequently,0,39,Yes,40-49
+EMP1583,35,Female,Human Resources,Marketing Specialist,Bachelor,Single,1,14,179473,3,3,1,2,No,Rarely,0,46,No,30-39
+EMP1584,40,Female,IT,Senior Analyst,High School,Married,9,9,32771,2,3,2,2,Yes,Frequently,5,49,No,40-49
+EMP1585,30,Male,Marketing,Data Analyst,Master,Married,0,23,127601,3,2,1,4,No,Frequently,5,23,No,30-39
+EMP1586,56,Male,IT,Software Engineer,Bachelor,Married,3,5,158014,2,2,2,3,Yes,Frequently,0,17,No,50-60
+EMP1587,55,Male,Sales,Senior Analyst,Master,Married,11,19,176460,1,1,3,4,No,Rarely,3,13,No,50-60
+EMP1588,54,Male,Finance,Accountant,High School,Single,8,14,150224,3,4,2,1,No,Frequently,1,27,No,50-60
+EMP1589,38,Male,Human Resources,Data Analyst,Master,Married,3,9,108251,4,1,4,4,No,Rarely,0,1,Yes,30-39
+EMP1590,39,Male,Finance,HR Executive,Bachelor,Single,8,8,82042,2,3,3,2,No,Frequently,5,2,No,30-39
+EMP1591,37,Male,IT,HR Executive,High School,Married,5,8,78740,1,2,2,3,No,Never,5,18,No,30-39
+EMP1592,60,Female,IT,Data Analyst,Master,Married,0,14,72024,2,3,1,3,No,Rarely,3,36,No,50-60
+EMP1593,33,Female,IT,Marketing Specialist,Bachelor,Married,9,22,179522,2,1,1,4,No,Rarely,0,45,No,30-39
+EMP1594,34,Female,Finance,Marketing Specialist,Bachelor,Divorced,13,14,81965,1,3,3,2,No,Frequently,3,33,No,30-39
+EMP1595,50,Male,IT,Marketing Specialist,High School,Single,17,17,35057,3,3,1,1,No,Frequently,0,36,No,50-60
+EMP1596,20,Male,Sales,Software Engineer,High School,Married,5,14,33983,3,4,3,4,No,Rarely,1,2,No,20-29
+EMP1597,22,Male,IT,Software Engineer,Bachelor,Single,17,21,155469,2,3,3,3,No,Frequently,4,4,No,20-29
+EMP1598,35,Male,Research & Development,Junior Analyst,High School,Married,19,19,44995,1,1,3,2,No,Never,0,16,No,30-39
+EMP1599,42,Male,Finance,Manager,PhD,Divorced,15,15,139587,3,4,2,3,Yes,Frequently,4,4,No,40-49
+EMP1600,30,Female,Research & Development,Data Analyst,High School,Married,14,23,63886,2,3,3,3,No,Frequently,0,9,No,30-39
+EMP1601,31,Female,IT,Sales Executive,Bachelor,Divorced,15,18,114025,4,1,1,3,No,Rarely,1,49,No,30-39
+EMP1602,29,Male,Sales,Manager,High School,Single,7,7,120149,1,2,4,3,No,Never,6,21,No,20-29
+EMP1603,51,Male,Human Resources,Accountant,Bachelor,Divorced,12,13,119020,4,4,2,1,Yes,Rarely,5,23,No,50-60
+EMP1604,35,Male,Marketing,Software Engineer,PhD,Single,10,12,27673,4,3,1,2,No,Rarely,4,2,No,30-39
+EMP1605,27,Male,Marketing,Software Engineer,Bachelor,Divorced,6,15,102513,2,3,3,4,No,Rarely,3,3,No,20-29
+EMP1606,57,Female,IT,Senior Analyst,PhD,Single,16,18,48466,1,4,3,2,No,Frequently,0,23,Yes,50-60
+EMP1607,31,Male,Sales,Manager,Bachelor,Single,17,17,117545,3,1,4,2,No,Never,5,26,No,30-39
+EMP1608,43,Male,Finance,Senior Analyst,Master,Married,18,18,75406,3,3,1,2,No,Rarely,0,47,No,40-49
+EMP1609,47,Male,Research & Development,Sales Executive,Bachelor,Divorced,12,12,159760,2,1,2,4,No,Frequently,3,7,No,40-49
+EMP1610,27,Male,Research & Development,Senior Analyst,Master,Single,14,14,94284,3,4,1,2,Yes,Frequently,1,36,No,20-29
+EMP1611,47,Female,Research & Development,Manager,Bachelor,Married,0,15,139579,3,3,3,4,No,Frequently,2,44,No,40-49
+EMP1612,55,Male,Finance,Data Analyst,Bachelor,Divorced,15,15,38665,4,2,2,4,No,Frequently,0,33,No,50-60
+EMP1613,45,Male,Marketing,Accountant,Bachelor,Married,4,15,45641,4,2,3,1,No,Rarely,6,49,No,40-49
+EMP1614,27,Female,Sales,Software Engineer,Bachelor,Single,2,13,60797,1,2,3,3,No,Rarely,3,36,No,20-29
+EMP1615,47,Female,Finance,Sales Executive,PhD,Married,9,14,70950,4,4,1,4,No,Never,2,4,No,40-49
+EMP1616,47,Female,Research & Development,Software Engineer,Bachelor,Married,18,18,154554,3,3,4,3,No,Rarely,0,23,No,40-49
+EMP1617,56,Male,IT,Junior Analyst,Bachelor,Divorced,4,13,127339,1,4,3,2,No,Rarely,4,25,No,50-60
+EMP1618,60,Male,Human Resources,Accountant,Master,Married,6,10,138431,1,3,1,3,No,Frequently,5,41,Yes,50-60
+EMP1619,55,Female,Finance,Senior Analyst,Bachelor,Married,13,13,165710,2,2,2,3,No,Never,5,26,No,50-60
+EMP1620,46,Female,Finance,HR Executive,PhD,Divorced,2,2,46173,4,2,4,3,No,Frequently,3,28,Yes,40-49
+EMP1621,36,Female,Sales,Manager,Master,Married,12,15,169294,1,1,3,2,No,Rarely,4,28,Yes,30-39
+EMP1622,28,Female,Sales,Software Engineer,Bachelor,Single,12,16,43095,3,4,3,2,Yes,Rarely,1,21,No,20-29
+EMP1623,52,Female,Finance,Senior Analyst,Master,Single,9,12,148554,1,4,2,4,No,Frequently,2,10,Yes,50-60
+EMP1624,39,Female,Research & Development,Sales Executive,High School,Married,1,24,157511,1,1,1,4,No,Rarely,3,27,No,30-39
+EMP1625,32,Male,Human Resources,Software Engineer,Bachelor,Single,5,6,150614,2,2,3,1,Yes,Rarely,6,15,Yes,30-39
+EMP1626,47,Male,Sales,Accountant,Bachelor,Divorced,7,7,161447,3,2,2,2,No,Rarely,0,17,No,40-49
+EMP1627,48,Male,Research & Development,Accountant,Bachelor,Married,3,12,114023,3,4,3,1,No,Frequently,5,39,No,40-49
+EMP1628,32,Female,IT,Software Engineer,Master,Single,11,15,132181,4,3,1,2,No,Rarely,0,35,No,30-39
+EMP1629,54,Female,Sales,Sales Executive,PhD,Married,14,14,45600,3,2,4,3,No,Rarely,2,5,No,50-60
+EMP1630,25,Female,Research & Development,Accountant,Bachelor,Married,7,24,27466,1,1,1,1,No,Rarely,4,16,No,20-29
+EMP1631,37,Female,Research & Development,Accountant,Bachelor,Divorced,6,6,134934,3,1,1,1,No,Rarely,4,23,No,30-39
+EMP1632,24,Female,Human Resources,Manager,PhD,Divorced,13,13,78276,3,1,1,1,No,Rarely,3,39,Yes,20-29
+EMP1633,44,Female,Human Resources,Sales Executive,Bachelor,Married,18,24,31928,1,4,2,2,No,Rarely,3,48,No,40-49
+EMP1634,21,Male,IT,Sales Executive,Bachelor,Married,13,13,80309,2,4,3,4,No,Frequently,4,9,No,20-29
+EMP1635,29,Male,Research & Development,Data Analyst,Bachelor,Married,12,12,141196,4,4,4,1,No,Rarely,3,33,No,20-29
+EMP1636,49,Female,Marketing,Data Analyst,PhD,Married,20,20,34404,4,4,2,4,No,Rarely,4,35,No,40-49
+EMP1637,24,Male,Research & Development,Accountant,Bachelor,Single,0,9,138187,2,1,1,2,Yes,Rarely,2,40,No,20-29
+EMP1638,52,Female,Human Resources,HR Executive,Master,Single,18,18,135449,1,1,4,1,Yes,Rarely,3,24,No,50-60
+EMP1639,20,Male,Marketing,Data Analyst,Master,Married,0,8,52684,4,4,1,2,No,Rarely,4,24,No,20-29
+EMP1640,37,Female,Sales,Accountant,Bachelor,Single,3,14,93591,2,4,1,4,Yes,Rarely,3,24,No,30-39
+EMP1641,51,Female,Sales,Marketing Specialist,Bachelor,Single,9,9,144821,2,1,1,4,No,Rarely,0,19,No,50-60
+EMP1642,30,Male,Finance,Junior Analyst,Master,Married,2,23,27682,2,4,4,1,No,Never,5,39,No,30-39
+EMP1643,40,Male,Human Resources,Junior Analyst,Bachelor,Single,19,21,136186,4,4,3,4,Yes,Rarely,0,25,No,40-49
+EMP1644,45,Female,Finance,Sales Executive,Master,Married,8,23,46832,4,4,1,3,Yes,Never,1,31,No,40-49
+EMP1645,44,Female,Marketing,HR Executive,PhD,Married,2,12,41997,4,4,3,3,No,Rarely,4,38,No,40-49
+EMP1646,41,Male,Human Resources,Manager,Master,Divorced,5,5,59640,4,2,4,1,No,Rarely,1,25,No,40-49
+EMP1647,46,Male,IT,Data Analyst,Master,Married,5,13,65491,3,4,4,2,No,Frequently,4,27,No,40-49
+EMP1648,32,Female,Research & Development,Marketing Specialist,Master,Single,11,11,88043,2,1,1,2,No,Rarely,5,32,No,30-39
+EMP1649,52,Male,IT,Accountant,Master,Married,0,20,137175,3,1,3,2,Yes,Rarely,3,11,Yes,50-60
+EMP1650,53,Female,Marketing,HR Executive,Bachelor,Married,15,18,153568,2,1,3,3,Yes,Never,4,5,No,50-60
+EMP1651,60,Female,Human Resources,Sales Executive,High School,Divorced,4,19,139250,4,1,1,4,No,Rarely,0,44,No,50-60
+EMP1652,54,Female,Marketing,Data Analyst,Bachelor,Married,8,16,97725,4,4,2,3,No,Rarely,3,33,No,50-60
+EMP1653,20,Female,Research & Development,HR Executive,Master,Single,9,14,153131,3,2,2,4,No,Rarely,5,19,No,20-29
+EMP1654,40,Male,Sales,Data Analyst,Bachelor,Divorced,12,12,70520,1,3,4,3,No,Never,0,43,No,40-49
+EMP1655,25,Male,Sales,Manager,Master,Single,14,14,87919,4,3,4,2,No,Never,3,47,No,20-29
+EMP1656,47,Male,Marketing,Manager,Bachelor,Married,11,11,134869,1,3,2,2,Yes,Rarely,4,16,No,40-49
+EMP1657,36,Male,Finance,Junior Analyst,Master,Married,4,6,89442,2,3,2,2,Yes,Rarely,4,35,No,30-39
+EMP1658,24,Male,Human Resources,Senior Analyst,Bachelor,Single,4,18,177842,3,1,2,1,No,Frequently,0,11,No,20-29
+EMP1659,50,Male,Human Resources,Senior Analyst,Master,Single,17,17,130246,1,4,1,1,No,Rarely,2,11,Yes,50-60
+EMP1660,24,Male,Sales,Data Analyst,Bachelor,Single,11,23,134687,1,4,1,4,Yes,Rarely,4,10,No,20-29
+EMP1661,57,Female,IT,Senior Analyst,Bachelor,Married,2,8,148447,4,3,1,1,No,Frequently,2,34,No,50-60
+EMP1662,22,Male,Research & Development,Sales Executive,Bachelor,Divorced,6,24,86477,1,3,1,3,No,Rarely,3,5,No,20-29
+EMP1663,42,Male,IT,Senior Analyst,Master,Single,16,16,25244,1,2,1,3,No,Frequently,2,23,No,40-49
+EMP1664,56,Female,IT,Software Engineer,Bachelor,Married,18,18,104453,2,2,1,4,Yes,Never,0,25,Yes,50-60
+EMP1665,56,Male,Marketing,Accountant,Bachelor,Single,17,17,152962,3,2,4,4,No,Frequently,1,29,No,50-60
+EMP1666,29,Male,Sales,Sales Executive,PhD,Married,0,8,96303,4,1,3,2,No,Rarely,1,40,No,20-29
+EMP1667,29,Female,Sales,HR Executive,Master,Single,4,17,53390,4,4,4,1,Yes,Rarely,0,13,No,20-29
+EMP1668,38,Male,Sales,Sales Executive,PhD,Divorced,1,12,35247,1,1,3,2,No,Rarely,6,47,Yes,30-39
+EMP1669,36,Male,Marketing,Junior Analyst,Bachelor,Married,0,17,54583,2,1,4,1,No,Rarely,1,32,No,30-39
+EMP1670,40,Male,Finance,HR Executive,Bachelor,Married,6,13,164148,1,4,4,1,No,Rarely,0,34,Yes,40-49
+EMP1671,33,Female,IT,Marketing Specialist,Master,Married,10,19,174078,1,2,1,4,No,Rarely,4,12,No,30-39
+EMP1672,28,Male,Marketing,Accountant,Bachelor,Married,10,12,171123,4,4,1,2,Yes,Rarely,2,24,No,20-29
+EMP1673,20,Male,Human Resources,Accountant,Master,Divorced,17,17,160386,1,3,3,2,No,Rarely,1,40,Yes,20-29
+EMP1674,32,Female,Research & Development,Accountant,Bachelor,Married,16,16,53670,1,2,3,1,No,Rarely,4,21,No,30-39
+EMP1675,23,Male,Finance,Accountant,Bachelor,Divorced,1,16,149920,2,4,1,1,No,Frequently,1,29,No,20-29
+EMP1676,20,Female,Human Resources,Data Analyst,High School,Married,6,6,35236,4,1,4,4,No,Frequently,3,23,No,20-29
+EMP1677,59,Female,IT,Accountant,Bachelor,Single,6,11,60568,3,4,3,3,Yes,Rarely,0,33,No,50-60
+EMP1678,51,Male,Sales,Accountant,High School,Married,9,17,132327,2,2,2,2,No,Frequently,0,8,No,50-60
+EMP1679,53,Female,IT,Accountant,High School,Single,20,23,135188,2,3,2,2,Yes,Frequently,4,42,No,50-60
+EMP1680,47,Female,Marketing,Data Analyst,PhD,Married,2,14,41352,2,1,2,4,Yes,Rarely,6,13,No,40-49
+EMP1681,50,Male,Research & Development,Manager,Bachelor,Married,11,11,150721,4,3,3,4,No,Rarely,3,5,No,50-60
+EMP1682,27,Female,Marketing,Sales Executive,Master,Married,2,23,166418,1,3,1,2,No,Rarely,2,41,No,20-29
+EMP1683,58,Female,Finance,Sales Executive,Master,Single,10,11,80904,3,1,1,2,Yes,Rarely,3,10,Yes,50-60
+EMP1684,45,Male,Finance,HR Executive,Bachelor,Single,11,12,170107,4,4,1,1,No,Rarely,6,14,No,40-49
+EMP1685,53,Male,Research & Development,Software Engineer,Bachelor,Married,3,13,147141,1,4,3,3,No,Never,3,24,No,50-60
+EMP1686,22,Male,Human Resources,Sales Executive,Master,Divorced,15,15,41108,2,3,3,2,No,Rarely,5,11,No,20-29
+EMP1687,31,Female,Human Resources,Senior Analyst,Master,Married,19,19,27853,4,4,2,4,No,Frequently,2,46,No,30-39
+EMP1688,20,Male,Finance,Software Engineer,Master,Married,17,17,109156,1,2,3,1,Yes,Rarely,2,3,Yes,20-29
+EMP1689,24,Female,Finance,Accountant,Master,Married,3,6,29176,3,3,2,1,Yes,Rarely,3,29,Yes,20-29
+EMP1690,49,Female,Sales,Accountant,PhD,Married,5,6,125459,3,3,2,4,No,Rarely,1,48,No,40-49
+EMP1691,49,Female,Human Resources,Data Analyst,Bachelor,Single,20,20,162901,1,3,1,4,Yes,Frequently,5,30,No,40-49
+EMP1692,36,Female,Research & Development,Software Engineer,Bachelor,Married,14,20,148225,4,2,3,1,Yes,Rarely,1,49,No,30-39
+EMP1693,42,Female,Human Resources,Senior Analyst,Master,Single,0,8,143458,2,3,1,4,No,Rarely,3,37,No,40-49
+EMP1694,34,Female,Sales,Data Analyst,High School,Divorced,2,8,135893,1,4,1,1,No,Never,1,7,No,30-39
+EMP1695,56,Female,Marketing,HR Executive,Master,Single,4,8,98927,2,4,3,4,No,Rarely,2,17,No,50-60
+EMP1696,40,Male,Finance,Software Engineer,High School,Married,16,16,143178,3,4,3,1,Yes,Rarely,2,20,Yes,40-49
+EMP1697,33,Male,Finance,Accountant,Bachelor,Single,13,13,65667,1,4,4,2,No,Rarely,1,11,No,30-39
+EMP1698,21,Female,Sales,Accountant,Master,Single,8,8,31611,3,3,2,2,No,Frequently,2,44,No,20-29
+EMP1699,30,Female,Research & Development,Junior Analyst,Bachelor,Married,2,12,113242,2,2,4,4,Yes,Rarely,0,25,No,30-39
+EMP1700,58,Male,Finance,Data Analyst,Bachelor,Single,12,15,109612,2,1,2,3,No,Rarely,2,24,No,50-60
+EMP1701,57,Female,IT,Manager,Bachelor,Single,2,4,71902,1,4,2,2,Yes,Rarely,3,2,No,50-60
+EMP1702,53,Male,Finance,Manager,Master,Married,10,10,58043,1,1,2,1,No,Rarely,4,27,No,50-60
+EMP1703,57,Male,IT,Data Analyst,Bachelor,Single,1,14,161343,1,1,1,3,No,Frequently,1,19,Yes,50-60
+EMP1704,53,Male,Sales,Marketing Specialist,Master,Single,14,22,97867,3,3,1,1,No,Frequently,5,29,No,50-60
+EMP1705,37,Female,Sales,Data Analyst,High School,Married,12,23,102089,2,4,3,1,Yes,Rarely,6,37,Yes,30-39
+EMP1706,49,Female,Finance,HR Executive,Master,Married,18,18,83745,2,4,2,2,Yes,Rarely,1,11,No,40-49
+EMP1707,34,Male,Human Resources,Accountant,Master,Divorced,15,15,167645,3,4,2,4,No,Rarely,6,19,No,30-39
+EMP1708,46,Male,IT,Senior Analyst,Bachelor,Divorced,17,23,177481,1,1,2,4,No,Frequently,6,28,No,40-49
+EMP1709,53,Male,Research & Development,Marketing Specialist,Bachelor,Married,6,19,110970,4,4,1,1,Yes,Rarely,2,39,No,50-60
+EMP1710,57,Male,Finance,Software Engineer,Bachelor,Single,12,22,49464,1,4,3,2,Yes,Rarely,2,21,No,50-60
+EMP1711,52,Male,Research & Development,Marketing Specialist,Master,Married,3,5,143523,4,2,1,1,No,Never,4,26,No,50-60
+EMP1712,43,Female,Finance,Senior Analyst,Bachelor,Married,8,13,45662,4,3,4,3,No,Rarely,4,22,No,40-49
+EMP1713,34,Male,Human Resources,Junior Analyst,Master,Married,9,20,43228,3,4,4,1,Yes,Never,5,6,No,30-39
+EMP1714,49,Female,Human Resources,Accountant,Bachelor,Married,8,8,85721,2,4,4,2,No,Rarely,3,11,No,40-49
+EMP1715,36,Male,Human Resources,Manager,Bachelor,Single,6,16,163458,2,3,3,1,No,Rarely,0,14,No,30-39
+EMP1716,24,Female,Marketing,Data Analyst,High School,Married,14,23,31862,2,3,4,2,No,Rarely,3,36,No,20-29
+EMP1717,48,Female,Human Resources,Data Analyst,Bachelor,Married,7,24,65108,2,1,3,4,No,Rarely,5,40,No,40-49
+EMP1718,23,Female,Sales,Manager,Bachelor,Divorced,18,18,116788,3,1,1,2,No,Rarely,1,41,No,20-29
+EMP1719,29,Female,Sales,Marketing Specialist,Master,Single,10,10,105140,4,1,1,3,Yes,Rarely,2,2,Yes,20-29
+EMP1720,36,Female,Marketing,Accountant,Master,Single,4,6,93578,2,3,3,2,Yes,Never,3,43,Yes,30-39
+EMP1721,29,Female,IT,Sales Executive,Bachelor,Single,1,5,74966,4,2,1,3,No,Rarely,6,20,No,20-29
+EMP1722,36,Male,Research & Development,HR Executive,PhD,Married,9,9,35386,3,4,1,3,No,Frequently,2,22,No,30-39
+EMP1723,39,Female,Finance,Senior Analyst,Master,Single,15,15,102228,1,3,3,1,No,Frequently,2,39,No,30-39
+EMP1724,43,Male,Finance,Marketing Specialist,PhD,Single,12,12,171297,3,2,4,3,No,Frequently,3,4,No,40-49
+EMP1725,24,Female,Marketing,Software Engineer,Bachelor,Divorced,7,22,172765,2,3,3,2,No,Frequently,3,29,No,20-29
+EMP1726,53,Female,Sales,Junior Analyst,Bachelor,Single,8,8,97197,1,2,2,4,Yes,Rarely,6,46,No,50-60
+EMP1727,25,Male,Finance,Data Analyst,High School,Married,10,18,68021,3,3,1,2,No,Rarely,6,24,Yes,20-29
+EMP1728,21,Female,Sales,Marketing Specialist,Master,Married,10,10,143915,3,3,3,4,No,Rarely,4,1,No,20-29
+EMP1729,32,Male,IT,Junior Analyst,High School,Married,15,23,174333,4,2,1,3,Yes,Rarely,5,24,Yes,30-39
+EMP1730,30,Male,Research & Development,Senior Analyst,Bachelor,Married,9,22,142174,3,2,4,1,No,Rarely,5,30,No,30-39
+EMP1731,42,Male,IT,Data Analyst,Bachelor,Divorced,11,15,111755,1,2,1,3,No,Rarely,6,12,No,40-49
+EMP1732,35,Male,Marketing,Data Analyst,Bachelor,Divorced,5,9,168009,3,2,3,3,No,Never,0,19,No,30-39
+EMP1733,50,Female,Human Resources,Sales Executive,Master,Single,11,11,91330,2,2,4,4,Yes,Never,6,37,No,50-60
+EMP1734,30,Female,Human Resources,Marketing Specialist,Bachelor,Single,9,21,97322,4,2,4,2,Yes,Rarely,4,40,No,30-39
+EMP1735,35,Male,Human Resources,Accountant,Bachelor,Single,17,17,127318,1,2,4,1,No,Rarely,0,43,No,30-39
+EMP1736,27,Female,IT,Manager,Master,Married,17,21,70313,1,2,2,1,No,Rarely,3,4,No,20-29
+EMP1737,23,Female,Finance,Manager,PhD,Divorced,3,9,52032,3,3,3,1,Yes,Rarely,5,15,No,20-29
+EMP1738,59,Male,Research & Development,HR Executive,Master,Married,8,23,173430,2,2,3,1,No,Rarely,5,20,No,50-60
+EMP1739,23,Female,Human Resources,Software Engineer,PhD,Married,6,16,86710,4,2,4,2,No,Never,0,44,No,20-29
+EMP1740,44,Male,Marketing,Junior Analyst,Master,Single,17,17,120326,1,3,1,1,No,Rarely,1,20,No,40-49
+EMP1741,22,Male,Marketing,Marketing Specialist,Bachelor,Married,7,22,111157,4,3,4,4,No,Rarely,4,21,No,20-29
+EMP1742,51,Female,Human Resources,Software Engineer,Bachelor,Divorced,10,11,53365,3,1,2,4,No,Rarely,4,10,No,50-60
+EMP1743,22,Female,Human Resources,Sales Executive,Master,Single,6,23,38189,2,1,4,1,Yes,Never,4,30,No,20-29
+EMP1744,46,Female,Research & Development,Data Analyst,Master,Married,8,17,32248,3,2,3,1,No,Never,5,24,No,40-49
+EMP1745,48,Male,Human Resources,Accountant,Master,Single,7,7,29369,4,2,4,2,No,Frequently,2,48,No,40-49
+EMP1746,51,Male,Research & Development,Marketing Specialist,Bachelor,Married,2,15,164122,3,1,1,2,Yes,Rarely,5,40,No,50-60
+EMP1747,38,Female,Marketing,Software Engineer,Bachelor,Married,16,16,53605,4,1,3,1,No,Rarely,2,40,No,30-39
+EMP1748,40,Female,Human Resources,Software Engineer,Bachelor,Single,1,22,74616,1,4,1,2,No,Rarely,5,38,No,40-49
+EMP1749,24,Female,IT,Accountant,Bachelor,Married,14,20,128719,1,4,4,3,No,Rarely,3,3,No,20-29
+EMP1750,37,Female,IT,HR Executive,Bachelor,Single,13,13,58055,3,2,3,1,No,Frequently,5,29,No,30-39
+EMP1751,47,Male,Marketing,Junior Analyst,Master,Married,17,17,141680,1,4,2,2,No,Rarely,3,8,No,40-49
+EMP1752,41,Female,Research & Development,Junior Analyst,Bachelor,Married,15,15,32450,4,1,3,4,No,Rarely,2,29,Yes,40-49
+EMP1753,40,Male,IT,Software Engineer,High School,Single,19,19,158997,1,2,1,1,Yes,Frequently,4,10,No,40-49
+EMP1754,25,Male,Research & Development,Senior Analyst,Bachelor,Married,3,22,75272,2,3,3,1,No,Rarely,2,5,No,20-29
+EMP1755,20,Female,IT,Software Engineer,Master,Married,19,19,30310,2,3,2,4,No,Frequently,0,11,Yes,20-29
+EMP1756,24,Female,IT,Software Engineer,Bachelor,Married,5,7,56817,3,1,2,4,Yes,Rarely,4,4,No,20-29
+EMP1757,60,Female,Research & Development,Accountant,Bachelor,Single,5,8,107641,3,4,2,2,No,Rarely,5,49,No,50-60
+EMP1758,31,Male,Finance,Data Analyst,Bachelor,Married,10,13,40457,3,3,2,4,No,Rarely,5,35,Yes,30-39
+EMP1759,45,Female,IT,Accountant,Bachelor,Divorced,16,16,67311,3,4,1,3,No,Never,5,40,No,40-49
+EMP1760,53,Female,Human Resources,Marketing Specialist,PhD,Single,2,9,160052,4,3,3,1,Yes,Rarely,5,12,No,50-60
+EMP1761,33,Male,Marketing,Software Engineer,PhD,Single,12,24,176958,4,4,4,3,No,Rarely,5,21,No,30-39
+EMP1762,45,Female,Finance,Junior Analyst,Bachelor,Single,2,16,148573,2,3,2,2,Yes,Rarely,2,16,No,40-49
+EMP1763,46,Male,Research & Development,Junior Analyst,Bachelor,Married,15,15,122427,4,3,4,4,No,Frequently,6,14,No,40-49
+EMP1764,28,Female,Finance,Manager,Master,Single,14,14,61181,1,2,4,1,No,Frequently,3,21,No,20-29
+EMP1765,45,Male,Sales,HR Executive,High School,Married,10,12,157019,2,2,3,4,No,Rarely,6,48,No,40-49
+EMP1766,41,Female,Sales,Sales Executive,Bachelor,Married,17,17,156094,3,1,4,4,No,Rarely,2,27,No,40-49
+EMP1767,49,Female,IT,Marketing Specialist,Bachelor,Married,14,19,26128,3,3,4,2,Yes,Never,1,36,No,40-49
+EMP1768,36,Male,IT,Marketing Specialist,PhD,Married,4,12,104522,4,4,1,2,No,Frequently,6,1,No,30-39
+EMP1769,45,Male,Human Resources,HR Executive,High School,Married,15,18,73929,2,3,4,2,No,Frequently,2,1,No,40-49
+EMP1770,55,Female,Marketing,Sales Executive,Bachelor,Married,15,21,106696,4,4,3,2,No,Rarely,4,22,No,50-60
+EMP1771,20,Male,Finance,Data Analyst,Master,Single,16,17,140245,4,4,4,1,No,Rarely,5,15,No,20-29
+EMP1772,27,Male,Sales,Software Engineer,Bachelor,Single,8,8,34808,4,3,3,3,Yes,Frequently,2,20,Yes,20-29
+EMP1773,54,Male,IT,Sales Executive,High School,Divorced,2,2,120148,2,4,2,3,Yes,Rarely,6,3,No,50-60
+EMP1774,34,Male,Marketing,Senior Analyst,PhD,Single,19,19,46725,3,1,4,1,Yes,Rarely,3,14,No,30-39
+EMP1775,41,Female,Finance,Manager,Bachelor,Married,12,12,97534,1,2,4,4,No,Rarely,6,9,No,40-49
+EMP1776,33,Female,IT,Sales Executive,Master,Divorced,2,23,64950,3,4,4,1,Yes,Rarely,5,19,No,30-39
+EMP1777,45,Male,IT,Sales Executive,Bachelor,Single,6,16,108576,2,3,2,3,Yes,Frequently,6,40,No,40-49
+EMP1778,47,Male,Sales,Manager,Bachelor,Married,5,12,45557,3,2,1,3,No,Never,0,34,Yes,40-49
+EMP1779,42,Male,Sales,Software Engineer,Bachelor,Married,8,21,46825,3,1,4,1,No,Rarely,1,4,No,40-49
+EMP1780,33,Male,IT,Sales Executive,High School,Divorced,11,21,33998,1,4,3,2,No,Frequently,4,33,Yes,30-39
+EMP1781,43,Female,Research & Development,Manager,High School,Divorced,14,14,61080,3,4,1,4,No,Frequently,3,43,Yes,40-49
+EMP1782,21,Female,IT,Manager,Master,Married,20,20,171874,3,2,1,1,No,Never,1,37,No,20-29
+EMP1783,45,Male,Marketing,Manager,Bachelor,Single,19,19,167239,3,4,1,3,No,Frequently,2,2,No,40-49
+EMP1784,33,Male,IT,Accountant,Bachelor,Married,2,13,67407,4,3,4,2,No,Never,1,27,No,30-39
+EMP1785,26,Male,Human Resources,Accountant,Bachelor,Married,9,20,145283,2,2,2,4,No,Never,5,45,No,20-29
+EMP1786,22,Female,Human Resources,Senior Analyst,Master,Married,0,5,38338,2,2,2,3,Yes,Rarely,5,17,Yes,20-29
+EMP1787,42,Male,Human Resources,Data Analyst,High School,Single,18,18,101289,1,4,4,4,Yes,Frequently,0,49,No,40-49
+EMP1788,37,Female,Research & Development,Accountant,Bachelor,Single,18,18,174967,4,1,3,2,Yes,Rarely,1,31,Yes,30-39
+EMP1789,57,Male,Research & Development,Accountant,High School,Married,12,12,156029,4,1,3,3,No,Rarely,6,41,No,50-60
+EMP1790,54,Female,IT,Data Analyst,High School,Married,11,17,134367,3,1,3,2,No,Rarely,1,6,No,50-60
+EMP1791,34,Male,Human Resources,HR Executive,High School,Single,0,15,90898,2,1,4,1,No,Rarely,5,31,No,30-39
+EMP1792,44,Female,Research & Development,Manager,Master,Married,18,18,159526,1,2,2,1,Yes,Frequently,2,3,Yes,40-49
+EMP1793,56,Male,Sales,Marketing Specialist,High School,Divorced,15,15,142486,4,2,4,4,No,Rarely,2,40,No,50-60
+EMP1794,47,Male,IT,Data Analyst,High School,Married,14,17,111540,3,4,2,2,No,Never,4,3,No,40-49
+EMP1795,29,Male,Marketing,Senior Analyst,Bachelor,Single,15,16,161421,1,1,1,2,No,Frequently,6,33,No,20-29
+EMP1796,58,Female,Finance,Software Engineer,Master,Single,10,17,150416,4,1,4,4,Yes,Frequently,6,13,Yes,50-60
+EMP1797,36,Male,IT,Senior Analyst,Bachelor,Single,5,20,64963,1,4,2,4,Yes,Rarely,2,21,No,30-39
+EMP1798,58,Female,Finance,Manager,Bachelor,Divorced,10,10,163822,4,4,1,4,No,Rarely,1,37,No,50-60
+EMP1799,41,Female,Human Resources,Data Analyst,High School,Married,2,5,119929,1,4,1,1,No,Rarely,0,16,No,40-49
+EMP1800,45,Male,Finance,Senior Analyst,Bachelor,Married,14,23,178535,4,3,4,4,Yes,Rarely,2,21,Yes,40-49
+EMP1801,44,Male,Human Resources,Senior Analyst,Bachelor,Married,0,1,99935,4,4,2,1,Yes,Frequently,6,48,No,40-49
+EMP1802,36,Male,Sales,HR Executive,Bachelor,Married,6,6,38686,1,4,1,4,No,Frequently,6,44,No,30-39
+EMP1803,32,Female,Finance,HR Executive,Bachelor,Married,0,24,88528,4,3,4,2,No,Rarely,5,13,Yes,30-39
+EMP1804,39,Male,IT,Data Analyst,Bachelor,Married,16,16,124811,4,1,1,2,Yes,Frequently,5,4,No,30-39
+EMP1805,44,Female,Human Resources,Manager,High School,Single,8,17,47787,4,2,3,4,No,Rarely,4,31,No,40-49
+EMP1806,23,Female,IT,Accountant,Bachelor,Single,12,19,170848,1,1,4,4,No,Rarely,4,9,No,20-29
+EMP1807,29,Male,Research & Development,Junior Analyst,High School,Married,10,10,140613,1,2,1,1,No,Frequently,1,48,No,20-29
+EMP1808,22,Male,Human Resources,Sales Executive,Master,Divorced,19,19,129887,4,2,4,3,No,Rarely,2,33,No,20-29
+EMP1809,60,Male,Finance,Marketing Specialist,PhD,Single,5,13,86086,4,4,4,1,No,Frequently,2,37,No,50-60
+EMP1810,37,Male,Human Resources,Sales Executive,PhD,Divorced,0,14,127231,1,4,2,2,No,Frequently,4,37,Yes,30-39
+EMP1811,55,Male,IT,HR Executive,Master,Married,6,6,88308,3,3,2,4,No,Frequently,2,24,No,50-60
+EMP1812,41,Male,Sales,Data Analyst,Master,Single,11,11,40797,4,1,1,2,No,Rarely,1,25,No,40-49
+EMP1813,53,Female,Human Resources,Sales Executive,Master,Single,19,19,30302,3,1,4,3,No,Rarely,0,41,No,50-60
+EMP1814,27,Female,Finance,Manager,Bachelor,Single,18,18,63059,1,2,4,1,No,Rarely,5,29,No,20-29
+EMP1815,59,Female,Research & Development,Marketing Specialist,Master,Married,16,16,156980,4,4,3,2,No,Never,1,40,No,50-60
+EMP1816,38,Male,Marketing,Sales Executive,Bachelor,Single,3,23,168949,3,4,4,1,Yes,Rarely,2,47,No,30-39
+EMP1817,60,Female,Sales,Marketing Specialist,Bachelor,Married,2,10,39239,1,1,2,4,No,Rarely,1,36,Yes,50-60
+EMP1818,56,Female,Research & Development,Software Engineer,Master,Married,0,19,52313,3,3,4,2,No,Never,5,15,No,50-60
+EMP1819,25,Female,Human Resources,Manager,Bachelor,Married,17,19,67103,2,4,2,3,No,Frequently,3,45,No,20-29
+EMP1820,45,Female,IT,Junior Analyst,Bachelor,Single,20,20,113771,1,3,3,1,No,Frequently,6,18,No,40-49
+EMP1821,53,Female,IT,Senior Analyst,PhD,Married,14,23,151228,2,1,1,1,Yes,Never,5,20,Yes,50-60
+EMP1822,25,Male,Finance,Marketing Specialist,High School,Married,7,7,116665,1,1,2,3,No,Rarely,6,5,Yes,20-29
+EMP1823,56,Male,IT,Manager,Bachelor,Married,0,20,35534,1,3,1,2,No,Rarely,5,18,Yes,50-60
+EMP1824,52,Female,Sales,Marketing Specialist,PhD,Married,19,19,68060,4,4,1,2,No,Rarely,3,40,No,50-60
+EMP1825,41,Female,IT,Marketing Specialist,Master,Single,13,13,42189,2,1,1,1,No,Rarely,2,1,No,40-49
+EMP1826,40,Female,Finance,Accountant,Bachelor,Married,3,3,153431,2,2,1,3,Yes,Frequently,2,19,Yes,40-49
+EMP1827,25,Male,Marketing,Accountant,Bachelor,Married,4,4,111067,2,1,2,1,No,Rarely,0,23,No,20-29
+EMP1828,25,Male,Human Resources,Manager,Bachelor,Married,12,24,35967,1,4,3,1,No,Frequently,5,26,Yes,20-29
+EMP1829,23,Female,Human Resources,Accountant,Master,Married,14,14,90563,2,2,4,4,No,Rarely,1,49,Yes,20-29
+EMP1830,49,Male,IT,Junior Analyst,Bachelor,Married,5,7,33660,2,1,2,2,No,Rarely,0,29,No,40-49
+EMP1831,30,Male,Research & Development,Data Analyst,Bachelor,Single,0,16,143671,4,4,3,2,No,Frequently,2,34,No,30-39
+EMP1832,49,Female,Human Resources,Manager,High School,Married,18,18,154909,3,4,4,4,No,Rarely,2,19,No,40-49
+EMP1833,50,Male,Marketing,Manager,High School,Married,12,18,165688,3,1,1,2,Yes,Frequently,4,48,Yes,50-60
+EMP1834,43,Male,IT,HR Executive,PhD,Married,5,20,100976,2,4,4,2,No,Never,0,18,No,40-49
+EMP1835,28,Female,Finance,HR Executive,Bachelor,Single,14,22,38107,2,3,4,2,No,Frequently,2,2,No,20-29
+EMP1836,22,Male,Marketing,Accountant,Master,Divorced,15,19,119182,2,2,3,3,No,Rarely,3,27,No,20-29
+EMP1837,50,Male,IT,Data Analyst,High School,Married,15,15,116787,2,3,4,4,No,Never,6,6,No,50-60
+EMP1838,59,Female,Marketing,Accountant,Master,Single,9,20,40954,3,1,1,1,No,Rarely,4,39,No,50-60
+EMP1839,56,Male,Human Resources,Software Engineer,PhD,Married,8,10,41943,4,3,2,3,No,Frequently,1,6,No,50-60
+EMP1840,55,Male,Finance,Software Engineer,Bachelor,Married,8,13,65725,1,1,2,1,No,Rarely,6,6,No,50-60
+EMP1841,43,Female,IT,Senior Analyst,High School,Married,16,18,70434,2,1,3,4,No,Rarely,4,31,Yes,40-49
+EMP1842,50,Female,Sales,Software Engineer,Bachelor,Married,16,16,110751,2,4,1,4,Yes,Never,5,41,No,50-60
+EMP1843,25,Female,Finance,HR Executive,Master,Divorced,16,22,35110,3,4,1,4,No,Rarely,5,40,No,20-29
+EMP1844,21,Male,Sales,Junior Analyst,Bachelor,Single,11,17,41462,2,1,4,2,No,Frequently,1,30,No,20-29
+EMP1845,39,Female,Marketing,Software Engineer,Master,Married,12,22,104232,4,2,3,3,No,Rarely,3,21,Yes,30-39
+EMP1846,47,Male,Research & Development,Accountant,Master,Divorced,11,13,91567,4,2,1,4,No,Frequently,1,41,No,40-49
+EMP1847,30,Female,Finance,Marketing Specialist,Master,Divorced,13,13,152425,2,2,1,1,No,Never,0,44,Yes,30-39
+EMP1848,23,Male,Marketing,Manager,Master,Married,9,10,81063,3,3,1,2,No,Rarely,6,18,No,20-29
+EMP1849,34,Female,Sales,Junior Analyst,High School,Divorced,18,18,138394,2,1,2,2,Yes,Frequently,1,23,No,30-39
+EMP1850,25,Female,Human Resources,Junior Analyst,Bachelor,Single,1,8,80240,2,4,2,3,No,Frequently,1,38,No,20-29
+EMP1851,49,Female,Human Resources,Accountant,Bachelor,Divorced,3,21,106352,3,3,2,3,No,Never,4,23,No,40-49
+EMP1852,57,Female,Research & Development,Manager,PhD,Single,18,22,173940,4,3,4,3,Yes,Rarely,3,28,No,50-60
+EMP1853,21,Male,Finance,HR Executive,Master,Single,6,18,105989,1,4,4,2,No,Frequently,1,36,No,20-29
+EMP1854,34,Female,Finance,Junior Analyst,Master,Single,14,14,47222,2,1,4,4,No,Rarely,0,25,No,30-39
+EMP1855,30,Female,Finance,Senior Analyst,Bachelor,Married,14,16,104794,4,3,1,1,No,Rarely,4,7,No,30-39
+EMP1856,27,Male,Marketing,Accountant,Bachelor,Single,5,12,88924,2,1,2,4,No,Rarely,3,18,No,20-29
+EMP1857,45,Female,Research & Development,Junior Analyst,Master,Single,2,9,124854,1,1,1,1,No,Frequently,3,20,No,40-49
+EMP1858,24,Male,Finance,Data Analyst,Bachelor,Single,5,5,103513,3,1,1,4,No,Never,2,5,Yes,20-29
+EMP1859,25,Female,Marketing,Manager,Bachelor,Single,15,22,79649,4,4,3,3,No,Rarely,5,18,Yes,20-29
+EMP1860,45,Female,Human Resources,Software Engineer,Master,Married,1,21,127986,1,1,1,1,Yes,Frequently,6,42,No,40-49
+EMP1861,23,Female,Sales,Junior Analyst,High School,Married,6,6,108749,2,3,4,2,Yes,Frequently,0,40,No,20-29
+EMP1862,38,Male,Marketing,Accountant,Bachelor,Single,10,10,166295,1,4,2,1,Yes,Rarely,5,33,No,30-39
+EMP1863,39,Female,Human Resources,Software Engineer,Bachelor,Married,6,8,64369,4,4,2,2,Yes,Never,4,15,No,30-39
+EMP1864,52,Female,Human Resources,Senior Analyst,High School,Divorced,3,10,111379,3,3,1,4,Yes,Rarely,4,35,No,50-60
+EMP1865,39,Female,Sales,Software Engineer,PhD,Married,19,19,94392,2,4,4,3,Yes,Rarely,0,47,No,30-39
+EMP1866,31,Male,Human Resources,Data Analyst,Bachelor,Single,6,23,37661,3,3,4,1,Yes,Rarely,3,46,No,30-39
+EMP1867,20,Male,Research & Development,HR Executive,High School,Married,3,11,171663,3,2,4,2,No,Never,1,1,No,20-29
+EMP1868,45,Female,Sales,Junior Analyst,Bachelor,Single,11,18,96718,1,3,2,4,No,Never,0,21,Yes,40-49
+EMP1869,33,Male,Human Resources,Sales Executive,Master,Single,4,22,32970,1,4,4,3,No,Rarely,4,8,No,30-39
+EMP1870,57,Female,IT,Sales Executive,Bachelor,Single,18,18,72922,4,3,4,3,Yes,Rarely,5,7,No,50-60
+EMP1871,56,Female,Marketing,Software Engineer,Bachelor,Married,4,8,55755,4,2,1,3,No,Rarely,6,41,No,50-60
+EMP1872,30,Female,Human Resources,Manager,High School,Single,18,23,145926,3,1,3,4,No,Frequently,0,44,No,30-39
+EMP1873,55,Female,Research & Development,Sales Executive,High School,Single,20,20,44416,4,1,4,4,Yes,Frequently,3,40,Yes,50-60
+EMP1874,32,Female,Finance,Sales Executive,Bachelor,Single,2,17,38672,3,1,1,4,No,Never,6,40,Yes,30-39
+EMP1875,22,Female,Human Resources,Manager,Master,Divorced,10,21,153145,2,4,1,3,No,Frequently,6,30,Yes,20-29
+EMP1876,52,Female,Finance,Marketing Specialist,Master,Married,6,18,99095,3,2,4,1,No,Never,6,38,No,50-60
+EMP1877,25,Male,IT,Sales Executive,High School,Single,16,16,25064,4,3,3,2,No,Rarely,2,35,Yes,20-29
+EMP1878,29,Male,Human Resources,Data Analyst,Bachelor,Married,8,23,93835,4,3,2,4,No,Rarely,6,2,No,20-29
+EMP1879,24,Male,Sales,Junior Analyst,PhD,Married,20,20,161711,3,3,3,1,No,Frequently,2,46,No,20-29
+EMP1880,42,Male,Finance,Junior Analyst,Bachelor,Married,8,23,167127,1,3,4,2,Yes,Rarely,1,8,No,40-49
+EMP1881,29,Male,IT,Accountant,Master,Single,9,9,112594,3,4,3,3,Yes,Rarely,1,38,No,20-29
+EMP1882,21,Male,Sales,Accountant,High School,Divorced,12,12,141916,3,4,1,1,No,Rarely,6,4,No,20-29
+EMP1883,32,Male,Sales,Manager,PhD,Single,14,15,145308,1,2,1,3,Yes,Rarely,3,37,No,30-39
+EMP1884,59,Female,Sales,Senior Analyst,Master,Married,4,21,107516,2,3,3,2,Yes,Frequently,5,21,Yes,50-60
+EMP1885,21,Female,Sales,Accountant,PhD,Single,2,24,89666,1,1,2,4,No,Frequently,1,13,Yes,20-29
+EMP1886,39,Female,Human Resources,Manager,Master,Married,7,16,143294,4,4,3,3,No,Rarely,2,9,No,30-39
+EMP1887,20,Female,Marketing,Accountant,Bachelor,Married,19,19,35866,1,2,4,1,Yes,Frequently,3,45,No,20-29
+EMP1888,56,Male,Human Resources,Accountant,PhD,Married,9,9,28889,4,2,2,4,Yes,Rarely,6,29,No,50-60
+EMP1889,28,Male,Human Resources,Senior Analyst,Bachelor,Single,12,12,143194,4,4,3,1,No,Frequently,3,41,No,20-29
+EMP1890,36,Female,IT,Sales Executive,Bachelor,Married,2,6,149714,3,1,3,2,No,Rarely,3,24,No,30-39
+EMP1891,28,Female,IT,Software Engineer,Master,Single,7,7,56335,3,1,2,2,Yes,Frequently,0,16,No,20-29
+EMP1892,30,Male,Marketing,Marketing Specialist,Master,Married,8,22,75547,2,3,3,4,No,Frequently,5,12,No,30-39
+EMP1893,34,Female,IT,Accountant,PhD,Married,20,20,123756,4,4,4,1,No,Frequently,6,2,No,30-39
+EMP1894,43,Female,Research & Development,Accountant,Bachelor,Married,11,12,35995,3,1,1,1,No,Frequently,5,19,No,40-49
+EMP1895,57,Female,Marketing,Data Analyst,Master,Married,10,15,27631,4,4,4,1,Yes,Frequently,1,30,No,50-60
+EMP1896,54,Female,IT,Marketing Specialist,Master,Married,1,9,162039,2,2,3,1,No,Rarely,5,16,Yes,50-60
+EMP1897,49,Male,Marketing,Senior Analyst,High School,Married,17,17,113294,4,2,1,2,No,Frequently,4,24,No,40-49
+EMP1898,50,Female,Human Resources,Junior Analyst,Bachelor,Married,8,17,112278,2,2,2,1,Yes,Rarely,2,13,No,50-60
+EMP1899,24,Female,Human Resources,Accountant,Bachelor,Single,1,5,89471,2,4,4,2,No,Rarely,1,5,No,20-29
+EMP1900,33,Male,Marketing,Software Engineer,Bachelor,Married,1,11,62116,2,3,2,1,Yes,Rarely,6,23,Yes,30-39
+EMP1901,30,Male,Research & Development,Marketing Specialist,PhD,Married,2,22,117116,3,3,1,1,No,Never,5,38,No,30-39
+EMP1902,28,Female,Research & Development,Sales Executive,Master,Married,15,19,158014,1,1,3,3,Yes,Rarely,2,31,Yes,20-29
+EMP1903,53,Male,Marketing,Accountant,Master,Single,18,24,72664,1,4,1,3,No,Rarely,6,17,No,50-60
+EMP1904,31,Female,IT,Junior Analyst,PhD,Married,3,7,112342,3,3,1,1,No,Never,6,49,No,30-39
+EMP1905,54,Female,Finance,Junior Analyst,Bachelor,Married,17,17,39407,4,4,2,2,No,Frequently,1,49,No,50-60
+EMP1906,54,Male,Research & Development,Accountant,Master,Divorced,19,19,138926,3,3,4,1,No,Rarely,4,3,No,50-60
+EMP1907,20,Female,Sales,HR Executive,Bachelor,Married,17,17,84201,4,2,1,3,Yes,Never,2,26,Yes,20-29
+EMP1908,59,Female,Human Resources,Junior Analyst,Master,Married,9,23,105093,2,2,3,1,No,Rarely,4,13,No,50-60
+EMP1909,41,Female,Marketing,Manager,Bachelor,Divorced,10,15,42878,3,1,1,3,No,Frequently,2,44,No,40-49
+EMP1910,48,Female,Sales,Junior Analyst,PhD,Single,16,16,108100,1,2,2,1,Yes,Frequently,0,38,No,40-49
+EMP1911,27,Male,Marketing,Marketing Specialist,Bachelor,Single,19,19,103629,4,3,4,4,No,Rarely,6,22,No,20-29
+EMP1912,30,Male,Human Resources,HR Executive,Bachelor,Married,15,23,68168,3,1,3,1,Yes,Frequently,0,21,No,30-39
+EMP1913,60,Female,Human Resources,Senior Analyst,Master,Married,19,19,79862,3,1,2,2,No,Rarely,2,29,No,50-60
+EMP1914,56,Male,Research & Development,Data Analyst,Bachelor,Divorced,12,13,53004,4,2,1,3,No,Rarely,2,45,No,50-60
+EMP1915,33,Female,Research & Development,Senior Analyst,Master,Married,1,18,45471,2,4,1,4,Yes,Frequently,4,46,Yes,30-39
+EMP1916,49,Female,Sales,Sales Executive,Bachelor,Single,1,3,116820,2,2,4,3,No,Rarely,6,39,No,40-49
+EMP1917,54,Female,Marketing,Data Analyst,Master,Married,13,13,127229,2,2,2,3,No,Never,5,5,No,50-60
+EMP1918,40,Female,Human Resources,Sales Executive,Bachelor,Single,3,15,90308,2,1,2,2,No,Rarely,6,14,No,40-49
+EMP1919,56,Female,Sales,Data Analyst,High School,Single,16,16,108969,4,2,4,1,No,Rarely,3,18,No,50-60
+EMP1920,24,Male,Finance,Data Analyst,Bachelor,Married,12,12,39568,1,3,3,2,Yes,Frequently,2,4,No,20-29
+EMP1921,38,Female,Sales,Manager,Bachelor,Single,3,13,34466,3,1,2,1,No,Rarely,1,33,Yes,30-39
+EMP1922,33,Male,IT,Software Engineer,Bachelor,Married,2,22,82324,3,2,4,4,No,Rarely,1,39,No,30-39
+EMP1923,45,Male,Sales,Marketing Specialist,Bachelor,Married,11,11,127208,2,4,2,2,Yes,Rarely,1,20,No,40-49
+EMP1924,23,Female,IT,Senior Analyst,Bachelor,Married,7,19,171539,4,3,4,2,No,Never,0,13,No,20-29
+EMP1925,44,Female,IT,Junior Analyst,High School,Single,1,21,100955,1,4,1,3,Yes,Rarely,5,36,No,40-49
+EMP1926,44,Female,IT,HR Executive,Bachelor,Single,5,24,172748,1,3,1,2,Yes,Rarely,4,45,No,40-49
+EMP1927,37,Female,Finance,Marketing Specialist,Master,Single,9,18,119791,3,4,2,1,No,Rarely,5,4,No,30-39
+EMP1928,59,Female,Sales,Sales Executive,Bachelor,Divorced,11,21,133718,2,2,2,2,No,Rarely,0,35,No,50-60
+EMP1929,27,Male,Sales,Manager,Bachelor,Married,20,22,47650,3,3,1,2,No,Rarely,5,8,No,20-29
+EMP1930,58,Female,Finance,Sales Executive,Master,Married,9,10,113290,3,1,3,4,No,Frequently,5,40,No,50-60
+EMP1931,59,Female,Human Resources,Software Engineer,Bachelor,Single,9,24,102701,1,1,4,1,No,Never,6,49,No,50-60
+EMP1932,33,Male,Research & Development,HR Executive,Master,Divorced,2,8,35683,4,4,3,3,No,Rarely,1,47,No,30-39
+EMP1933,51,Male,Sales,Manager,Bachelor,Single,19,19,105978,1,4,3,1,No,Rarely,2,36,No,50-60
+EMP1934,57,Female,Research & Development,Sales Executive,Bachelor,Single,9,21,29860,3,4,3,4,Yes,Never,1,6,No,50-60
+EMP1935,52,Male,Marketing,Software Engineer,High School,Married,8,20,159801,2,3,1,1,No,Rarely,5,22,Yes,50-60
+EMP1936,42,Female,Marketing,Sales Executive,Master,Divorced,19,23,56351,2,1,2,1,Yes,Rarely,2,6,No,40-49
+EMP1937,34,Male,Finance,Marketing Specialist,Master,Single,18,22,87744,4,2,3,2,No,Never,6,42,No,30-39
+EMP1938,52,Male,Marketing,HR Executive,High School,Single,13,13,145198,4,3,1,2,No,Frequently,4,36,No,50-60
+EMP1939,44,Female,Marketing,Accountant,Bachelor,Divorced,1,2,99155,4,4,4,1,No,Rarely,3,9,No,40-49
+EMP1940,36,Male,Human Resources,Marketing Specialist,PhD,Single,4,24,146449,3,1,2,1,Yes,Rarely,2,16,No,30-39
+EMP1941,52,Male,Human Resources,HR Executive,Bachelor,Single,19,19,101700,3,4,4,3,Yes,Rarely,0,39,No,50-60
+EMP1942,21,Male,Human Resources,Software Engineer,Bachelor,Married,7,7,31955,4,2,3,4,No,Rarely,1,46,No,20-29
+EMP1943,33,Male,Marketing,Manager,PhD,Divorced,6,7,46662,2,2,2,2,No,Frequently,6,38,No,30-39
+EMP1944,59,Male,Finance,Data Analyst,Master,Married,5,10,31408,2,1,3,2,No,Frequently,6,33,No,50-60
+EMP1945,59,Male,IT,Sales Executive,Bachelor,Divorced,10,23,26225,2,3,2,2,No,Frequently,1,18,No,50-60
+EMP1946,58,Female,IT,Senior Analyst,Master,Married,11,11,168268,3,2,3,2,No,Rarely,5,12,No,50-60
+EMP1947,25,Female,Research & Development,HR Executive,Master,Single,17,17,171444,1,2,4,1,Yes,Rarely,5,27,Yes,20-29
+EMP1948,25,Male,IT,Junior Analyst,Bachelor,Divorced,18,18,42279,2,2,4,1,No,Rarely,5,47,Yes,20-29
+EMP1949,22,Female,IT,Software Engineer,Bachelor,Married,9,24,135401,2,2,3,3,No,Frequently,6,1,No,20-29
+EMP1950,26,Female,Human Resources,Accountant,Bachelor,Single,20,20,117404,2,4,2,2,Yes,Frequently,5,15,Yes,20-29
+EMP1951,27,Female,Human Resources,Data Analyst,PhD,Married,13,13,73481,4,4,4,2,Yes,Rarely,1,47,No,20-29
+EMP1952,34,Male,Marketing,Junior Analyst,Master,Single,2,2,69552,3,3,2,1,No,Rarely,2,27,No,30-39
+EMP1953,48,Female,Research & Development,Accountant,High School,Single,17,17,162930,4,1,2,3,No,Frequently,4,16,No,40-49
+EMP1954,52,Male,Sales,Senior Analyst,Master,Single,14,14,99474,4,1,4,1,Yes,Rarely,2,21,No,50-60
+EMP1955,49,Female,Research & Development,Marketing Specialist,Bachelor,Married,5,13,50168,1,1,1,2,No,Rarely,0,1,No,40-49
+EMP1956,58,Male,Research & Development,Sales Executive,High School,Married,9,23,57099,4,2,1,2,Yes,Rarely,1,29,No,50-60
+EMP1957,46,Male,Finance,Manager,Bachelor,Married,11,18,86455,1,4,2,4,No,Rarely,2,3,No,40-49
+EMP1958,55,Female,Marketing,Accountant,Bachelor,Divorced,6,12,79240,4,4,4,4,Yes,Frequently,1,12,No,50-60
+EMP1959,48,Female,Finance,Data Analyst,Master,Single,16,16,99796,2,3,1,4,No,Frequently,6,28,No,40-49
+EMP1960,57,Male,Research & Development,HR Executive,Bachelor,Single,0,15,79592,3,1,3,3,Yes,Frequently,0,39,Yes,50-60
+EMP1961,52,Female,Research & Development,HR Executive,Master,Single,17,17,147181,4,4,2,1,No,Never,6,37,No,50-60
+EMP1962,56,Female,Research & Development,Data Analyst,Bachelor,Single,14,16,126611,1,3,1,2,No,Never,3,31,No,50-60
+EMP1963,46,Female,IT,HR Executive,High School,Single,18,18,83046,3,1,4,2,Yes,Rarely,3,31,No,40-49
+EMP1964,52,Male,Finance,Accountant,PhD,Married,0,16,41488,1,2,4,3,No,Rarely,3,33,Yes,50-60
+EMP1965,23,Male,Research & Development,Software Engineer,Bachelor,Divorced,4,24,143521,2,4,2,2,Yes,Rarely,1,33,No,20-29
+EMP1966,41,Female,Human Resources,HR Executive,Bachelor,Divorced,14,14,156467,4,4,4,2,No,Rarely,2,47,No,40-49
+EMP1967,21,Female,Marketing,Marketing Specialist,Bachelor,Single,2,19,166917,3,1,3,1,No,Frequently,1,40,No,20-29
+EMP1968,29,Female,Marketing,Senior Analyst,Master,Divorced,0,8,43394,2,2,3,4,No,Never,6,11,No,20-29
+EMP1969,24,Male,Human Resources,Manager,Bachelor,Single,7,23,118993,4,2,1,4,No,Frequently,4,46,No,20-29
+EMP1970,29,Male,Marketing,Accountant,Bachelor,Single,11,12,84332,4,4,4,3,No,Rarely,6,29,No,20-29
+EMP1971,52,Female,IT,Junior Analyst,High School,Divorced,18,18,67628,1,1,3,4,Yes,Rarely,2,25,Yes,50-60
+EMP1972,57,Female,IT,Data Analyst,Bachelor,Married,11,11,46352,1,3,2,4,No,Rarely,6,13,Yes,50-60
+EMP1973,32,Female,Sales,Accountant,Master,Single,12,17,107971,2,4,4,3,No,Frequently,6,44,No,30-39
+EMP1974,50,Female,Sales,Software Engineer,Bachelor,Married,0,7,76993,1,2,1,3,No,Rarely,0,19,No,50-60
+EMP1975,55,Female,Sales,Marketing Specialist,Bachelor,Single,18,18,128027,2,3,2,4,Yes,Rarely,5,36,No,50-60
+EMP1976,43,Female,Marketing,Data Analyst,Bachelor,Married,5,5,145212,2,1,2,1,No,Rarely,3,28,No,40-49
+EMP1977,34,Male,IT,HR Executive,Bachelor,Married,7,7,33539,2,2,2,3,No,Never,2,4,Yes,30-39
+EMP1978,48,Female,IT,Accountant,PhD,Divorced,3,13,157335,1,3,3,2,No,Frequently,2,3,No,40-49
+EMP1979,27,Male,IT,Senior Analyst,Bachelor,Single,4,11,169377,3,4,2,3,No,Never,3,38,No,20-29
+EMP1980,24,Female,Human Resources,Data Analyst,PhD,Married,6,10,78817,2,2,3,2,Yes,Frequently,6,37,Yes,20-29
+EMP1981,48,Female,IT,Sales Executive,Bachelor,Married,3,16,74107,3,1,2,3,Yes,Rarely,0,43,No,40-49
+EMP1982,23,Male,Human Resources,Marketing Specialist,Bachelor,Married,19,24,154240,4,2,3,3,Yes,Rarely,1,25,No,20-29
+EMP1983,31,Male,Sales,Manager,Master,Single,3,23,124655,1,4,4,4,No,Rarely,1,41,Yes,30-39
+EMP1984,21,Male,Sales,Data Analyst,Bachelor,Married,14,20,81132,1,1,3,4,Yes,Frequently,6,35,Yes,20-29
+EMP1985,46,Male,Marketing,Software Engineer,Master,Divorced,20,20,150701,3,4,3,4,No,Never,6,29,No,40-49
+EMP1986,50,Female,Sales,Accountant,PhD,Divorced,4,17,130494,4,3,4,1,No,Rarely,5,41,No,50-60
+EMP1987,55,Male,Marketing,HR Executive,High School,Married,8,8,77979,4,2,2,4,No,Rarely,2,29,Yes,50-60
+EMP1988,55,Female,Research & Development,Manager,High School,Divorced,1,5,83013,2,4,4,4,No,Frequently,3,12,No,50-60
+EMP1989,45,Male,Research & Development,Manager,Master,Married,6,23,88797,1,3,2,3,No,Rarely,6,35,No,40-49
+EMP1990,46,Female,Finance,Marketing Specialist,Bachelor,Married,16,16,76798,4,1,3,3,No,Frequently,6,20,No,40-49
+EMP1991,24,Female,Marketing,Software Engineer,Bachelor,Single,15,20,172722,4,1,2,1,Yes,Rarely,4,17,No,20-29
+EMP1992,39,Female,Finance,HR Executive,High School,Married,16,16,101421,2,3,3,2,No,Rarely,0,12,No,30-39
+EMP1993,30,Female,Finance,Manager,High School,Single,19,19,32434,2,3,2,3,No,Rarely,1,36,Yes,30-39
+EMP1994,29,Female,Research & Development,Software Engineer,Master,Married,1,1,55028,3,1,3,3,No,Frequently,0,10,Yes,20-29
+EMP1995,59,Female,Marketing,Software Engineer,High School,Single,10,11,91558,1,4,3,2,No,Rarely,0,18,No,50-60
+EMP1996,57,Male,Research & Development,Junior Analyst,Bachelor,Divorced,1,23,49331,4,3,1,1,No,Rarely,5,30,No,50-60
+EMP1997,25,Female,Finance,Accountant,Master,Single,0,18,92573,3,4,2,3,No,Never,0,8,No,20-29
+EMP1998,27,Male,Marketing,Manager,Bachelor,Single,1,16,154473,1,1,2,4,No,Rarely,3,41,Yes,20-29
+EMP1999,42,Male,Finance,Manager,High School,Married,8,18,107979,3,4,1,1,No,Rarely,5,13,Yes,40-49
+EMP2000,45,Female,IT,Software Engineer,Master,Single,1,8,29123,1,4,3,2,No,Frequently,6,31,Yes,40-49
+EMP2001,31,Male,Marketing,Manager,High School,Single,14,14,41603,1,3,3,2,Yes,Rarely,3,6,Yes,30-39
+EMP2002,45,Female,Marketing,Software Engineer,Master,Single,9,10,90941,4,4,1,4,No,Rarely,5,7,No,40-49
+EMP2003,32,Male,Finance,Manager,Master,Married,14,14,67597,1,4,1,4,No,Never,3,21,No,30-39
+EMP2004,59,Female,IT,Software Engineer,Bachelor,Married,9,10,109238,2,4,4,4,No,Frequently,5,38,No,50-60
+EMP2005,37,Male,Human Resources,Junior Analyst,Bachelor,Married,16,18,66751,4,1,3,1,No,Frequently,5,43,Yes,30-39
+EMP2006,44,Female,Research & Development,Accountant,Bachelor,Married,8,21,151462,2,1,4,2,No,Frequently,2,49,Yes,40-49
+EMP2007,52,Female,Finance,Software Engineer,Bachelor,Married,17,24,111978,3,2,2,4,No,Rarely,3,28,No,50-60
+EMP2008,59,Female,Marketing,Manager,Master,Single,3,6,42693,3,1,4,4,No,Rarely,2,44,Yes,50-60
+EMP2009,31,Female,Research & Development,HR Executive,Master,Single,8,8,119524,1,1,1,2,Yes,Rarely,6,21,Yes,30-39
+EMP2010,55,Male,Research & Development,Accountant,Bachelor,Married,15,15,122869,1,2,1,3,No,Never,5,21,No,50-60
+EMP2011,23,Female,Research & Development,Junior Analyst,Master,Single,3,9,88825,2,2,1,1,Yes,Rarely,1,24,No,20-29
+EMP2012,24,Male,Human Resources,Software Engineer,PhD,Single,15,15,165594,2,3,1,3,Yes,Rarely,5,27,No,20-29
+EMP2013,56,Male,Sales,HR Executive,PhD,Married,18,18,155475,2,3,4,4,No,Never,1,27,No,50-60
+EMP2014,27,Male,Finance,Software Engineer,Bachelor,Married,0,2,70406,3,1,4,1,No,Frequently,1,13,No,20-29
+EMP2015,47,Female,Sales,Manager,Bachelor,Single,5,7,168193,2,4,4,3,Yes,Never,1,29,No,40-49
+EMP2016,50,Male,Sales,Data Analyst,Bachelor,Single,9,17,148371,4,3,1,2,No,Frequently,1,39,No,50-60
+EMP2017,28,Male,Sales,Marketing Specialist,PhD,Divorced,15,15,170291,4,3,1,4,No,Rarely,3,28,Yes,20-29
+EMP2018,48,Male,Research & Development,Senior Analyst,High School,Divorced,3,12,26617,3,1,3,1,Yes,Frequently,4,37,No,40-49
+EMP2019,33,Female,IT,HR Executive,Bachelor,Married,12,12,68016,2,4,3,1,No,Rarely,3,29,No,30-39
+EMP2020,59,Female,Research & Development,Sales Executive,Bachelor,Married,15,15,49276,2,2,1,1,No,Rarely,6,48,No,50-60
+EMP2021,60,Male,Research & Development,Software Engineer,Bachelor,Married,19,20,97240,1,2,3,1,No,Frequently,4,22,No,50-60
+EMP2022,41,Female,Marketing,Software Engineer,Bachelor,Divorced,5,5,131292,4,1,2,4,Yes,Frequently,3,36,No,40-49
+EMP2023,30,Female,Marketing,Senior Analyst,PhD,Divorced,10,10,42959,3,1,2,4,Yes,Never,6,30,No,30-39
+EMP2024,42,Male,Sales,Senior Analyst,High School,Single,2,13,53522,2,4,1,2,No,Never,1,28,No,40-49
+EMP2025,20,Male,Research & Development,Sales Executive,Bachelor,Married,19,19,166025,1,1,4,2,No,Never,0,23,No,20-29
+EMP2026,56,Female,Sales,Manager,High School,Single,9,11,51567,3,1,2,2,No,Rarely,5,33,No,50-60
+EMP2027,40,Male,Marketing,Marketing Specialist,Bachelor,Single,0,10,87708,3,1,2,3,No,Frequently,4,4,No,40-49
+EMP2028,45,Female,IT,Data Analyst,Bachelor,Married,19,19,151206,4,4,4,2,Yes,Frequently,0,3,Yes,40-49
+EMP2029,55,Female,Finance,Data Analyst,Bachelor,Married,10,10,47560,2,1,3,4,No,Never,1,32,No,50-60
+EMP2030,42,Female,Sales,Junior Analyst,Bachelor,Divorced,11,17,83390,3,3,4,3,No,Rarely,4,4,No,40-49
+EMP2031,20,Female,IT,Junior Analyst,Bachelor,Single,13,13,150772,1,4,3,4,No,Rarely,0,1,No,20-29
+EMP2032,59,Female,Finance,Manager,High School,Married,7,7,70104,1,3,3,3,No,Never,3,12,No,50-60
+EMP2033,34,Female,Human Resources,Junior Analyst,Bachelor,Divorced,10,10,82805,3,4,4,2,No,Rarely,6,13,No,30-39
+EMP2034,40,Male,Sales,Junior Analyst,PhD,Divorced,3,6,49496,1,3,3,2,No,Frequently,1,34,No,40-49
+EMP2035,28,Male,Sales,Sales Executive,PhD,Single,6,18,116257,3,4,2,2,No,Rarely,3,29,No,20-29
+EMP2036,28,Female,Human Resources,Sales Executive,Bachelor,Married,9,14,28515,1,2,1,3,No,Rarely,3,9,No,20-29
+EMP2037,29,Female,Human Resources,Junior Analyst,Bachelor,Married,18,19,29454,3,1,3,4,No,Frequently,1,31,No,20-29
+EMP2038,45,Female,Sales,Accountant,PhD,Single,3,14,47873,3,1,2,1,No,Rarely,4,7,No,40-49
+EMP2039,60,Male,Human Resources,Accountant,High School,Divorced,1,8,98920,3,4,4,4,Yes,Frequently,5,13,Yes,50-60
+EMP2040,54,Female,Research & Development,Manager,Master,Divorced,20,20,38727,1,3,3,2,Yes,Rarely,2,2,Yes,50-60
+EMP2041,44,Male,Finance,Data Analyst,PhD,Single,17,17,153376,3,2,2,3,No,Rarely,2,33,Yes,40-49
+EMP2042,45,Female,Finance,Senior Analyst,High School,Single,13,13,94070,4,3,3,3,No,Rarely,5,7,No,40-49
+EMP2043,30,Female,Finance,Manager,Bachelor,Single,15,17,124059,3,1,4,2,No,Frequently,1,18,Yes,30-39
+EMP2044,57,Male,Research & Development,Junior Analyst,PhD,Divorced,10,11,149564,2,1,1,3,Yes,Rarely,2,8,Yes,50-60
+EMP2045,21,Male,Human Resources,Sales Executive,Bachelor,Single,9,9,142213,2,3,3,2,No,Frequently,5,12,No,20-29
+EMP2046,26,Female,IT,Software Engineer,High School,Married,16,16,50465,4,4,1,4,Yes,Frequently,0,43,No,20-29
+EMP2047,37,Female,Human Resources,HR Executive,Bachelor,Married,13,13,84799,3,4,3,3,No,Frequently,5,30,No,30-39
+EMP2048,46,Female,Sales,Sales Executive,Bachelor,Married,3,21,121129,2,3,3,1,No,Frequently,4,9,No,40-49
+EMP2049,53,Male,Marketing,Accountant,Master,Single,18,18,177402,3,1,4,3,No,Rarely,6,28,No,50-60
+EMP2050,46,Male,Finance,Sales Executive,Master,Single,1,7,164374,2,3,3,2,No,Rarely,5,4,No,40-49
+EMP2051,36,Male,Human Resources,Senior Analyst,PhD,Divorced,6,14,132288,1,1,2,1,No,Frequently,3,39,No,30-39
+EMP2052,43,Male,IT,Junior Analyst,Bachelor,Divorced,8,8,37875,1,3,2,2,No,Rarely,3,17,No,40-49
+EMP2053,44,Male,Sales,Software Engineer,Bachelor,Married,18,24,52219,4,4,1,3,No,Never,6,11,No,40-49
+EMP2054,26,Male,Research & Development,Accountant,Bachelor,Single,15,15,61182,4,2,1,1,Yes,Frequently,1,2,No,20-29
+EMP2055,25,Female,Research & Development,Accountant,Bachelor,Single,15,17,104781,3,1,2,1,No,Rarely,3,23,No,20-29
+EMP2056,43,Female,IT,Marketing Specialist,Bachelor,Married,17,17,31457,4,2,1,3,No,Frequently,0,22,No,40-49
+EMP2057,52,Male,Sales,Data Analyst,PhD,Single,20,20,162821,3,4,1,1,No,Never,5,26,No,50-60
+EMP2058,48,Female,Finance,Senior Analyst,Master,Divorced,20,20,58064,1,3,2,4,No,Rarely,6,12,No,40-49
+EMP2059,41,Female,Human Resources,Accountant,Bachelor,Married,10,10,165893,1,4,2,1,No,Frequently,0,32,No,40-49
+EMP2060,45,Male,Sales,Data Analyst,Master,Single,6,15,140256,2,2,2,1,No,Rarely,1,9,No,40-49
+EMP2061,47,Female,Research & Development,Accountant,Bachelor,Divorced,8,19,123297,3,4,4,4,No,Rarely,3,43,No,40-49
+EMP2062,40,Male,IT,Junior Analyst,Bachelor,Divorced,3,16,163736,1,4,4,2,No,Never,6,5,No,40-49
+EMP2063,26,Male,IT,Data Analyst,Master,Single,12,12,94918,1,3,2,2,No,Frequently,2,26,No,20-29
+EMP2064,36,Female,Human Resources,Marketing Specialist,Bachelor,Married,3,13,115179,3,2,3,4,No,Frequently,5,7,No,30-39
+EMP2065,39,Male,IT,Junior Analyst,PhD,Single,18,18,99944,2,2,2,1,No,Never,2,29,No,30-39
+EMP2066,60,Male,IT,Software Engineer,Master,Married,1,3,114142,2,2,4,3,No,Frequently,4,33,No,50-60
+EMP2067,39,Male,Sales,Senior Analyst,Bachelor,Single,8,8,52603,2,1,1,4,No,Frequently,1,24,No,30-39
+EMP2068,41,Male,Finance,Senior Analyst,Master,Married,11,11,71458,2,4,3,3,Yes,Frequently,4,25,No,40-49
+EMP2069,47,Male,Human Resources,HR Executive,Bachelor,Divorced,1,9,95605,1,2,3,2,No,Frequently,2,31,No,40-49
+EMP2070,59,Male,Sales,HR Executive,Bachelor,Married,5,22,44623,3,4,1,4,No,Frequently,2,29,No,50-60
+EMP2071,26,Male,Finance,Data Analyst,Bachelor,Single,4,17,69440,3,3,3,3,No,Never,2,5,No,20-29
+EMP2072,20,Male,Sales,Senior Analyst,Bachelor,Married,4,24,107427,1,3,1,1,No,Frequently,4,38,Yes,20-29
+EMP2073,51,Female,Marketing,Data Analyst,Master,Single,19,19,163776,1,1,4,4,No,Frequently,6,45,Yes,50-60
+EMP2074,32,Female,Sales,HR Executive,Bachelor,Divorced,4,9,118826,1,1,3,3,No,Rarely,1,11,No,30-39
+EMP2075,49,Female,IT,Software Engineer,Master,Married,3,24,52460,4,3,3,4,No,Frequently,5,32,No,40-49
+EMP2076,42,Male,Finance,Accountant,Bachelor,Single,8,19,135373,3,2,1,4,No,Frequently,6,8,No,40-49
+EMP2077,38,Male,Human Resources,Sales Executive,Bachelor,Single,9,13,162637,3,3,1,2,No,Frequently,5,20,No,30-39
+EMP2078,51,Female,Human Resources,Data Analyst,Master,Married,15,15,29870,3,4,4,2,Yes,Rarely,0,34,No,50-60
+EMP2079,49,Female,Finance,Software Engineer,Bachelor,Single,9,9,43909,2,1,1,1,No,Never,0,47,No,40-49
+EMP2080,48,Female,IT,Senior Analyst,Bachelor,Married,9,13,34117,1,1,1,2,Yes,Rarely,2,42,Yes,40-49
+EMP2081,48,Male,Research & Development,Accountant,Bachelor,Single,18,18,92474,1,3,4,2,No,Rarely,1,8,No,40-49
+EMP2082,49,Female,Sales,Marketing Specialist,Bachelor,Single,9,15,118926,1,2,2,2,No,Frequently,1,2,Yes,40-49
+EMP2083,35,Female,IT,HR Executive,High School,Married,5,5,152463,4,2,2,3,No,Frequently,3,21,No,30-39
+EMP2084,59,Male,Marketing,Sales Executive,Master,Divorced,16,16,126536,3,4,1,4,Yes,Rarely,3,15,No,50-60
+EMP2085,38,Female,Finance,Software Engineer,Bachelor,Divorced,4,20,45128,1,1,4,2,Yes,Frequently,6,6,Yes,30-39
+EMP2086,37,Male,Sales,Accountant,Bachelor,Single,5,10,94001,4,3,2,3,No,Rarely,4,5,No,30-39
+EMP2087,20,Male,Human Resources,Junior Analyst,PhD,Married,14,14,25440,1,3,4,4,No,Rarely,3,3,No,20-29
+EMP2088,33,Male,Research & Development,Manager,Bachelor,Single,18,24,148491,2,1,1,2,No,Rarely,6,43,No,30-39
+EMP2089,21,Female,Marketing,Sales Executive,Master,Married,17,17,167735,3,3,1,2,Yes,Never,5,43,Yes,20-29
+EMP2090,47,Female,Human Resources,Sales Executive,High School,Married,3,20,175619,4,1,4,4,Yes,Rarely,5,16,No,40-49
+EMP2091,49,Male,Finance,Manager,Bachelor,Divorced,7,16,106662,1,2,3,3,No,Rarely,6,35,No,40-49
+EMP2092,57,Female,Sales,Marketing Specialist,Master,Divorced,15,15,25005,3,2,1,3,Yes,Frequently,4,9,No,50-60
+EMP2093,23,Female,Finance,Junior Analyst,Bachelor,Married,18,18,32038,4,3,1,1,No,Rarely,0,35,No,20-29
+EMP2094,20,Female,Sales,HR Executive,Master,Married,19,19,31414,3,2,1,4,No,Frequently,2,19,No,20-29
+EMP2095,27,Female,IT,Software Engineer,Bachelor,Divorced,2,10,94506,3,2,1,1,Yes,Never,1,43,No,20-29
+EMP2096,48,Male,Research & Development,Accountant,High School,Married,9,15,101586,2,4,4,3,Yes,Frequently,0,46,No,40-49
+EMP2097,58,Female,IT,Software Engineer,Bachelor,Single,1,7,158678,3,1,4,2,Yes,Rarely,6,34,Yes,50-60
+EMP2098,22,Male,IT,Junior Analyst,Bachelor,Single,3,4,41482,4,1,4,1,No,Rarely,5,39,No,20-29
+EMP2099,51,Male,Finance,Software Engineer,Master,Married,5,14,58948,3,3,4,3,No,Frequently,0,10,No,50-60
+EMP2100,29,Female,Research & Development,Manager,Bachelor,Single,10,24,114987,4,1,3,3,No,Rarely,4,10,No,20-29
+EMP2101,29,Male,Sales,Sales Executive,PhD,Single,13,16,45875,3,4,4,2,Yes,Rarely,2,20,No,20-29
+EMP2102,38,Female,Sales,Software Engineer,PhD,Single,15,15,38057,1,3,4,4,No,Rarely,5,1,No,30-39
+EMP2103,53,Female,Marketing,Data Analyst,Bachelor,Married,20,20,57400,2,3,1,3,Yes,Rarely,4,6,No,50-60
+EMP2104,52,Male,Human Resources,Junior Analyst,Bachelor,Single,18,18,93607,1,1,3,1,No,Never,6,46,Yes,50-60
+EMP2105,42,Male,Marketing,Marketing Specialist,Master,Single,1,21,112561,2,2,1,2,No,Frequently,0,2,No,40-49
+EMP2106,47,Male,Marketing,Data Analyst,PhD,Single,16,16,52503,4,2,3,4,No,Rarely,1,38,No,40-49
+EMP2107,51,Male,Sales,Manager,Bachelor,Married,8,18,179837,2,2,2,4,No,Rarely,3,33,No,50-60
+EMP2108,26,Female,Finance,Senior Analyst,Bachelor,Divorced,16,16,126096,3,2,3,4,No,Never,4,3,No,20-29
+EMP2109,48,Female,IT,Manager,Bachelor,Married,14,22,71612,3,4,3,3,Yes,Rarely,5,36,No,40-49
+EMP2110,27,Female,IT,Marketing Specialist,Master,Married,6,19,123318,1,3,1,4,No,Frequently,0,13,No,20-29
+EMP2111,20,Male,IT,Marketing Specialist,Bachelor,Divorced,18,18,109335,2,2,3,3,No,Rarely,3,35,No,20-29
+EMP2112,22,Male,Research & Development,Data Analyst,Master,Single,2,12,125989,4,4,3,2,No,Never,3,15,No,20-29
+EMP2113,43,Male,Sales,Junior Analyst,High School,Single,0,22,118012,4,3,1,2,Yes,Frequently,0,45,No,40-49
+EMP2114,42,Female,Finance,HR Executive,High School,Single,3,5,106748,3,1,2,4,No,Rarely,2,22,No,40-49
+EMP2115,27,Male,Research & Development,Sales Executive,Bachelor,Single,17,17,165500,4,1,2,2,No,Rarely,0,43,No,20-29
+EMP2116,56,Female,Human Resources,Data Analyst,Bachelor,Married,7,9,90195,3,4,2,1,No,Frequently,5,4,No,50-60
+EMP2117,22,Male,Finance,Marketing Specialist,Bachelor,Divorced,18,18,114846,3,3,3,1,Yes,Never,6,17,No,20-29
+EMP2118,52,Female,Marketing,Senior Analyst,Bachelor,Married,5,13,127404,3,2,1,3,No,Rarely,1,5,No,50-60
+EMP2119,47,Female,Finance,Accountant,Bachelor,Married,0,3,64142,1,3,2,4,No,Frequently,5,21,Yes,40-49
+EMP2120,27,Male,Finance,Marketing Specialist,Bachelor,Divorced,7,19,96540,1,2,2,3,No,Rarely,6,24,No,20-29
+EMP2121,53,Male,IT,Marketing Specialist,Bachelor,Single,0,11,101948,3,4,2,2,No,Never,3,31,No,50-60
+EMP2122,54,Female,Finance,Data Analyst,PhD,Single,18,18,83951,3,2,2,4,No,Frequently,1,40,No,50-60
+EMP2123,51,Female,Marketing,Marketing Specialist,Bachelor,Married,10,10,36755,3,4,1,3,No,Rarely,4,30,No,50-60
+EMP2124,43,Male,Marketing,Marketing Specialist,Bachelor,Married,20,24,142985,4,3,2,4,No,Rarely,3,42,No,40-49
+EMP2125,33,Male,Sales,Junior Analyst,Bachelor,Single,14,14,109553,3,3,3,4,No,Rarely,2,7,No,30-39
+EMP2126,51,Female,Finance,Sales Executive,PhD,Married,10,19,159962,3,2,3,3,No,Frequently,0,49,No,50-60
+EMP2127,35,Male,IT,Senior Analyst,Bachelor,Married,18,18,119376,2,3,1,4,Yes,Rarely,4,7,No,30-39
+EMP2128,23,Female,Finance,Junior Analyst,Master,Married,20,20,42175,2,2,4,2,No,Rarely,5,27,No,20-29
+EMP2129,56,Female,Human Resources,HR Executive,Master,Married,9,22,90687,2,3,2,1,No,Never,1,24,No,50-60
+EMP2130,40,Male,Human Resources,HR Executive,Master,Single,11,13,109983,2,1,2,1,No,Rarely,4,19,No,40-49
+EMP2131,33,Male,IT,Software Engineer,High School,Single,0,12,71629,3,2,3,4,No,Frequently,2,41,Yes,30-39
+EMP2132,50,Male,Sales,Data Analyst,Master,Married,6,10,141779,2,4,1,1,Yes,Rarely,0,34,No,50-60
+EMP2133,37,Male,Sales,Data Analyst,High School,Single,16,16,93513,4,1,4,4,No,Rarely,4,22,No,30-39
+EMP2134,26,Male,Marketing,Manager,Bachelor,Divorced,9,9,107762,4,4,3,3,Yes,Rarely,5,27,No,20-29
+EMP2135,29,Female,Marketing,Senior Analyst,Master,Married,5,5,157731,2,3,4,2,No,Frequently,1,6,Yes,20-29
+EMP2136,26,Female,Research & Development,Marketing Specialist,Bachelor,Single,16,16,82941,1,1,1,1,No,Rarely,4,10,Yes,20-29
+EMP2137,52,Male,IT,Senior Analyst,Master,Married,17,24,68473,4,3,1,3,No,Never,0,45,No,50-60
+EMP2138,42,Male,Finance,Software Engineer,High School,Married,4,4,41040,4,2,1,2,No,Rarely,5,31,Yes,40-49
+EMP2139,40,Male,IT,Manager,Master,Single,17,22,94806,2,4,3,1,No,Rarely,4,25,Yes,40-49
+EMP2140,38,Female,Research & Development,Junior Analyst,Bachelor,Married,16,16,169358,2,3,1,1,No,Never,1,2,No,30-39
+EMP2141,38,Male,Marketing,Senior Analyst,Bachelor,Divorced,15,19,137076,3,4,3,2,Yes,Rarely,0,10,Yes,30-39
+EMP2142,55,Male,IT,Junior Analyst,High School,Married,7,11,80916,4,4,3,3,No,Rarely,2,10,No,50-60
+EMP2143,48,Female,IT,HR Executive,PhD,Single,12,12,173672,2,3,2,3,No,Rarely,2,26,No,40-49
+EMP2144,37,Female,Marketing,Software Engineer,High School,Married,15,15,158363,2,2,3,1,Yes,Frequently,3,5,No,30-39
+EMP2145,21,Male,Research & Development,Marketing Specialist,Bachelor,Married,10,10,169195,3,4,3,2,No,Frequently,4,22,No,20-29
+EMP2146,20,Male,Marketing,Sales Executive,Bachelor,Single,5,12,28811,4,3,2,3,No,Rarely,1,4,No,20-29
+EMP2147,24,Male,Sales,Data Analyst,Master,Single,2,9,56276,2,2,4,2,Yes,Rarely,4,34,No,20-29
+EMP2148,39,Female,Finance,Software Engineer,Bachelor,Divorced,0,10,106049,3,3,2,2,Yes,Frequently,0,7,Yes,30-39
+EMP2149,30,Male,Marketing,Senior Analyst,High School,Single,17,17,168266,2,2,2,1,Yes,Never,3,17,No,30-39
+EMP2150,21,Male,Research & Development,Accountant,Bachelor,Married,4,4,98062,1,4,1,2,No,Rarely,1,11,No,20-29
+EMP2151,22,Male,Human Resources,Data Analyst,Bachelor,Married,12,20,175434,1,1,1,2,No,Never,4,8,No,20-29
+EMP2152,42,Female,Sales,Data Analyst,Bachelor,Married,9,23,79499,2,3,2,4,No,Rarely,1,28,No,40-49
+EMP2153,31,Female,Human Resources,Accountant,Bachelor,Single,4,16,71281,4,4,1,2,No,Rarely,0,44,No,30-39
+EMP2154,39,Male,Marketing,Manager,Master,Married,13,13,69852,1,3,2,3,Yes,Rarely,3,33,Yes,30-39
+EMP2155,24,Male,Sales,Manager,Bachelor,Married,16,16,29595,3,3,1,1,No,Rarely,1,25,No,20-29
+EMP2156,56,Female,Finance,Accountant,Bachelor,Married,0,24,120930,2,2,3,1,Yes,Rarely,0,21,No,50-60
+EMP2157,57,Female,Marketing,Sales Executive,Bachelor,Married,1,11,171474,3,3,1,2,Yes,Never,2,12,No,50-60
+EMP2158,49,Female,Finance,HR Executive,PhD,Married,6,8,117676,1,2,1,2,No,Rarely,1,26,No,40-49
+EMP2159,28,Female,IT,Accountant,PhD,Divorced,9,9,44405,4,4,3,3,Yes,Rarely,3,29,Yes,20-29
+EMP2160,53,Female,Human Resources,HR Executive,Master,Married,19,20,83122,3,3,2,4,No,Rarely,6,38,No,50-60
+EMP2161,54,Female,Sales,Sales Executive,Bachelor,Married,6,11,153909,1,4,1,1,No,Frequently,5,35,No,50-60
+EMP2162,41,Female,Finance,Software Engineer,High School,Divorced,15,21,28447,1,1,1,4,Yes,Never,5,37,Yes,40-49
+EMP2163,43,Female,Research & Development,HR Executive,Bachelor,Married,4,12,35662,1,4,3,3,No,Rarely,1,46,No,40-49
+EMP2164,36,Female,Finance,Data Analyst,Bachelor,Single,11,16,83282,3,3,3,1,No,Rarely,1,44,No,30-39
+EMP2165,29,Male,Research & Development,Data Analyst,Bachelor,Single,16,18,160971,1,1,3,3,No,Rarely,0,45,No,20-29
+EMP2166,49,Male,Marketing,Sales Executive,Master,Married,15,15,53582,2,2,4,2,Yes,Rarely,4,45,No,40-49
+EMP2167,42,Male,Sales,HR Executive,Master,Married,19,22,92471,1,1,3,3,Yes,Rarely,5,29,Yes,40-49
+EMP2168,51,Female,Finance,Junior Analyst,Master,Married,15,15,148513,2,3,2,2,No,Rarely,4,49,No,50-60
+EMP2169,36,Male,Finance,Sales Executive,Bachelor,Married,18,18,132578,4,3,1,4,No,Frequently,5,24,No,30-39
+EMP2170,36,Female,Sales,Sales Executive,Master,Single,14,22,100871,2,4,1,1,Yes,Frequently,1,15,No,30-39
+EMP2171,33,Female,Finance,Junior Analyst,Bachelor,Married,11,21,108205,4,2,4,1,No,Rarely,3,6,No,30-39
+EMP2172,28,Male,Research & Development,HR Executive,High School,Single,20,20,99081,4,3,1,4,Yes,Rarely,3,32,No,20-29
+EMP2173,59,Female,Finance,HR Executive,Master,Married,9,18,130783,2,3,1,2,Yes,Frequently,6,44,No,50-60
+EMP2174,21,Male,Human Resources,Data Analyst,High School,Married,1,14,108805,4,2,2,1,Yes,Frequently,5,34,Yes,20-29
+EMP2175,44,Male,Marketing,Sales Executive,Bachelor,Married,6,6,149698,2,2,1,3,No,Rarely,5,36,No,40-49
+EMP2176,58,Male,IT,Sales Executive,Bachelor,Married,12,21,163138,3,4,2,2,Yes,Frequently,0,20,No,50-60
+EMP2177,28,Female,Research & Development,Marketing Specialist,Master,Married,2,14,35712,4,1,4,1,No,Rarely,1,12,No,20-29
+EMP2178,41,Male,Human Resources,Software Engineer,Master,Married,14,14,106527,2,2,2,3,No,Rarely,1,35,No,40-49
+EMP2179,23,Female,Marketing,Sales Executive,Bachelor,Single,0,23,154453,4,3,3,3,Yes,Rarely,6,49,No,20-29
+EMP2180,45,Male,Sales,Senior Analyst,Master,Single,2,15,151888,1,2,3,1,No,Never,4,38,No,40-49
+EMP2181,48,Male,Research & Development,Software Engineer,Bachelor,Married,9,15,112185,2,3,4,4,No,Rarely,0,17,No,40-49
+EMP2182,53,Male,IT,Senior Analyst,Bachelor,Divorced,14,19,124851,1,4,1,4,No,Never,2,27,No,50-60
+EMP2183,42,Female,Marketing,HR Executive,Master,Married,5,20,37210,4,1,2,1,No,Rarely,3,17,No,40-49
+EMP2184,56,Female,IT,Software Engineer,Master,Married,19,19,61972,4,4,3,3,No,Rarely,3,11,No,50-60
+EMP2185,30,Female,Sales,Sales Executive,PhD,Single,14,19,59136,3,2,2,4,Yes,Frequently,1,39,No,30-39
+EMP2186,25,Male,Sales,Junior Analyst,Bachelor,Married,20,20,141445,2,3,3,4,No,Rarely,6,2,No,20-29
+EMP2187,37,Male,Research & Development,Data Analyst,Master,Married,6,6,40945,1,2,2,4,Yes,Rarely,0,2,Yes,30-39
+EMP2188,40,Female,Finance,Senior Analyst,Master,Single,20,20,104180,3,2,1,2,No,Rarely,2,29,No,40-49
+EMP2189,55,Female,Sales,Software Engineer,PhD,Single,4,23,95453,4,2,4,4,Yes,Never,3,45,Yes,50-60
+EMP2190,60,Female,Marketing,Sales Executive,Bachelor,Divorced,3,15,110404,4,2,1,1,Yes,Rarely,0,24,No,50-60
+EMP2191,57,Female,Finance,Software Engineer,Master,Single,17,17,169296,3,1,2,1,No,Rarely,2,24,No,50-60
+EMP2192,53,Female,Human Resources,Sales Executive,Bachelor,Single,2,10,28052,1,3,3,2,Yes,Rarely,5,16,No,50-60
+EMP2193,36,Female,IT,Sales Executive,Bachelor,Single,16,16,52272,4,2,3,2,No,Frequently,1,31,No,30-39
+EMP2194,56,Male,Finance,Sales Executive,Bachelor,Divorced,17,24,66150,4,3,4,1,Yes,Rarely,4,49,Yes,50-60
+EMP2195,44,Female,IT,Marketing Specialist,Bachelor,Married,17,17,173388,2,1,1,2,No,Rarely,3,43,No,40-49
+EMP2196,57,Male,Finance,Data Analyst,Bachelor,Married,1,17,163312,3,3,1,4,Yes,Rarely,3,9,No,50-60
+EMP2197,31,Male,Human Resources,Junior Analyst,Master,Divorced,12,19,122095,4,3,1,3,No,Frequently,2,27,No,30-39
+EMP2198,42,Female,Sales,Junior Analyst,Bachelor,Single,14,14,93774,1,1,3,3,No,Rarely,4,41,No,40-49
+EMP2199,41,Female,Human Resources,Software Engineer,Master,Married,4,16,68175,2,2,4,3,No,Rarely,5,14,No,40-49
+EMP2200,40,Male,Sales,Software Engineer,Bachelor,Single,2,5,156637,3,3,3,1,Yes,Frequently,0,45,No,40-49
+EMP2201,46,Female,Sales,Sales Executive,High School,Single,4,5,41375,1,4,1,2,No,Never,1,25,Yes,40-49
+EMP2202,50,Female,IT,Marketing Specialist,Bachelor,Married,4,14,50710,4,3,2,3,No,Frequently,0,43,No,50-60
+EMP2203,25,Male,Marketing,Sales Executive,Bachelor,Married,4,18,171246,3,2,3,4,No,Rarely,2,44,No,20-29
+EMP2204,46,Male,Human Resources,Marketing Specialist,Bachelor,Married,2,8,132026,3,4,4,4,No,Frequently,3,22,No,40-49
+EMP2205,59,Male,Finance,Sales Executive,Bachelor,Married,2,5,52597,1,2,1,4,No,Never,5,35,No,50-60
+EMP2206,53,Female,Human Resources,Senior Analyst,Bachelor,Married,19,19,99289,3,3,2,2,No,Rarely,3,33,No,50-60
+EMP2207,31,Male,IT,Senior Analyst,Bachelor,Single,17,17,110687,1,1,3,3,Yes,Rarely,0,27,Yes,30-39
+EMP2208,26,Female,Sales,HR Executive,Bachelor,Single,19,23,143968,4,2,2,4,Yes,Rarely,5,40,Yes,20-29
+EMP2209,29,Male,IT,Sales Executive,Bachelor,Single,3,14,65274,2,2,2,2,No,Never,6,26,Yes,20-29
+EMP2210,36,Male,Research & Development,Data Analyst,High School,Single,0,5,73634,1,1,4,4,Yes,Rarely,1,19,No,30-39
+EMP2211,45,Male,Research & Development,HR Executive,PhD,Married,15,24,55041,2,3,3,3,Yes,Rarely,2,45,Yes,40-49
+EMP2212,40,Female,Finance,Software Engineer,Master,Single,7,9,163320,3,2,4,3,Yes,Rarely,1,39,No,40-49
+EMP2213,47,Female,IT,Sales Executive,Master,Single,16,16,110365,1,3,1,3,Yes,Frequently,2,45,No,40-49
+EMP2214,21,Male,Finance,Senior Analyst,High School,Married,7,7,158275,4,3,2,3,No,Rarely,1,26,No,20-29
+EMP2215,20,Male,Finance,Marketing Specialist,Master,Divorced,6,16,76986,1,3,4,3,No,Frequently,6,6,Yes,20-29
+EMP2216,55,Male,Research & Development,Data Analyst,Master,Single,7,24,50370,1,1,4,4,No,Frequently,0,3,No,50-60
+EMP2217,45,Female,Finance,Sales Executive,Master,Single,20,20,60247,1,3,1,3,No,Rarely,4,6,No,40-49
+EMP2218,48,Male,Research & Development,Junior Analyst,High School,Married,11,15,149403,2,3,3,4,No,Frequently,5,28,No,40-49
+EMP2219,40,Female,Sales,Junior Analyst,Master,Married,15,15,144544,2,4,4,3,No,Rarely,2,3,No,40-49
+EMP2220,30,Male,IT,Marketing Specialist,Master,Married,11,11,156506,3,4,2,4,No,Never,0,13,No,30-39
+EMP2221,59,Male,Finance,HR Executive,Bachelor,Married,18,18,87982,3,4,2,3,No,Frequently,3,13,No,50-60
+EMP2222,30,Male,Research & Development,Junior Analyst,Master,Divorced,9,9,90180,3,2,2,4,No,Never,3,13,No,30-39
+EMP2223,55,Male,Human Resources,HR Executive,Bachelor,Married,6,6,133534,3,2,2,3,No,Rarely,1,1,No,50-60
+EMP2224,58,Male,Finance,Senior Analyst,Bachelor,Married,11,11,49644,1,4,4,2,Yes,Rarely,3,40,No,50-60
+EMP2225,59,Male,Marketing,Sales Executive,High School,Married,19,19,63493,2,1,2,4,Yes,Rarely,4,37,Yes,50-60
+EMP2226,54,Female,Sales,Senior Analyst,Master,Single,4,16,108824,2,1,4,2,No,Rarely,2,31,No,50-60
+EMP2227,53,Male,Sales,Senior Analyst,High School,Divorced,15,15,160031,2,4,3,4,No,Never,1,17,No,50-60
+EMP2228,43,Female,Human Resources,Accountant,Bachelor,Married,8,9,72289,2,2,2,4,No,Rarely,2,9,Yes,40-49
+EMP2229,41,Male,Research & Development,Manager,Bachelor,Single,6,6,167215,3,2,3,4,No,Rarely,2,45,No,40-49
+EMP2230,24,Male,Finance,Data Analyst,Bachelor,Married,19,19,178612,1,1,4,1,No,Rarely,6,13,Yes,20-29
+EMP2231,52,Female,Research & Development,HR Executive,High School,Single,13,13,60481,2,3,1,3,No,Rarely,0,37,Yes,50-60
+EMP2232,55,Male,Sales,Accountant,Master,Married,10,12,102097,4,1,3,2,No,Rarely,3,14,No,50-60
+EMP2233,39,Female,Research & Development,Manager,Master,Married,6,24,47578,1,3,2,2,No,Rarely,5,11,No,30-39
+EMP2234,38,Female,Sales,Data Analyst,Bachelor,Married,9,10,168859,4,2,1,4,No,Frequently,2,25,No,30-39
+EMP2235,54,Male,Research & Development,HR Executive,High School,Married,8,8,97048,1,2,3,2,Yes,Rarely,4,31,No,50-60
+EMP2236,36,Female,Human Resources,Sales Executive,High School,Single,3,18,166668,1,4,4,2,No,Frequently,6,14,Yes,30-39
+EMP2237,53,Female,IT,Data Analyst,Master,Married,15,15,176002,1,2,4,2,No,Rarely,4,7,No,50-60
+EMP2238,28,Male,Human Resources,Senior Analyst,Bachelor,Married,9,13,120737,4,3,4,2,No,Frequently,5,24,No,20-29
+EMP2239,45,Female,Human Resources,Manager,Bachelor,Married,18,18,43687,2,1,3,1,No,Rarely,3,49,No,40-49
+EMP2240,21,Male,IT,Manager,High School,Married,16,18,147540,2,4,4,4,No,Never,3,36,No,20-29
+EMP2241,28,Male,IT,Manager,Master,Married,8,8,55183,4,3,3,2,Yes,Frequently,1,42,No,20-29
+EMP2242,28,Male,Finance,HR Executive,Master,Married,12,21,45758,2,1,2,1,No,Rarely,1,42,No,20-29
+EMP2243,59,Male,Finance,Data Analyst,Master,Single,0,16,157154,3,1,2,1,No,Rarely,1,47,No,50-60
+EMP2244,36,Female,Human Resources,Senior Analyst,Master,Divorced,1,15,121368,2,1,3,4,Yes,Rarely,3,44,No,30-39
+EMP2245,20,Male,Human Resources,Accountant,High School,Married,12,22,70891,3,2,3,3,No,Frequently,2,41,No,20-29
+EMP2246,44,Male,Sales,Sales Executive,High School,Married,8,8,71901,3,1,1,3,No,Frequently,0,3,No,40-49
+EMP2247,59,Female,Sales,Junior Analyst,High School,Single,6,6,128912,3,2,4,3,No,Rarely,5,47,No,50-60
+EMP2248,44,Male,Finance,Accountant,Bachelor,Single,15,15,96062,4,1,2,2,No,Rarely,6,44,No,40-49
+EMP2249,58,Male,Marketing,Senior Analyst,High School,Married,18,18,177635,2,1,2,4,Yes,Never,5,26,No,50-60
+EMP2250,54,Female,Marketing,Junior Analyst,Bachelor,Divorced,6,16,97008,2,2,1,3,No,Never,5,47,No,50-60
+EMP2251,22,Female,Finance,Junior Analyst,Bachelor,Married,5,12,158847,4,2,3,2,No,Frequently,1,26,No,20-29
+EMP2252,56,Female,Sales,Manager,PhD,Divorced,17,17,171900,4,3,3,4,No,Rarely,0,1,No,50-60
+EMP2253,49,Female,Sales,Software Engineer,Master,Married,18,18,42974,2,1,1,2,No,Frequently,4,15,Yes,40-49
+EMP2254,57,Female,Marketing,Senior Analyst,Master,Married,10,10,178460,4,2,4,3,Yes,Frequently,3,11,Yes,50-60
+EMP2255,53,Female,Research & Development,Manager,Master,Single,11,11,105591,4,3,3,3,No,Rarely,4,37,No,50-60
+EMP2256,31,Female,Research & Development,Senior Analyst,High School,Married,9,21,43615,3,3,3,1,No,Rarely,1,7,No,30-39
+EMP2257,38,Male,Sales,Software Engineer,Master,Single,12,12,47838,4,2,4,1,No,Frequently,2,12,No,30-39
+EMP2258,56,Female,Research & Development,Sales Executive,Bachelor,Divorced,11,24,65728,3,1,4,4,No,Rarely,6,38,No,50-60
+EMP2259,36,Female,IT,Software Engineer,Master,Divorced,20,20,141249,1,3,1,2,No,Rarely,6,3,No,30-39
+EMP2260,29,Female,Finance,Marketing Specialist,Bachelor,Divorced,9,9,103000,3,1,1,2,No,Frequently,1,42,No,20-29
+EMP2261,31,Male,Finance,Accountant,PhD,Married,19,19,77798,3,1,1,3,No,Frequently,0,26,No,30-39
+EMP2262,35,Male,Sales,Manager,Bachelor,Married,17,22,175694,4,3,3,3,No,Never,6,30,No,30-39
+EMP2263,43,Female,Human Resources,Accountant,Bachelor,Married,3,17,169608,2,2,1,4,Yes,Rarely,1,32,Yes,40-49
+EMP2264,38,Female,Marketing,Marketing Specialist,PhD,Single,4,7,161772,1,1,3,1,No,Never,5,36,No,30-39
+EMP2265,27,Female,Sales,Software Engineer,High School,Married,4,11,35248,1,4,2,3,No,Rarely,2,45,No,20-29
+EMP2266,50,Male,Research & Development,HR Executive,Master,Single,11,11,70291,1,2,4,2,No,Frequently,2,37,No,50-60
+EMP2267,40,Male,Marketing,Software Engineer,Master,Married,2,5,107629,2,3,4,3,No,Rarely,3,18,No,40-49
+EMP2268,36,Female,Human Resources,Software Engineer,Master,Single,7,7,150612,1,4,2,1,No,Rarely,3,1,No,30-39
+EMP2269,42,Male,Research & Development,Marketing Specialist,PhD,Single,1,11,42177,1,1,1,2,No,Rarely,5,21,No,40-49
+EMP2270,56,Female,IT,Sales Executive,PhD,Married,17,17,175555,2,2,3,1,Yes,Frequently,2,28,No,50-60
+EMP2271,35,Male,Research & Development,Senior Analyst,High School,Married,8,10,68815,1,4,3,4,No,Rarely,5,48,Yes,30-39
+EMP2272,25,Male,IT,Marketing Specialist,Master,Married,12,20,63533,4,2,3,4,No,Rarely,2,16,No,20-29
+EMP2273,27,Female,Marketing,Senior Analyst,Master,Single,6,24,25026,4,1,4,1,No,Rarely,0,48,Yes,20-29
+EMP2274,44,Female,IT,Marketing Specialist,Master,Married,9,21,129997,3,2,1,2,No,Rarely,1,28,No,40-49
+EMP2275,37,Female,Marketing,Senior Analyst,High School,Single,8,11,85611,3,4,3,1,No,Frequently,3,22,No,30-39
+EMP2276,44,Female,Marketing,Accountant,Master,Married,14,24,112242,3,2,3,3,No,Never,0,19,No,40-49
+EMP2277,31,Male,Marketing,Marketing Specialist,PhD,Married,4,17,129913,4,3,3,3,Yes,Rarely,6,48,No,30-39
+EMP2278,34,Male,Marketing,Marketing Specialist,PhD,Married,11,11,67082,4,3,2,1,No,Frequently,1,1,No,30-39
+EMP2279,45,Male,Marketing,Marketing Specialist,Bachelor,Married,0,13,172330,4,4,3,3,No,Never,3,31,No,40-49
+EMP2280,60,Female,Research & Development,Senior Analyst,High School,Single,11,20,128613,3,2,2,1,No,Frequently,6,42,No,50-60
+EMP2281,45,Male,Marketing,Sales Executive,Bachelor,Married,5,18,123315,3,4,3,3,Yes,Frequently,5,34,No,40-49
+EMP2282,51,Female,Research & Development,Data Analyst,Master,Married,18,22,114690,3,2,3,1,No,Rarely,6,46,No,50-60
+EMP2283,29,Male,Marketing,Senior Analyst,Master,Married,18,18,120220,3,1,3,3,No,Rarely,0,40,Yes,20-29
+EMP2284,35,Female,IT,Manager,Bachelor,Married,15,15,40389,3,3,2,2,Yes,Rarely,4,6,No,30-39
+EMP2285,26,Female,Marketing,Junior Analyst,High School,Single,18,18,116860,3,1,3,2,No,Rarely,6,28,No,20-29
+EMP2286,36,Male,Human Resources,Sales Executive,Bachelor,Married,2,18,46797,4,2,1,3,Yes,Frequently,4,3,No,30-39
+EMP2287,42,Female,Marketing,Accountant,Bachelor,Married,9,9,136975,2,1,3,1,No,Rarely,3,31,No,40-49
+EMP2288,45,Female,Marketing,Software Engineer,PhD,Single,17,22,122169,2,4,2,3,No,Rarely,0,16,No,40-49
+EMP2289,40,Male,IT,Senior Analyst,Master,Single,12,17,91332,3,4,2,4,No,Never,6,17,No,40-49
+EMP2290,41,Female,Finance,Marketing Specialist,Bachelor,Single,17,17,163260,2,2,1,4,No,Rarely,1,44,No,40-49
+EMP2291,26,Female,IT,Senior Analyst,Bachelor,Divorced,2,6,48696,2,3,4,1,Yes,Never,6,27,No,20-29
+EMP2292,33,Female,Human Resources,HR Executive,High School,Married,2,19,27024,4,4,1,3,No,Frequently,1,24,No,30-39
+EMP2293,34,Male,Finance,Sales Executive,PhD,Single,11,11,162656,3,3,1,3,No,Rarely,0,20,No,30-39
+EMP2294,26,Male,Sales,Data Analyst,Bachelor,Married,19,19,115998,3,2,2,2,No,Frequently,4,32,No,20-29
+EMP2295,28,Female,Sales,Accountant,Bachelor,Married,6,14,30285,2,3,3,1,No,Frequently,0,35,No,20-29
+EMP2296,27,Male,Human Resources,HR Executive,Bachelor,Married,7,7,32370,3,2,3,4,No,Rarely,4,13,No,20-29
+EMP2297,42,Female,IT,HR Executive,Master,Single,8,8,42903,3,1,4,4,Yes,Rarely,4,48,Yes,40-49
+EMP2298,48,Female,Research & Development,Senior Analyst,Master,Single,13,15,122904,3,2,4,1,Yes,Rarely,5,43,Yes,40-49
+EMP2299,37,Female,Human Resources,Accountant,Master,Divorced,4,15,47995,3,1,4,4,Yes,Frequently,5,20,Yes,30-39
+EMP2300,50,Female,Finance,Senior Analyst,Bachelor,Single,20,20,130160,2,2,4,1,No,Rarely,1,48,No,50-60
+EMP2301,49,Female,Finance,Software Engineer,Bachelor,Single,18,18,113377,1,4,1,4,No,Frequently,3,2,No,40-49
+EMP2302,58,Male,Marketing,Accountant,High School,Divorced,20,20,169638,2,4,1,4,No,Rarely,2,4,No,50-60
+EMP2303,54,Female,Sales,Software Engineer,Master,Married,15,15,62822,4,3,3,1,No,Rarely,0,27,No,50-60
+EMP2304,37,Male,Finance,Sales Executive,High School,Single,11,11,132412,1,2,1,1,No,Rarely,4,25,No,30-39
+EMP2305,58,Male,Human Resources,Sales Executive,Bachelor,Single,20,20,76222,1,2,3,4,No,Rarely,0,4,No,50-60
+EMP2306,36,Female,Finance,Software Engineer,Master,Single,3,21,119088,1,2,3,4,Yes,Rarely,3,32,Yes,30-39
+EMP2307,33,Female,Human Resources,Sales Executive,Master,Single,7,7,115450,2,3,3,2,No,Rarely,3,17,No,30-39
+EMP2308,50,Male,Research & Development,Accountant,Bachelor,Divorced,6,6,134366,4,4,3,3,Yes,Rarely,2,1,No,50-60
+EMP2309,43,Male,Marketing,Marketing Specialist,Bachelor,Married,14,14,135078,2,2,2,1,No,Never,6,33,No,40-49
+EMP2310,54,Male,Sales,Manager,High School,Married,5,14,88853,4,3,3,1,No,Rarely,2,30,No,50-60
+EMP2311,53,Female,Finance,Sales Executive,Master,Divorced,4,11,148794,2,2,1,3,Yes,Frequently,4,5,No,50-60
+EMP2312,22,Male,Human Resources,Sales Executive,Master,Married,13,13,178405,2,1,1,2,No,Never,5,12,No,20-29
+EMP2313,56,Female,IT,Senior Analyst,Bachelor,Single,20,24,172030,2,2,1,4,Yes,Never,6,38,No,50-60
+EMP2314,59,Female,Sales,Software Engineer,Bachelor,Married,12,12,77442,1,1,1,4,No,Never,2,32,Yes,50-60
+EMP2315,45,Female,Research & Development,Junior Analyst,Master,Divorced,9,24,177026,2,3,2,2,No,Rarely,5,38,No,40-49
+EMP2316,42,Male,Human Resources,Data Analyst,Master,Married,17,17,34675,4,3,4,2,No,Frequently,6,17,No,40-49
+EMP2317,58,Female,Marketing,HR Executive,Bachelor,Single,3,16,114590,4,4,4,3,No,Frequently,5,45,No,50-60
+EMP2318,34,Female,Marketing,Sales Executive,Bachelor,Married,7,11,133570,4,2,3,3,No,Frequently,4,40,No,30-39
+EMP2319,23,Female,Research & Development,HR Executive,Bachelor,Married,10,10,56661,1,3,3,4,No,Frequently,1,32,No,20-29
+EMP2320,48,Female,Research & Development,Accountant,High School,Divorced,16,16,89289,2,4,1,2,Yes,Rarely,5,24,No,40-49
+EMP2321,41,Female,Marketing,Junior Analyst,PhD,Single,17,21,42184,2,2,1,2,Yes,Never,4,12,No,40-49
+EMP2322,44,Male,Finance,Data Analyst,Master,Married,20,22,72963,3,3,4,4,Yes,Rarely,2,47,Yes,40-49
+EMP2323,32,Female,Finance,Software Engineer,Master,Divorced,10,16,30267,1,1,4,4,No,Rarely,0,31,No,30-39
+EMP2324,37,Female,Human Resources,Manager,High School,Married,15,19,87814,4,3,1,4,No,Rarely,2,19,No,30-39
+EMP2325,52,Male,IT,Data Analyst,Master,Married,11,16,61025,4,1,3,4,No,Rarely,3,29,No,50-60
+EMP2326,35,Female,Human Resources,Data Analyst,Bachelor,Single,12,12,146246,2,4,2,4,No,Rarely,2,21,No,30-39
+EMP2327,21,Male,IT,Manager,Bachelor,Single,15,15,102605,4,4,2,3,Yes,Rarely,1,26,No,20-29
+EMP2328,54,Female,Research & Development,Marketing Specialist,Bachelor,Single,20,23,157053,2,2,4,4,Yes,Never,4,28,No,50-60
+EMP2329,53,Male,Sales,Software Engineer,High School,Divorced,0,1,68436,2,2,4,2,No,Rarely,5,17,Yes,50-60
+EMP2330,49,Male,Human Resources,Senior Analyst,Master,Single,15,21,174544,3,2,4,1,Yes,Rarely,3,9,Yes,40-49
+EMP2331,32,Female,Human Resources,HR Executive,Bachelor,Married,14,14,175408,1,4,2,3,No,Frequently,4,21,No,30-39
+EMP2332,32,Female,IT,Sales Executive,Bachelor,Married,5,12,102192,2,1,2,2,No,Rarely,4,34,No,30-39
+EMP2333,37,Female,Research & Development,Data Analyst,Bachelor,Single,11,22,145591,2,2,1,1,No,Rarely,5,11,No,30-39
+EMP2334,51,Male,Research & Development,Accountant,Bachelor,Married,7,8,109511,2,2,3,3,No,Rarely,6,20,No,50-60
+EMP2335,51,Male,IT,Manager,High School,Married,6,17,34665,3,4,4,4,No,Rarely,2,49,No,50-60
+EMP2336,54,Male,Research & Development,HR Executive,Bachelor,Divorced,1,10,116277,2,1,1,3,No,Rarely,0,47,Yes,50-60
+EMP2337,58,Female,Marketing,Junior Analyst,Master,Married,11,11,77474,1,3,2,4,Yes,Frequently,6,39,Yes,50-60
+EMP2338,48,Male,Finance,Manager,High School,Married,20,20,100911,1,2,1,4,No,Never,3,16,Yes,40-49
+EMP2339,48,Male,Marketing,Junior Analyst,High School,Single,13,13,117643,4,3,2,4,Yes,Frequently,5,29,No,40-49
+EMP2340,35,Female,Sales,Software Engineer,Bachelor,Divorced,15,21,55484,1,3,3,1,Yes,Rarely,1,1,No,30-39
+EMP2341,29,Male,Human Resources,Data Analyst,Master,Single,10,24,126165,4,2,2,3,No,Rarely,1,18,No,20-29
+EMP2342,49,Male,Sales,Accountant,Bachelor,Married,19,24,50835,1,4,1,4,No,Rarely,0,22,No,40-49
+EMP2343,44,Female,Human Resources,Sales Executive,Bachelor,Single,8,19,121453,4,2,3,2,Yes,Rarely,0,8,Yes,40-49
+EMP2344,58,Male,Finance,Junior Analyst,Bachelor,Divorced,9,18,78790,2,1,2,3,Yes,Rarely,2,7,Yes,50-60
+EMP2345,39,Female,Research & Development,HR Executive,Bachelor,Married,16,16,34643,3,1,4,2,Yes,Never,1,25,No,30-39
+EMP2346,24,Female,Marketing,Marketing Specialist,High School,Married,11,11,100846,3,2,2,1,No,Rarely,3,30,No,20-29
+EMP2347,20,Female,IT,Software Engineer,Master,Single,5,14,175023,3,3,3,1,No,Rarely,5,34,No,20-29
+EMP2348,49,Female,Marketing,Marketing Specialist,Master,Married,18,21,171305,2,1,1,3,Yes,Rarely,0,44,No,40-49
+EMP2349,22,Female,Finance,Software Engineer,Bachelor,Married,10,10,38200,3,1,3,1,No,Rarely,0,48,Yes,20-29
+EMP2350,33,Male,Sales,Senior Analyst,Master,Married,8,16,77275,1,2,1,1,No,Frequently,0,41,No,30-39
+EMP2351,49,Male,IT,HR Executive,Master,Single,20,20,114001,4,2,2,3,No,Never,5,11,No,40-49
+EMP2352,23,Female,Research & Development,Marketing Specialist,Bachelor,Divorced,5,8,177363,2,4,2,2,No,Rarely,3,15,Yes,20-29
+EMP2353,37,Female,Finance,Accountant,Bachelor,Divorced,15,15,67448,3,2,3,4,No,Rarely,1,35,No,30-39
+EMP2354,56,Male,IT,Data Analyst,High School,Single,19,19,116685,1,2,4,3,No,Never,6,23,Yes,50-60
+EMP2355,44,Female,Finance,Manager,High School,Married,15,15,177418,1,1,2,3,No,Frequently,3,45,No,40-49
+EMP2356,20,Female,Finance,Sales Executive,Master,Married,5,13,35619,2,1,4,4,Yes,Never,5,21,No,20-29
+EMP2357,34,Female,Research & Development,Data Analyst,Master,Married,4,12,130454,2,1,4,2,No,Rarely,3,28,No,30-39
+EMP2358,28,Male,Human Resources,Data Analyst,PhD,Single,20,20,26766,3,3,3,4,No,Rarely,2,13,Yes,20-29
+EMP2359,34,Male,IT,Software Engineer,Master,Married,3,15,28549,4,1,2,4,Yes,Rarely,6,34,Yes,30-39
+EMP2360,43,Female,Research & Development,Accountant,Bachelor,Married,1,12,174765,3,1,4,2,Yes,Rarely,5,38,No,40-49
+EMP2361,23,Female,Finance,Software Engineer,High School,Married,5,11,132938,3,2,2,2,Yes,Frequently,6,6,Yes,20-29
+EMP2362,31,Male,Research & Development,Junior Analyst,Master,Married,8,19,152673,2,4,1,4,No,Rarely,6,44,No,30-39
+EMP2363,56,Male,Human Resources,Sales Executive,Bachelor,Married,16,16,73328,3,1,4,4,Yes,Rarely,0,4,No,50-60
+EMP2364,56,Female,Marketing,Junior Analyst,Master,Married,13,18,50301,3,4,3,3,No,Rarely,1,5,No,50-60
+EMP2365,25,Female,IT,Manager,Master,Single,6,13,69763,4,1,3,2,No,Frequently,6,40,No,20-29
+EMP2366,58,Male,Human Resources,HR Executive,Master,Divorced,18,18,176837,1,1,4,1,No,Rarely,2,6,No,50-60
+EMP2367,43,Male,Sales,Manager,Master,Married,0,17,69787,1,4,2,2,No,Rarely,2,21,No,40-49
+EMP2368,30,Male,IT,Manager,High School,Single,19,19,145675,4,2,1,4,No,Frequently,5,28,No,30-39
+EMP2369,32,Female,Human Resources,Senior Analyst,Master,Single,14,14,32425,1,1,1,4,Yes,Rarely,4,3,Yes,30-39
+EMP2370,53,Male,Finance,Sales Executive,Master,Married,17,23,37857,3,4,3,4,No,Rarely,0,23,No,50-60
+EMP2371,44,Female,IT,Software Engineer,Bachelor,Divorced,2,7,117999,4,1,3,4,Yes,Rarely,1,8,Yes,40-49
+EMP2372,26,Male,IT,Accountant,Master,Married,17,17,178516,4,3,2,1,No,Never,1,19,No,20-29
+EMP2373,23,Male,Research & Development,Junior Analyst,Bachelor,Married,1,7,66457,2,3,3,2,No,Frequently,1,11,No,20-29
+EMP2374,27,Male,Finance,Manager,PhD,Single,9,9,156776,1,3,2,1,No,Frequently,5,10,Yes,20-29
+EMP2375,39,Male,Sales,Junior Analyst,High School,Married,10,20,30452,2,3,4,1,No,Never,0,28,No,30-39
+EMP2376,48,Female,Marketing,Junior Analyst,Bachelor,Divorced,2,7,136153,3,2,1,4,Yes,Never,6,20,Yes,40-49
+EMP2377,29,Female,Human Resources,HR Executive,Bachelor,Married,6,8,63862,4,3,4,1,No,Frequently,6,44,No,20-29
+EMP2378,53,Male,Research & Development,Sales Executive,Master,Single,7,16,43300,3,4,3,4,No,Rarely,5,28,Yes,50-60
+EMP2379,45,Female,Human Resources,Sales Executive,Bachelor,Married,18,18,165638,1,1,1,4,Yes,Frequently,1,29,No,40-49
+EMP2380,60,Male,Sales,Marketing Specialist,Bachelor,Single,17,17,163573,2,4,1,4,No,Rarely,6,8,No,50-60
+EMP2381,22,Male,Sales,Data Analyst,Bachelor,Married,12,12,26845,1,3,4,1,No,Never,3,19,Yes,20-29
+EMP2382,25,Male,IT,Sales Executive,PhD,Married,12,18,144342,3,2,2,4,No,Frequently,3,48,No,20-29
+EMP2383,24,Male,Sales,Junior Analyst,Bachelor,Married,18,18,64181,2,3,1,1,No,Rarely,0,21,No,20-29
+EMP2384,24,Female,Human Resources,Software Engineer,High School,Single,11,21,59404,1,3,2,2,Yes,Rarely,1,18,Yes,20-29
+EMP2385,42,Male,Finance,Junior Analyst,Master,Divorced,16,21,47564,3,2,4,4,No,Rarely,5,9,Yes,40-49
+EMP2386,28,Male,Finance,Software Engineer,Bachelor,Married,11,11,122898,1,2,4,3,No,Rarely,4,4,No,20-29
+EMP2387,54,Female,IT,Marketing Specialist,PhD,Married,12,23,43227,4,2,2,3,Yes,Rarely,4,41,No,50-60
+EMP2388,39,Male,Marketing,Software Engineer,High School,Married,11,24,120259,2,2,4,3,No,Rarely,4,25,No,30-39
+EMP2389,54,Male,Human Resources,Sales Executive,Master,Married,18,22,149451,2,2,1,3,Yes,Rarely,3,34,No,50-60
+EMP2390,37,Male,Human Resources,HR Executive,Bachelor,Married,13,13,42215,2,2,4,3,No,Frequently,5,9,No,30-39
+EMP2391,36,Female,Sales,Software Engineer,Bachelor,Married,6,22,155577,4,1,4,1,Yes,Rarely,4,9,No,30-39
+EMP2392,43,Male,Human Resources,Junior Analyst,Master,Married,12,17,96074,2,3,1,2,No,Rarely,1,18,No,40-49
+EMP2393,22,Female,Research & Development,Accountant,Bachelor,Single,5,5,177771,4,3,2,1,No,Rarely,1,11,No,20-29
+EMP2394,51,Male,Marketing,Sales Executive,Master,Married,18,24,133621,2,2,4,4,No,Never,4,13,No,50-60
+EMP2395,54,Male,Sales,Accountant,Bachelor,Married,18,23,168526,1,4,2,2,Yes,Rarely,2,38,Yes,50-60
+EMP2396,57,Female,Research & Development,Junior Analyst,Bachelor,Single,3,16,131759,1,2,1,2,No,Rarely,4,9,No,50-60
+EMP2397,32,Male,IT,Data Analyst,Bachelor,Married,18,19,153471,1,1,2,2,No,Frequently,2,16,No,30-39
+EMP2398,44,Male,Finance,Marketing Specialist,PhD,Divorced,8,10,46711,1,4,2,2,Yes,Rarely,0,4,No,40-49
+EMP2399,28,Female,IT,Sales Executive,Bachelor,Divorced,15,15,171131,4,1,3,3,No,Rarely,0,34,No,20-29
+EMP2400,23,Female,Finance,Accountant,Bachelor,Married,3,3,73398,3,4,3,4,No,Rarely,1,7,Yes,20-29
+EMP2401,33,Female,IT,Junior Analyst,Bachelor,Single,5,17,26286,3,4,4,2,No,Frequently,5,15,No,30-39
+EMP2402,56,Female,Human Resources,Data Analyst,Bachelor,Married,7,10,133304,1,2,3,2,Yes,Frequently,3,38,No,50-60
+EMP2403,53,Female,Research & Development,Junior Analyst,Bachelor,Single,15,17,129959,3,1,3,3,No,Frequently,5,11,No,50-60
+EMP2404,30,Male,Finance,Data Analyst,PhD,Divorced,4,22,84967,3,4,3,1,Yes,Rarely,1,32,No,30-39
+EMP2405,60,Female,Sales,Software Engineer,Bachelor,Single,20,20,122803,2,1,2,1,No,Frequently,1,27,No,50-60
+EMP2406,22,Male,Research & Development,Senior Analyst,Master,Single,9,21,154745,4,2,2,1,Yes,Rarely,5,30,Yes,20-29
+EMP2407,47,Male,Sales,Junior Analyst,High School,Married,12,12,79583,1,2,3,4,No,Rarely,3,17,Yes,40-49
+EMP2408,48,Male,Research & Development,Software Engineer,Master,Married,13,21,149077,3,2,1,1,No,Rarely,1,36,No,40-49
+EMP2409,28,Female,Research & Development,Sales Executive,PhD,Married,6,23,136359,3,2,3,2,Yes,Frequently,6,19,No,20-29
+EMP2410,22,Female,IT,Software Engineer,Bachelor,Married,19,19,52086,1,3,1,3,No,Rarely,6,7,Yes,20-29
+EMP2411,44,Male,Finance,Manager,PhD,Single,5,12,172556,2,4,2,3,No,Frequently,3,43,No,40-49
+EMP2412,53,Female,Finance,Manager,Bachelor,Single,6,22,129132,1,3,1,1,Yes,Never,1,45,Yes,50-60
+EMP2413,31,Female,Research & Development,Junior Analyst,PhD,Married,4,20,84263,2,2,2,3,No,Rarely,6,21,No,30-39
+EMP2414,28,Female,Human Resources,Accountant,Master,Single,20,20,174747,3,4,1,2,No,Rarely,0,28,No,20-29
+EMP2415,34,Female,Human Resources,Accountant,Bachelor,Married,17,17,145155,4,4,2,1,No,Rarely,2,3,No,30-39
+EMP2416,59,Male,Sales,Sales Executive,Bachelor,Married,11,11,85664,2,1,2,2,No,Rarely,1,14,No,50-60
+EMP2417,44,Male,Sales,Software Engineer,Bachelor,Married,5,7,173149,2,2,3,4,No,Rarely,2,2,No,40-49
+EMP2418,24,Female,IT,Accountant,High School,Divorced,0,16,145474,1,3,4,2,No,Never,4,29,No,20-29
+EMP2419,30,Male,Research & Development,Data Analyst,High School,Divorced,3,13,101968,3,1,4,2,No,Rarely,6,18,No,30-39
+EMP2420,53,Female,Sales,Data Analyst,High School,Divorced,18,18,159563,4,4,2,2,No,Frequently,1,37,No,50-60
+EMP2421,43,Female,Sales,Sales Executive,Bachelor,Single,11,11,159464,1,3,3,2,No,Rarely,0,45,No,40-49
+EMP2422,34,Male,Marketing,Marketing Specialist,Master,Single,14,16,92804,1,2,4,4,No,Frequently,3,45,Yes,30-39
+EMP2423,57,Male,Research & Development,Software Engineer,High School,Single,2,6,63400,4,3,4,1,No,Never,0,24,No,50-60
+EMP2424,27,Male,IT,Junior Analyst,High School,Divorced,19,19,53088,3,3,3,2,No,Frequently,2,46,Yes,20-29
+EMP2425,24,Female,Sales,HR Executive,Master,Divorced,7,13,112893,4,3,3,1,Yes,Never,3,12,Yes,20-29
+EMP2426,45,Male,IT,HR Executive,Bachelor,Divorced,10,10,30969,1,1,4,3,Yes,Rarely,0,45,Yes,40-49
+EMP2427,37,Female,Finance,HR Executive,High School,Single,15,15,33981,1,4,4,2,No,Rarely,0,32,No,30-39
+EMP2428,25,Male,IT,Accountant,Bachelor,Divorced,8,24,177104,2,3,1,2,Yes,Frequently,0,18,No,20-29
+EMP2429,56,Male,Human Resources,Marketing Specialist,PhD,Married,2,7,79091,4,4,1,3,No,Frequently,5,13,No,50-60
+EMP2430,32,Female,Human Resources,Marketing Specialist,Master,Single,4,4,132154,4,1,2,1,Yes,Never,3,4,Yes,30-39
+EMP2431,47,Female,IT,Software Engineer,Bachelor,Married,19,19,49408,4,2,4,4,Yes,Rarely,0,23,No,40-49
+EMP2432,24,Female,Human Resources,Software Engineer,Master,Single,13,13,72940,1,2,3,2,Yes,Rarely,6,10,Yes,20-29
+EMP2433,32,Female,Finance,Marketing Specialist,Bachelor,Married,14,21,28657,3,3,3,3,No,Rarely,6,5,No,30-39
+EMP2434,36,Female,Research & Development,Sales Executive,Master,Single,5,21,46230,1,1,4,3,Yes,Never,0,40,No,30-39
+EMP2435,59,Female,Human Resources,Software Engineer,Master,Married,3,16,174752,2,2,2,2,No,Never,2,14,No,50-60
+EMP2436,51,Female,Human Resources,Sales Executive,Master,Married,7,20,109731,1,1,3,1,No,Frequently,0,34,Yes,50-60
+EMP2437,48,Female,IT,Manager,Bachelor,Divorced,18,18,163939,1,1,4,1,No,Rarely,6,28,No,40-49
+EMP2438,22,Male,Finance,Data Analyst,High School,Married,4,5,29329,1,3,4,2,No,Frequently,0,8,No,20-29
+EMP2439,59,Female,Research & Development,Software Engineer,Bachelor,Married,12,18,60865,2,3,2,3,No,Frequently,4,16,No,50-60
+EMP2440,53,Female,IT,Marketing Specialist,Master,Married,15,15,62869,4,1,4,2,No,Rarely,3,31,Yes,50-60
+EMP2441,59,Male,IT,Data Analyst,Bachelor,Divorced,0,11,145185,3,1,3,4,No,Frequently,4,7,No,50-60
+EMP2442,46,Female,Marketing,Data Analyst,Master,Single,12,12,108984,3,3,1,4,No,Rarely,5,3,No,40-49
+EMP2443,32,Male,Finance,Senior Analyst,PhD,Married,10,22,150172,2,1,2,1,No,Rarely,2,29,No,30-39
+EMP2444,52,Male,Research & Development,Marketing Specialist,Bachelor,Single,20,20,126069,4,3,4,4,No,Rarely,4,36,No,50-60
+EMP2445,25,Female,Finance,Marketing Specialist,Master,Single,7,16,114711,4,4,2,3,No,Frequently,5,39,No,20-29
+EMP2446,43,Male,Research & Development,Software Engineer,Master,Married,7,13,91252,2,1,4,4,No,Frequently,1,4,No,40-49
+EMP2447,38,Female,Finance,Junior Analyst,PhD,Divorced,13,22,104386,1,3,1,2,No,Frequently,3,9,No,30-39
+EMP2448,35,Male,IT,Manager,PhD,Single,12,12,143728,4,1,2,3,Yes,Frequently,0,17,No,30-39
+EMP2449,59,Male,IT,Sales Executive,Master,Married,2,20,157783,3,3,4,1,No,Rarely,4,49,No,50-60
+EMP2450,47,Male,Sales,Junior Analyst,Bachelor,Divorced,3,16,50801,2,1,1,1,No,Frequently,4,20,No,40-49
+EMP2451,52,Female,Human Resources,Manager,Master,Divorced,19,22,115709,3,2,3,4,No,Rarely,0,14,No,50-60
+EMP2452,60,Female,Marketing,Junior Analyst,High School,Single,14,22,78270,1,2,4,1,No,Frequently,0,46,No,50-60
+EMP2453,32,Male,Finance,Sales Executive,Master,Divorced,14,16,80535,2,1,1,2,No,Rarely,2,29,No,30-39
+EMP2454,44,Male,Marketing,Accountant,PhD,Single,20,20,41220,3,2,1,3,No,Frequently,4,13,No,40-49
+EMP2455,55,Female,Sales,Marketing Specialist,Bachelor,Married,12,14,38392,3,1,2,2,No,Frequently,4,36,No,50-60
+EMP2456,46,Female,Human Resources,Junior Analyst,Master,Single,8,8,158318,1,1,4,2,No,Frequently,6,45,Yes,40-49
+EMP2457,57,Male,Finance,Software Engineer,Bachelor,Single,9,9,45010,2,4,3,2,No,Frequently,1,17,Yes,50-60
+EMP2458,26,Male,Research & Development,HR Executive,Bachelor,Married,11,14,151951,4,4,4,2,No,Rarely,6,47,Yes,20-29
+EMP2459,24,Female,Human Resources,Software Engineer,Bachelor,Married,13,16,93358,4,2,1,3,No,Frequently,5,43,No,20-29
+EMP2460,50,Female,IT,Sales Executive,Master,Single,0,23,173306,3,4,3,3,Yes,Rarely,1,4,No,50-60
+EMP2461,42,Female,Sales,Software Engineer,PhD,Single,13,20,121190,1,4,1,2,Yes,Never,6,20,Yes,40-49
+EMP2462,29,Female,Human Resources,Data Analyst,PhD,Married,13,13,140795,3,1,2,2,No,Frequently,4,11,No,20-29
+EMP2463,51,Female,Human Resources,Marketing Specialist,Bachelor,Single,7,15,147790,1,3,4,1,No,Rarely,1,42,No,50-60
+EMP2464,49,Male,IT,Data Analyst,Master,Married,15,15,150223,4,1,1,1,No,Frequently,4,22,No,40-49
+EMP2465,58,Female,Finance,Software Engineer,Master,Single,13,13,100205,3,4,1,3,Yes,Frequently,3,45,Yes,50-60
+EMP2466,50,Male,Research & Development,Manager,Bachelor,Single,0,18,177856,3,1,4,1,Yes,Never,2,8,Yes,50-60
+EMP2467,37,Female,IT,Senior Analyst,High School,Married,15,21,26082,1,2,3,3,No,Frequently,1,28,No,30-39
+EMP2468,55,Male,Research & Development,Manager,Bachelor,Married,17,17,167220,2,3,1,3,Yes,Rarely,4,45,No,50-60
+EMP2469,21,Female,Finance,Marketing Specialist,PhD,Married,6,20,100093,1,4,4,4,Yes,Rarely,1,41,No,20-29
+EMP2470,33,Female,Human Resources,Marketing Specialist,Master,Single,14,14,76952,2,4,2,3,Yes,Rarely,5,30,No,30-39
+EMP2471,32,Male,Research & Development,Data Analyst,Master,Divorced,16,16,61719,4,1,2,1,Yes,Frequently,2,33,No,30-39
+EMP2472,48,Male,Sales,Senior Analyst,Bachelor,Married,18,18,73737,3,1,4,4,No,Frequently,3,33,No,40-49
+EMP2473,31,Female,Sales,Software Engineer,Master,Single,12,22,132271,3,1,1,1,No,Rarely,0,47,No,30-39
+EMP2474,58,Female,IT,Sales Executive,High School,Married,8,22,170111,1,1,4,3,Yes,Frequently,0,36,Yes,50-60
+EMP2475,21,Female,Finance,Manager,Bachelor,Divorced,14,16,92839,1,4,4,3,Yes,Frequently,1,27,Yes,20-29
+EMP2476,51,Female,IT,Manager,Master,Single,2,24,72931,4,1,1,2,No,Rarely,4,20,No,50-60
+EMP2477,32,Female,IT,HR Executive,High School,Single,0,10,64925,4,4,3,3,No,Rarely,5,33,No,30-39
+EMP2478,46,Male,Marketing,Senior Analyst,Master,Married,15,21,112745,2,1,3,4,No,Rarely,2,25,No,40-49
+EMP2479,60,Male,IT,Sales Executive,Bachelor,Married,7,17,151298,4,3,2,3,No,Rarely,3,44,No,50-60
+EMP2480,36,Female,Marketing,Manager,Master,Married,12,12,118709,4,3,3,2,No,Rarely,3,43,No,30-39
+EMP2481,59,Male,Sales,Sales Executive,Bachelor,Single,7,18,67287,4,1,4,3,No,Rarely,6,19,Yes,50-60
+EMP2482,50,Male,Sales,Software Engineer,Bachelor,Single,16,16,132252,4,1,1,3,No,Never,3,47,No,50-60
+EMP2483,53,Male,IT,Sales Executive,High School,Married,13,21,134323,2,2,2,3,No,Rarely,0,21,No,50-60
+EMP2484,43,Female,Sales,Manager,High School,Single,20,20,37803,4,3,3,2,Yes,Rarely,2,42,No,40-49
+EMP2485,54,Male,Finance,Data Analyst,PhD,Married,20,20,143819,2,4,4,1,Yes,Rarely,6,33,No,50-60
+EMP2486,25,Female,Marketing,Senior Analyst,Bachelor,Married,6,6,118361,1,3,2,3,Yes,Rarely,0,3,Yes,20-29
+EMP2487,38,Male,Marketing,Marketing Specialist,Master,Single,14,14,38698,3,4,1,4,No,Rarely,1,14,Yes,30-39
+EMP2488,49,Female,IT,Junior Analyst,PhD,Divorced,15,15,40376,1,1,3,2,Yes,Rarely,3,15,Yes,40-49
+EMP2489,26,Male,Sales,Accountant,Bachelor,Married,18,18,38117,4,3,4,4,Yes,Frequently,2,33,Yes,20-29
+EMP2490,29,Female,Research & Development,Accountant,Bachelor,Married,5,9,73786,3,3,1,3,No,Frequently,3,42,Yes,20-29
+EMP2491,60,Female,Marketing,Junior Analyst,Master,Single,0,19,138005,4,2,4,2,No,Rarely,0,22,No,50-60
+EMP2492,51,Male,IT,Sales Executive,PhD,Single,11,13,91480,4,2,4,3,Yes,Frequently,0,1,No,50-60
+EMP2493,53,Female,IT,Senior Analyst,PhD,Married,17,17,157583,1,3,4,4,No,Rarely,0,31,No,50-60
+EMP2494,47,Female,Finance,Sales Executive,Bachelor,Single,15,15,78233,4,3,1,2,Yes,Rarely,3,47,No,40-49
+EMP2495,34,Female,Human Resources,Marketing Specialist,Master,Divorced,11,13,136022,1,3,2,1,No,Frequently,2,35,No,30-39
+EMP2496,49,Female,Human Resources,Senior Analyst,High School,Single,19,23,178574,4,4,4,1,Yes,Frequently,2,20,Yes,40-49
+EMP2497,56,Female,Marketing,Junior Analyst,PhD,Married,12,16,117529,2,1,2,1,No,Frequently,1,32,No,50-60
+EMP2498,48,Female,Finance,Sales Executive,PhD,Married,7,22,125919,3,2,2,3,Yes,Rarely,3,12,No,40-49
+EMP2499,41,Female,Finance,HR Executive,Bachelor,Married,0,5,108533,1,1,3,2,No,Never,1,16,Yes,40-49
