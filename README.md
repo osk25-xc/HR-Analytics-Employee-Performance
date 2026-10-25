@@ -1,128 +1,45 @@
-\# 📊 HR Analytics \& Employee Performance
-
-
-
-\## 📌 Project Overview
-
-
-
-This project analyzes employee data to identify factors associated with employee attrition, salary differences, job satisfaction, work-life balance, and employee performance.
-
-
-
-The project uses Python, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
-
-
-
-> Note: This project uses a synthetic dataset generated for portfolio and learning purposes.
-
-
-
-\## 🎯 Objectives
-
-
-
-\- Analyze employee attrition
-
-\- Calculate overall attrition rate
-
-\- Identify departments with high attrition
-
-\- Analyze salary distribution
-
-\- Study overtime and attrition
-
-\- Analyze job satisfaction
-
-\- Analyze work-life balance
-
-\- Compare employee performance
-
-\- Analyze experience and attrition
-
-\- Identify high-paying job roles
-
-
-
-\## 🛠️ Technologies Used
-
-
-
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook
-
-\- Git
-
-\- GitHub
-
-
-
-\## 📂 Project Structure
-
-
-
-```text
-
-HR-Analytics-Employee-Performance/
-
-│
-
-├── data/
-
-│   └── hr\_employee\_data.csv
-
-│
-
-├── notebooks/
-
-│   └── hr\_analytics.ipynb
-
-│
-
-├── visuals/
-
-│   ├── attrition\_distribution.png
-
-│   ├── attrition\_by\_department.png
-
-│   ├── attrition\_by\_gender.png
-
-│   ├── attrition\_by\_age\_group.png
-
-│   ├── attrition\_by\_job\_role.png
-
-│   ├── salary\_distribution.png
-
-│   ├── overtime\_vs\_attrition.png
-
-│   ├── satisfaction\_vs\_attrition.png
-
-│   ├── experience\_vs\_attrition.png
-
-│   ├── work\_life\_balance\_vs\_attrition.png
-
-│   ├── salary\_by\_department.png
-
-│   ├── performance\_by\_department.png
-
-│   ├── salary\_by\_job\_role.png
-
-│   └── correlation\_matrix.png
-
-│
-
-├── README.md
-
-├── requirements.txt
-
-└── .gitignore
-
+# HR Analytics | Employee Attrition & Performance
+
+A people-analytics project exploring employee attrition, compensation, satisfaction, work-life balance, and performance indicators.
+
+## Business Objective
+Use workforce data to identify patterns that HR teams could investigate when reviewing employee retention and workforce experience.
+
+## Questions Explored
+- What is the overall employee attrition rate?
+- How does attrition vary by department and job role?
+- How are overtime, experience, and satisfaction associated with attrition?
+- How do salary distributions differ across roles and departments?
+- Which patterns merit further HR investigation?
+
+## Tools
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+## Analysis Workflow
+1. Inspect dataset structure, data types, missing values, and duplicates.
+2. Summarize attrition and workforce characteristics.
+3. Compare groups by department, role, salary, overtime, satisfaction, and experience.
+4. Visualize patterns and formulate evidence-led follow-up questions.
+
+## Dataset
+This repository describes a synthetic dataset for educational and portfolio purposes. It is not actual employee data.
+
+## Outputs
+- Attrition distribution and group comparisons
+- Salary and role analysis
+- Satisfaction, overtime, and work-life-balance comparisons
+- Visual summaries to support discussion
+
+## Business Value
+The project demonstrates how workforce data can support structured HR reporting. Observed relationships should not be treated as proof of cause, and employee decisions should never rely on a single metric or group-level pattern alone.
+
+## How to Run
+1. Clone or download the repository.
+2. Install dependencies listed in `requirements.txt`, if available.
+3. Open the notebook in Jupyter and confirm the dataset path.
+
+## Skills Demonstrated
+People analytics · Data preparation · Grouped analysis · KPI calculations · Visualization · Business interpretation
+
+---
+Created by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
