@@ -1,45 +1,45 @@
 # HR Analytics | Employee Attrition & Performance
 
-A people-analytics project exploring employee attrition, compensation, satisfaction, work-life balance, and performance indicators.
+A people-analytics project exploring workforce patterns such as attrition, compensation, satisfaction, overtime, and performance indicators.
 
-## Business Objective
-Use workforce data to identify patterns that HR teams could investigate when reviewing employee retention and workforce experience.
+## Business objective
 
-## Questions Explored
-- What is the overall employee attrition rate?
+Summarize workforce data and identify patterns that HR teams may wish to investigate further. Group-level relationships should not be used as proof of cause or as the sole basis for individual employment decisions.
+
+## Questions to investigate
+
+- What is the overall attrition rate?
 - How does attrition vary by department and job role?
-- How are overtime, experience, and satisfaction associated with attrition?
-- How do salary distributions differ across roles and departments?
-- Which patterns merit further HR investigation?
-
-## Tools
-Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
-## Analysis Workflow
-1. Inspect dataset structure, data types, missing values, and duplicates.
-2. Summarize attrition and workforce characteristics.
-3. Compare groups by department, role, salary, overtime, satisfaction, and experience.
-4. Visualize patterns and formulate evidence-led follow-up questions.
+- How are overtime, tenure, and satisfaction associated with attrition?
+- How do salary distributions differ across roles?
+- Which findings require additional context or validation?
 
 ## Dataset
-This repository describes a synthetic dataset for educational and portfolio purposes. It is not actual employee data.
+
+The repository describes a practice dataset for educational and portfolio use. Confirm the data source and whether it is synthetic before presenting results.
+
+## Tools
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+## Workflow
+
+1. Inspect columns, data types, missing values, and duplicates.
+2. Validate category labels and numeric ranges.
+3. Calculate attrition metrics using a clearly defined employee population.
+4. Compare groups and visualize distributions.
+5. Explain limitations and formulate evidence-led follow-up questions.
+
+## Run
+
+Open the notebook in Jupyter, install dependencies listed in `requirements.txt` if available, and confirm dataset paths.
 
 ## Outputs
-- Attrition distribution and group comparisons
-- Salary and role analysis
-- Satisfaction, overtime, and work-life-balance comparisons
-- Visual summaries to support discussion
 
-## Business Value
-The project demonstrates how workforce data can support structured HR reporting. Observed relationships should not be treated as proof of cause, and employee decisions should never rely on a single metric or group-level pattern alone.
+Use the notebook's executed results as the source for charts and findings. Add screenshots only after confirming they match the current code and dataset.
 
-## How to Run
-1. Clone or download the repository.
-2. Install dependencies listed in `requirements.txt`, if available.
-3. Open the notebook in Jupyter and confirm the dataset path.
+## Skills demonstrated
 
-## Skills Demonstrated
-People analytics · Data preparation · Grouped analysis · KPI calculations · Visualization · Business interpretation
+People analytics · Data preparation · Grouped analysis · KPI calculations · Visualization · Responsible interpretation
 
----
-Created by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
+Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
